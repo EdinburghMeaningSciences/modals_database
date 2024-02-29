@@ -1,0 +1,72 @@
+ref,words,gloss,translation,comment
+akan-modal-1,ɛsɛsɛ         Ben        dware,MOD 	Ben	swim,Ben must be swimming,"The morphological analysis of ɛsɛsɛ according to Owusu (2014):
+Ɛ-sɛ-sɛ: expletive-fit-Comp"
+akan-modal-1b,Ɛwɔsɛ Ben dware,MOD Ben swim,Ben must be swimming,
+akan-modal-2,Ɛwɔsɛ John wɔ sukuu,MOD John be school,John must be at school,
+akan-modal-2b,Ɛsɛsɛ	John 	wɔ 	sukuu,MOD John be school,John must be at school,
+akan-modal-2c,ɛ-ho-hia John wɔ sukuu,MOD John be school,,
+akan-modal-3,Ɛsɛsɛ	ɛwɔ 	C,MOD be C,It must be in C,
+akan-modal-3b,A-gye-sɛ ɛwɔ C,MOD be C,It must be in C,"morphological analysis of ""a-gye-sɛ"":Perf-take/receive-COMP"
+akan-modal-5,Ɛsɛsɛ	Ann 	wɔ 	lake 	no 	ho 	sesei 	ara,MOD 	Ann 	be 	lake 	DET 	beside 	right 	now,Ann should be at the lake right now,
+akan-modal-5b,ɛwɔsɛ 	Ann 	wɔ 	lake 	no 	ho 	sesei 	ara,MOD	Ann	be	lake	DET	beside	right	now,Ann should be at the lake right now,
+akan-modal-6,sɛ 			ɛsɛsɛ 	nsuo 	no 	tɔ 	sesei	ara 	wɔ Goa,EXPLETIVE.PRO 	MOD 	water 	DET 	fall 	right 	now 	in   Goa,It should be raining right now in Goa,
+akan-modal-6b,sɛ 			ɛwɔsɛ 	nsuo 	no 	tɔ 	sesei 	ara 	wɔ 	Goa,EXPLETIVE.PRO	MOD	water	DET	fall	right	now	in	Goa,It should be raining right now in Goa,
+akan-modal-9,Ebia                 Grace        necklace         no         ayera,MOD		Grace 	necklace 	DET	lost ,Grace's necklace might be lost,"""Ebia"" is an adverbial"
+akan-modal-9b,Gyama                 Grace         necklace         no         ayera,MOD		Grace 	necklace 	DET	lost ,Grace's necklace might be lost,"""Gyama"" is an adverbial"
+akan-modal-9c,Ebetumi Grace necklace no ayera,MOD Grace necklace DET lost,Grace's necklace might be lost,"morphological analysis of ""ebetumi"": Ebetumi = 3sg + be + tumi"
+akan-modal-9d,Grace necklace no 	be-tumi 	ayera,Grace necklace DET FUT-MOD lost,Grace's necklace might be lost,
+akan-modal-9e,Grace necklace no 	tumi 	yera,Grace necklace DET MOD lost,,
+akan-modal-9f,"Me-hwɛ nea ɛ-re-keka kͻ yi a, ͻman yi mu tumi kyɛ","1SG-look what 3SG-PROG-say go DET, REL nation DET in MOD divide","Looking at what is going on, the nation can be divided","Owusu (2014: 66), sourcing (Adom FM 04/02/13)"
+akan-modal-9g,Nnea ͻmmo yɛ yi nyinaa tumi de ntͻkwa ba. ,what 3PL do DET all MOD take fight come,What they are doing can result in a fight.,"Owusu (2014: 66), sourcing (Adom FM 04/02/13) "
+akan-modal-7pa,Ebetumi 		aba 		sɛ 	Mary 	eni 	efie,MOD happen COMP Mary not home,It may be that Mary is not home,
+akan-modal-7pb,Ebia Mary 	eni 	efie,MOD Mary not home,Mary may not be home,
+akan-modal-1p,Enti 	Ben	n-tumi 		n-wɔ 	efie,So Ben NEG-MOD NEG-be home,Ben can't be at home,"Neg semantically scopes over ""tumi"". Comment by a native external reviewer: ""he sentence is odd because the negated form of the main verb is incorrect. And the sentence also sounds very non-native."""
+akan-modal-3p,Enti         ɛ-n-sɛ-sɛ                 ɛwɔ         C,So MOD be C,It must not be C,"Morphological analysis of ""ɛ-n-sɛ-sɛ"": pro-Neg-Verb-Comp"
+akan-modal-3pb,Enti 	ɛ-n-sɛ-sɛ 		ɛ-n-wɔ 	C,So MOD NEG-be C,,ungrammatical regardless of context
+akan-modal-3pc,Enti	e-n-tumi 	n-wɔ C,So MOD NEG-be C,So it can't be in C,"Neg semantically scopes over ""tumi"""
+akan-modal-12,ɛsɛsɛ 	wo 	hyɛ 	helmet,MOD you wear helmet,You must wear a helmet,
+akan-modal-12b,ɛwɔsɛ         wo         hyɛ         helmet,MOD you wear helmet,You must wear a helmet,
+akan-modal-12c,Ɛ-ho-hia wo         hyɛ         helmet,MOD you wear helmet,You must wear a helmet,
+akan-modal-12d,A-gye-sɛ wo         hyɛ         helmet,MOD you wear helmet,,ungrammatical
+akan-modal-13,ɛsɛsɛ 	visitor 	biara 	firi 	ɛha 	6pm,MOD         visitor         every         leave         here         6,Visitors must leave by 6pm,
+akan-modal-13b,ɛwɔsɛ 	visitor 	biara	firi 	ɛha 	6pm,MOD         visitor         every         leave         here         6,Visitors must leave by 6pm,
+akan-modal-16,Ɛsɛsɛ         me-hyɛ                 ataade         papa,MOD 	1SG-wear 	dress 	good,I ought to dress well,
+akan-modal-16b,Ɛwɔsɛ me-hyɛ                 ataade         papa,MOD 	1SG-wear 	dress 	good,I ought to dress well,
+akan-modal-20,Wo	be-tumi 	awuramu,You 	FUT-MOD 	enter,You may enter,"""be"" is a future marker, but may not have the meaning of future tense in this sentence"
+akan-modal-20b,wo	tumi 	awuramu,You MOD enter,,"ungrammatical as an assertion; with a rising tone in the final vowel, it can work as a question “are you allowed to enter?”"
+akan-modal-23,Beth	be-tumi 	a-kɔ 		dware 	nsuo 	mu,Beth 	FUT-MOD 	PERF-go 	bathe	water 	in,Beth is allowed to go swimming,
+akan-modal-23b,Beth 	wɔ 	hokwan 	sɛ 	o-dware 	nsuo 	mu,Beth         have         permission         COMP         pro-bathe        water         in,Beth has permission to bathe in water,
+akan-modal-16p,"ɛwɔsɛ me-hyɛ ataadeɛ papa, nanso ɛnsɛsɛ me-hyɛ ataadeɛ papa","MOD 1SG-wear dress good, but MOD 1SG-wear dress good",I should wear good clothes but I don’t have to,The second clause also has the reading “I must not wear good clothes” (would be odd in conjunction with the first clause)
+akan-modal-16pb,"ɛwɔsɛ me-hyɛ ataadeɛ papa, nanso ɛ-ho-n-hia sɛ me-hyɛ ataadeɛ papa","MOD 1SG-wear dress good, but MOD COMP 1SG-wear dress good",I should wear good clothes but I don’t have to,More natural than akan-modal-16pb
+akan-modal-16pc,"ɛsɛsɛ me-hyɛ ataade papa, nanso ɛnwosɛ me-hyɛ ataade papa","MOD 1SG-wear dress good, but MOD 1SG-wear dress good",,Initial reaction: this is slightly unnatural
+akan-modal-16pd,"Me-pɛsɛ mehyɛ ataade papa, nanso ɛnwsɛ me-hyɛ ataade papa","1sg-want 1SG-wear dress good, but MOD 1SG-wear dress good",I want to wear formal clothes but I don't have to,
+akan-modal-12p,Ɛnsɛsɛ                 wo         twi motor bike berɛ a wo-n-hyɛ helmet,MOD-NEG you drive motor bike ? ? you-NEG-wear helmet,You must not ride a helmet without a helmet,
+akan-modal-12pb,Ɛnwɔsɛ wo         twi motor bike berɛ a wo-n-hyɛ helmet,MOD-NEG you drive motor bike ? ? you-NEG-wear helmet,You must not ride a helmet without a helmet,
+akan-modal-12pc,Wo 	ntumi 		ntwi 		motor bike berɛ a wonhyɛ helmet,You         Neg.MOD         Neg.drive motor bike ? ? you-NEG-wear helmet,You must not ride a helmet without a helmet,
+akan-modal-24,ɛwɔsɛ  wo  fa  kwan  wie  so,MOD  you  take  road  this  on,You HAVE TO take this road,preferred
+akan-modal-24b,Ɛsɛsɛ wo  fa  kwan  wie  so,MOD  you  take  road  this  on,You have to take this road,infelicitous
+akan-modal-24c,ɛ-ho-hia wo  fa  kwan  wie  so,MOD  you  take  road  this  on,You have to take this road,incorrect (not additionally labeled ungrammatical/ contradictory/etc)
+akan-modal-25,ɛwɔsɛ...,???,Team A HAS TO beat team B,consultant preference
+akan-modal-25b,Ɛsɛsɛ,???,Team A HAS TO beat team B,"consultant dispreference, but possible idio/regional variation"
+akan-modal-27,ɛwɔsɛ  wo  fa  bus  no,MOD  you  take  bus  DET,You SHOULD take the bus,preferred
+akan-modal-27b,Ɛsɛsɛ wo  fa  bus  no,MOD  you  take  bus  DET,You SHOULD take the bus,dispreferred
+akan-modal-30,Wo (be)-tumi afa  (ɛ)kwan  1  no  so,You (FUT)-MOD  take  road   1 DET  on,You CAN take road 1,
+akan-modal-27p,"ɛwɔsɛ         wo         fa        bus         no,         nanso         ɛnwɔ                 wo         fa         bus         no","MOD         you         take        bus         DET, but                 pro-self-Neg-need         you        FUT-take         bus         DET",You DON'T NEED TO take the bus,infelicitous
+akan-modal-27pb,"ɛwɔsɛ wo fa bus no, nanso  ɛ-ho-n-hia   sɛ  wo  bɛ-fa  bus  no","MOD         you         take        bus         DET, but                 pro-self-Neg-need        Comp         you        FUT-take         bus         DET",You DON'T NEED TO take the bus,
+akan-modal-24p,Wo  n-tumi   (ɛ)n.fa   kwan  foforɔ   so,you  neg.MOD  neg.take  road  different  on,You CAN'T take a different road,
+akan-modal-24pb,Ɛnsɛsɛ wo fa kwan foforɔ so,MOD you take road different on,You CAN'T take a different road,
+akan-modal-24pc,Ɛnwɔsɛ wo fa kwan foforɔ so,MOD you take road different on,You CAN'T take a different road,
+akan-modal-34,Mepawokyɛw         ɛwɔsɛ         me         wansi,please   MOD  1sg  sneeze,I HAVE TO sneeze,
+akan-modal-34b,Mepawokyɛw         ɛsɛsɛ         me         wansi,please   MOD  1sg  sneeze,I HAVE TO sneeze,
+akan-modal-34c,Mepawokyɛw         ɛ-ho-hia         me         wansi,please   MOD  1sg  sneeze,I HAVE TO sneeze,incorrect
+akan-modal-35,Ɛwɔsɛ  nsuo  no  firi  nifa(so)  ɛ-ba,Mod  water  DET from  right.side  pro-come,The water MUST come out of the right side,preferred
+akan-modal-35a,Ɛsɛsɛ nsuo no firi nifa na ɛ-ba,???,The water MUST come out of the right side,
+akan-modal-36,Duku trees  be-tumi  a-fifi   wɔ  (ɛ)ha,Duku Trees FUT-MOD  Perf-grow  Loc  here,Duku trees CAN grow here,
+akan-modal-37,Amy  be-tumi  a-yɛ,Amy FUT-MOD PRF-do/make,Amy CAN make,
+akan-modal-37b,Amy tumi yɛ,Amy MOD do/make,Amy CAN make,
+akan-modal-40,Travel  vans  be-tumi  a-fa   nipa  aduonu,Travel vans FUT-MOD 	PERF-take 	people 	twenty,Travel vans CAN fit 20 people,[be-tumi a-V] alternates with [tumi V]
+akan-modal-44,E-be-tumi  nanso  me  n-gyeni   sɛ  e-be-tumi  asi,pro-Fut-MOD  but  1sg  Neg-certain  Comp  pro-Fut-can  happen,The volcano is LIKELY BUT NOT CERTAIN to erupt,reviewer could not understand consultant's translation. Using  ɛnwɔsɛ or ɛnsɛsɛ in the second clause is contradictory
+akan-modal-35p,Nsuo  no  n-tumi   n-firi   benkumso  ɛ-m-ba,Water  Det  Neg-MOD  Neg-from  leftside   Neg.come,The water CAN'T come from the left side.,
+akan-modal-41,Me  pɛsɛ  me  tɔ,1SG  want  1sg  buy,I WANT to buy it,
+akan-modal-41b,ɛsɛsɛ me tɔ,MOD 1SG buy,I NEED TO buy it,
+akan-modal-41c,ɛwɔsɛ me tɔ,MOD 1SG buy,I NEED TO buy it,
