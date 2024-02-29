@@ -1,0 +1,119 @@
+ref,context,words,gloss,translation,comment
+yue-modal-1,epi-nec-1,Ben   (jiga)  jatding  (hai3)  jau - gan - soei,Ben  (now)   definitely  (COP) swim - PROG - water,Ben must be swimming (right now),
+yue-modal-2,epi-nec-2,John  (jiga)  jatding (hai3) hai2   hok3haau6,John  (now)  definitely (COP) LOC school,John must be at school,
+yue-modal-3,epi-nec-3,Go  bo  jatding   hai3  hai2  box  C,CLF  ball  definitely  COP  LOC  box  C,it must be in C,copula is optional but preferred; clf = classifier
+yue-modal-4,epi-nec-4,Zek  gou  jatding  m  hai2  gaan  uk  japmin,CLF  dog  definitely  NEG  LOC  CLF  house  inside,,
+yue-modal-4b,epi-nec-4,Zek  gou  jinggoi  m  hai2  gaan  uk  japmin,CLF  dog  MOD  NEG  LOC  CLF  house  inside,the dog must not be in the house,
+yue-modal-5,epi-wn-1,Ann  jinggoi  hai2  go  wu  dou,Ann  should  LOC  CLF  lake  place,Ann should be at the lake right now,
+yue-modal-6,epi-wn-2,Goa  jiga  jinggoi  lok- gan - ju,Goa  now  should  to.rain/PROG,it should be raining now in Goa,copula dispreferred
+yue-modal-7,epi-wn-3,Mary  jinggoi  hai2  ukkei,Mary  should  LOC  home,Mary should be at home,
+yue-modal-8,epi-pos-1,Koei  jinggoi  lai  ge2,3SG  should   come  GE,He might be coming to school today,GE = sentence final particle indicating uncertainty
+yue-modal-8b,epi-pos-1,Koei jinggoi lai,3SG  should   come,He might be coming to school today,"too strong, more like WN"
+yue-modal-8c,epi-pos-1,Koei lai ge2,3SG come GE,He might be coming to school today,supposition != possibility
+yue-modal-8d,epi-pos-1,Koei  jau  honang  lai,3SG have possibility come,"Like ""He could come, you never know""",dissents with proposition
+yue-modal-9,epi-pos-2,Grace  jinggoi  m  gin  zo  tiu  geng-lin,Grace  should  NEG  see  PFT  CLF  neck-lace,Grace’s necklace might be lost,
+yue-modal-9b,epi-pos-2,Grace  (jau)  honang  m  gin  zo  tiu  geng-lin,Grace  have  possibility  NEG  see  PFT  CLF  neck-lace,Grace’s necklace might be lost,
+yue-modal-9c,epi-pos-2,Grace jinggoi m gin zo tiu geng-lin ge2,Grace MOD NEG see PFT CLF neck-lace GE,Grace’s necklace might be lost,
+yue-modal-9d,epi-pos-2,Grace  jau  honang m  gin  zo  tiu  geng-lin ge2,Grace have possibility NEG see PFT CLF neck-lace GE,Grace’s necklace might be lost,dissents with proposition
+yue-modal-10,epi-pos-3,"Zek  maau  (jau)  honang  hai2  japmin, dou  jau  honang hai coetmin","Clf  cat  have  possibility  LOC  inside, also  have  possibility LOC outside",,
+yue-modal-10b,epi-pos-3,"Zek maau jinggoi hai japmin, dou jinggoi hai coetmin","CLF cat MOD LOC inside, also MOD LOC outside",The cat may be inside. The cat may also be outside,dual modal is contradictory
+yue-modal-10c,epi-pos-3,"Zek maau (jau) honang hai2 japmin ge2, dou jau honang hai coetmin ge2","Clf  cat  have  possibility  LOC  inside GE, also  have  possibility LOC outside GE",,
+yue-modal-11,epi-pos-4,Daniel  jinggoi  wui  hoei  New  York,Daniel  should  will  go  New  York,Daniel might go to New York,
+yue-modal-11b,epi-pos-4,Daniel  jau  honang  wui  hoei  NY,Daniel have possibility  will goi  NY,Daniel might go to New York,"still corresponds to ""might"" but less certain than (11)"
+yue-modal-11c,epi-pos-4,...ge2,GE,Daniel might go to New York,dissents with proposition
+yue-modal-7p,epi-nn-1,Mary  jau  honang  m  hai2  ukkei,Mary  have  possibility  not  LOC  home,Mary may not be at home,
+yue-modal-7pb,epi-nn-1,Mary  jingoi  m  hai  ukkei,Mary MOD  neg LOC house,Mary may not be at home,
+yue-modal-7pc,epi-nn1,Mary m sai / soeijiu hai ukkei,Mary NEG MOD LOC house,Mary doesn't need to be at home,Circ NN
+yue-modal-1p,epi-imp-1,Ben  mou   honang  hai  ukkei,Ben  not.have  possibility  LOC  home,Ben can’t be at home,more certain
+yue-modal-1pb,epi-imp-1,Ben  jinggoi  m  hai2  ukkei,Ben  MOD NEG LOC home,Ben can’t be at home,less certain
+yue-modal-3p,epi-imp-2,Go  bo  mou   honang  hai2  box C,CLF ball not.have possibility LOC box C,it can’t be in C,
+yue-modal-3pb,epi-imp-2,Go  bo  m  wui  hai2  box C,CLF  ball  NEG  will  LOC  box C,it can’t be in C,
+yue-modal-12,deo-nec-1,Nei  jatding   jiu   daai  taukwai,2SG  definitely  have.to wear  helmet,You must wear a helmet,"more ""legal"""
+yue-modal-12b,deo-nec-1,Nei  jiu  daai  taukwai,2SG have.to wear helmet,You must wear a helmet,
+yue-modal-13,deo-nec-2,Fonghaak  luk  dim  cin  (jatding)  jiu  zau,Visitor   six  o-clock  before  (definitely)  mod  leave,Visitors must leave by 6pm,
+yue-modal-16,deo-wn-1,Ngo  wui  soeng  zoek  formal  wear,1SG  will  want.to  wear  formal  wear,I ought to wear formal clothes,
+yue-modal-16b,deo-wn-1,Ngo  jinggoi  jiu  zoek  formal  wear  (ge2… ),1SG  should  mod  wear  formal wear (GE…),I ought to wear formal clothes,dissents with proposition
+yue-modal-17,deo-wn-2,Sikhaak  dou  jiu  sai  sau  ga!,Customers  also  MOD  wash  hand PRT,Non-employees ought to wash their hands,
+yue-modal-17b,deo-wn-2,Sikhaak  dou  jinggoi  sai  sau,Customers  also  MOD wash  hand,Non-employees ought to wash their hands,
+yue-modal-17c,deo-wn-2,...ge2,GE,Non-employees ought to wash their hands,
+yue-modal-18,deo-wn-3,Ngo  jinggoi  jiu  daai  hauzaau,1SG  should  mod  wear  face.covering,I ought to wear a face covering,
+yue-modal-18b,deo-wn-3,Ngo  jinggoi  daai  hauzaau,1SG should wear face.covering,I ought to wear a face covering,preferred
+yue-modal-18c,deo-wn-3,Ngo jiu daai hauzaau,1SG MOD wear face.covering,I ought to wear a face covering,
+yue-modal-19,deo-pos-1,Martin  hoji  waan  motinlun,Martin  can  play  ferris.wheel,Martin may ride the ferris wheel,
+yue-modal-20,deo-pos-2,Nei  hoji  japlai,1SG MOD enter,You may enter,
+yue-modal-20b,deo-pos-2,Ngo  bei  nei  japlai  la,1SG  give  2SG  enter  PRT,You may enter,
+yue-modal-20c,deo-pos-2,Gaan  jijun   bei  nei  jap,CLF  hospital give  2SG  enter,You may enter,"explicit permission, maybe not modal"
+yue-modal-21,deo-pos-3,"Nei  hoji  lau  hai2  dou  fan,  nei  dou  hoji  faan  ukkei","2SG  can  stay  LOC  here  sleep,  2SG  also  can  return  home",You can stay overnight or you can go home,
+yue-modal-21b,deo-pos-3,Ngo bei nei lau hai2 dou fan,1SG give 2SG stay LOC also return,You can stay overnight or you can go home,"explicit permission, maybe not modal"
+yue-modal-22,deo-pos-4,Alice  hoji  pou  hei  koei  go  bibi,Alice  MOD  lift  up  3sg  clf baby,Alice can lift her baby,
+yue-modal-22b,deo-pos-4,Alice pou  dak   hei  koei  go  bibi,Alice  lift  MOD  up  3SG  CLF  baby,Alice can lift her baby,
+yue-modal-23,deo-pos-5,Beth  hoji  hoei  jausoei,Beth  MOD  go  swimming,Beth can go swimming,
+yue-modal-23b,deo-pos-5,Go lousi bei Beth hoei jausoei,Clf teacher give Beth go swimming,Beth can go swimming,"explicit permission, maybe not modal"
+yue-modal-16p,deo-nn-1,Ngo  m  sai  zoek  formal  clothes,1SG  NEG  MOD  wear formal clothes,I don’t have to / needn’t wear formal clothes,
+yue-modal-16pb,deo-nn-1,Ngo  m  soeijiu  zoek  formal  clothes,1SG  NEG  MOD  wear formal clothes,I don’t have to / needn’t wear formal clothes,more formal
+yue-modal-16pc,deo-nn-1,Ngo sai zoek formal clothes,1SG  MOD  wear formal clothes,I don’t have to / needn’t wear formal clothes,sai must occur with overt negation (NPI)
+yue-modal-18p,deo-nn-2,Ngo  m  sai  daai  hauzaau,1sg NEG MOD wear face.mask,I don’t have to / needn’t wear a face covering,
+yue-modal-18pb,deo-nn-2,Ngo  m  soeijiu  daai  hauzaau,1sg NEG MOD wear face.mask,I don’t have to / needn’t wear a face covering,
+yue-modal-18pc,deo-nn-2,Ngo m jatding daai hauzaau,1sg NEG definitely MOD wear face.mask,I don’t have to / needn’t wear a face covering,
+yue-modal-18pd,deo-nn-2,Ngo m jiu daai hauzaau,1sg NEG MOD wear face.mask,I don’t have to / needn’t wear a face covering,refusal
+yue-modal-12p,deo-imp-1,Nei  mou   daai  taukwai zau   m  hoji  za  din.daance,2SG  not.have wear  helmet   then  NEG  MOD  drive  motorbike,You mustn’t ride a motor bike without a helmet,
+yue-modal-13p,deo-imp-2,Fonghaak  luk  dim   hau  m  hoji  lau  hai2  dou,Visitor   six o-clock after  NEG  MOD  stay  LOC  here,Visitors mustn’t stay after 6pm,
+yue-modal-13pb,deo-imp-2,M sai,NEG MOD,Visitors mustn’t stay after 6pm,
+yue-modal-24,tel-nec-1,Nei  jatding   jiu  haang  ni  tiu  lou,2SG  definitely MOD  walk  this  CLF  road,you have to take this road,
+yue-modal-24b,tel-nec-1,Nei jiu hang ni tiu lou,2SG MOD walk this CLF road,you have to take this road,
+yue-modal-25,tel-nec-2,Team A   (jatding)  jiu  da  jeng  Team B  sin,Team A  definitely MOD  play  win  Team B first,Team A has to beat Team B,
+yue-modal-26,tel-nec-3,Ngo-dei (jatding)  jiu  hai2  Gino’s  dou  maai  pizza,1PL   (definitely) MOD  LOC  Gino’s  place  buy  pizza,We have to order from Gino’s,la PRT used in suggestions
+yue-modal-27,tel-wn-1,Nei  daap  baasi  la,2SG  take bus  prt,you should take the bus,
+yue-modal-27b,tel-wn-1,Nei  jinggoi   daap  baasi,2sg  MOD  take bus,you should take the bus,
+yue-modal-27c,tel-wn-1,Nei hoji taap baasi (la),2SG MOD take bus PRT,you should take the bus,implies selection from options
+yue-modal-28,tel-wn-2,Nei  haang  siu  lou  la,2SG  walk  small  road  prt,you should go via the smaller roads,
+yue-modal-28b,tel-wn-2,Nei  jinggoi  haang  siu  lou,2SG MOD walk small road,you should go via the smaller roads,
+yue-modal-29,tel-wn-3,Nei  hoji  hoei  ngo  gaan  poutau,2SG  MOD  go  1SG  CLF  shop,You should go to my shop,jinggoi infelicitious for politeness reasons
+yue-modal-29b,tel-wn-3,Nei hoei  ngo  gaan  poutau  la,2SG go 1SG clf shop prt,You should go to my shop,
+yue-modal-30,tel-pos-1,Nei  hoji  haang  way 1,2sg  mod  walk way 1,you can take way 1,
+yue-modal-31,tel-pos-2,Ngodei   hoji  hoei  sai  min  go  go  wingci,1pl   MOD  go  west side  that  clf  swimming.pool,We can go to the swimming pool to the west,
+yue-modal-32,tel-pos-3,hoji,MOD,You can go to this boutique,
+yue-modal-27p,tel-nn-1,Nei  m  jatding   jiu  daap  baasi,2SG  NEG  definitely MOD take bus,you don’t need to / needn’t take the bus,
+yue-modal-27pb,tel-nn-1,Nei m jatding daap baasi,2SG NEG definitely take bus,you don’t need to / needn’t take the bus,more about likely outcomes rather than suggestion
+yue-modal-24p,tel-imp-1,Nei  mou   ling  jat  tiu  lou  hoji  haang,2SG  not.have other  one  clf  road  mod  walk,you can’t take another road,
+yue-modal-24pb,tel-imp-1,Nei m hoji haang ling jat tiu lou,2SG NEG MOD walk other one CLF road,you can’t take another road,
+yue-modal-25p,tel-imp-2,Team A  m  hoji  syu  bei  Team B,Team A NEG  MOD  lose  give  Team B,Team A can’t lose to Team B,
+yue-modal-33,cir-nec-1,Ngo  hou  soeijiu  hoei  ciso,1SG very MOD go toilet,I have to go to the toilet,
+yue-modal-33b,cir-nec-1,Ngo jiu hoei ciso,1SG MOD go toilet,I have to go to the toilet,"more ""need to"" than ""have to"""
+yue-modal-34,cir-nec-2,Ngo  jiu  da  hatci,1SG  MOD  do  sneeze,I have to sneeze,
+yue-modal-34b,cir-nec-2,Ngo  soeijiu  da  hatci,1SG MOD do sneeze,I have to sneeze,
+yue-modal-35,cir-nec-3,Di  soei  zi  hoji  hai2  jau  bin  coet,Clf water  only  MOD  LOC  right  side  exit,the water must come out from the right output,
+yue-modal-35b,cir-nec-4,Di soei jiu hai2 jau bin coet,CLF water MOD LOC right side exit,the water must come out from the right output,
+yue-modal-35c,cir-nec-5,Di soei soeijiu hai2 jau bin coet,CLF water MOD LOC right side exit,the water must come out from the right output,
+yue-modal-35d,cir-nec-6,Di soei hoji hai2 jau bin coet,CLF water MOD LOC right side exit,the water must come out from the right output,
+yue-modal-36,cir-pos-1,Duku  trees  jinggoi  hoji  hai2  ni  dou  sangzoeng,Duku  trees  mod  mod  LOC  this place  grow,duku trees can grow here,more deontic
+yue-modal-36b,cir-pos-1,Duku trees jinggoi hai2 ni dou sangzoeng,Duku trees MOD LOC this place grow,duku trees can grow here,
+yue-modal-36c,cir-pos-1,Duku  trees  hoji  hai2  ni  dou  sangzoeng,Duku  trees  MOD  loc  this  place  grow,duku trees can grow here,
+yue-modal-36d,cir-pos-1,Duku  trees  hai2  ni  dou6  sangzoeng  dou2,Duku  trees  LOC  this place  grow   MOD,duku trees can grow here,
+yue-modal-36e,cir-pos-1,Duku  trees  hai2  ni  dou6  jinggoi   sangzoeng  dou2,Duku  trees  LOC  this  place MOD   grow   MOD,duku trees can grow here,
+yue-modal-36f,cir-pos-1,Duku trees sangzoeng dou6 hai2 ni dou2,Duku trees grow place LOC this MOD,duku trees can grow here,
+yue-modal-37,cir-pos-2,Amy  sik  zing  cyuntong  jidaailei  pasta,Amy  know  make  traditional  Italian   pasta,Amy can make traditional Italian pasta,
+yue-modal-37b,cir-pos-2,Amy  jinggoi   zing  dou  cyuntong  jidaailei  pasta,Amy  mod   make  able  traditional  Italian   pasta,Amy can make traditional Italian pasta,
+yue-modal-37c,cir-pos-2,Amy  zing  dou  cyuntong  jidaailei  pasta,Amy  make  able  traditional  italian   pasta,Amy can make traditional Italian pasta,preferred
+yue-modal-38,cir-pos-3,Ben  jiga  haang  dou2,Ben  now  walk  able,Ben can walk now,
+yue-modal-39,cir-pos-4,Paul  lik  dak  hei  gau  sek,Paul  lift  DAK  up  clf  rock,Paul can lift that rock,
+yue-modal-39b,cir-pos-4,Paul  lik  dou  (hei)  gau  sek,Paul  lift  able  (up)  clf  rock,Paul can lift that rock,
+yue-modal-40,cir-pos-5,Travel  vans  zoei  dou  jisap  jan,Travel  vans  carry  able  twenty  person,Travel vans can fit 20 people,
+yue-modal-44,cir-nn-1,Go  fosaan  m  jatding   wui  baaufaat,Clf  volcano NEG  definitely  will  erupt,The volcano is likely but not certain to erupt,
+yue-modal-34p,cir-imp-1,Ben  haang  m  dou,Ben  walk  NEG able,Ben can't walk,
+yue-modal-34pb,cir-imp-1,Ben mou dak haang,Ben NEG DAK walk,Ben can't walk,participant-external
+yue-modal-34pc,cir-imp-1,Ben  m  hoji  haang,Ben  NEG MOD walk,Ben can't walk,
+yue-modal-35p,cir-imp-2,Di  soei  mou   dak  hai2  zo  bin  coet,Clf  water not.have able  LOC  left  side exit,the water can’t come out from the left output,
+yue-modal-35pb,cir-imp-2,Di  soei  coet  m  dou,Clf  water  exist  NEG  MOD,the water can’t come out from the left output,
+yue-modal-35pc,cir-imp-2,di soei hai zo bin coet m dou,CLF water LOC left side exit NEG MOD,the water can’t come out from the left output,clumsy
+yue-modal-36p,cir-imp-3,Duku  trees  hai2  dou6  sangzoeng  m  dou,Duku  trees LOC  place grow  NEG MOD,duku trees can’t grow here,
+yue-modal-36pb,cir-imp-3,Duku  trees  m  hoji  hai2  dou  sangzoeng,Duku trees NEG MOD LOC place grow,duku trees can’t grow here,
+yue-modal-36pc,cir-imp-3,Duku trees mou dak hai2 dou6 sangzoeng,Duku trees NEG DAK LOC MOD grow,duku trees can’t grow here,circ reading cannot be coerced
+yue-modal-41,bou-nec-1,Ngo  jatding   wui  maai,1sg  definitely  will  buy,I must buy it,
+yue-modal-41b,bou-nec-1,Mou  dak  m  maai,Not.have  MOD  neg  buy,I must buy it,preferred
+yue-modal-41c,bou-nec-1,Ngo  jatding   jiu  maai,1sg definitely MOD buy,I must buy it,"hyperbolic, childlike"
+yue-modal-41d,bou-nec-1,Ngo  soeng  maai,1SG want buy,I must buy it,
+yue-modal-42,bou-nec-2,Ngo  wui  hoei  heijyun,1sg  will  go  cinema,I must go to the cinema,
+yue-modal-42b,bou-nec-2,Ngo  wui  soeng  hoei  heijyun,1sg  will  WANT go  cinema,I must go to the cinema,
+yue-modal-42c,bou-nec-2,Ngo  jatding   jiu  tai  tou  hei,1sg  definitely  MOD  watch  clf  movie,I must go to the cinema,
+yue-modal-43,bou-nec-3,Ngo  di  pangjau  soeng  lai  taam  ngo,1sg  clf  friend   want  come visit  me,My friend wants to come visit me,
