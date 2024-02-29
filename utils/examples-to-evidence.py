@@ -25,7 +25,7 @@ def write_evidence_file(f):
         elif sent[0] == '*':
             judgments.append(('ungrammatical', ''))
         elif sent[0] == '?':
-            judgments.append(('felicitous', 'marginal felicity'))
+            judgments.append(('felicitous', 'marginal'))
         else:
             judgments.append(('felicitous', ''))
 
