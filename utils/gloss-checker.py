@@ -10,9 +10,6 @@ def gloss_word_checker(fname):
     lang['words'] = lang['words'].str.replace('\t', ' ')
     lang['gloss'] = lang['gloss'].str.replace('\t', ' ')
  
-    lang['words'] = lang['words'].str.replace('\t', ' ')
-    lang['gloss'] = lang['gloss'].str.replace('\t', ' ')
- 
     word_lens = [len(wordlst.split()) for wordlst in list(lang['words'])]
     gloss_lens = [len(glosslst.split()) for glosslst in list(lang['gloss'])]
  
