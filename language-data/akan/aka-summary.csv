@@ -1,32 +1,32 @@
 expression,force,flavor,can_express,evidence,polarity,syntactically_negated,full_form,notes,index
-ɛsɛsɛ,strong,epistemic,1,"akan-modal-evid1, 2b, 3",positive,no,ɛsɛsɛ,,1
-ɛsɛsɛ,weak necessity,epistemic,1,"akan-modal-evid5, akan-modal-evid6",positive,no,ɛsɛsɛ,,2
+ɛsɛsɛ,strong,epistemic,1,"aka-modal-evid1, 2b, 3",positive,no,ɛsɛsɛ,,1
+ɛsɛsɛ,weak necessity,epistemic,1,"aka-modal-evid5, aka-modal-evid6",positive,no,ɛsɛsɛ,,2
 ɛsɛsɛ,weak,epistemic,?,,positive,no,ɛsɛsɛ,,3
-ɛsɛsɛ,strong,deontic,1,"akan-modal-evid12, akan-modal-evid13",positive,no,ɛsɛsɛ,,4
-ɛsɛsɛ,weak necessity,deontic,1,akan-modal-evid16,positive,no,ɛsɛsɛ,,5
+ɛsɛsɛ,strong,deontic,1,"aka-modal-evid12, aka-modal-evid13",positive,no,ɛsɛsɛ,,4
+ɛsɛsɛ,weak necessity,deontic,1,aka-modal-evid16,positive,no,ɛsɛsɛ,,5
 ɛsɛsɛ,weak,deontic,?,,positive,no,ɛsɛsɛ,,6
 ɛsɛsɛ,strong,teleological,?,,positive,no,ɛsɛsɛ,this is marginally acceptable according to consultant,7
 ɛsɛsɛ,weak necessity,teleological,?,,positive,no,ɛsɛsɛ,,8
 ɛsɛsɛ,weak,teleological,?,,positive,no,ɛsɛsɛ,,9
-ɛsɛsɛ,strong,circumstantial,1,akan-modal-evid35,positive,no,ɛsɛsɛ,ɛwɔsɛ is preferred but ɛsɛsɛ is accpetable as well,10
+ɛsɛsɛ,strong,circumstantial,1,aka-modal-evid35,positive,no,ɛsɛsɛ,ɛwɔsɛ is preferred but ɛsɛsɛ is accpetable as well,10
 ɛsɛsɛ,weak,circumstantial,?,,positive,no,ɛsɛsɛ,,11
-ɛsɛsɛ,strong,bouletic,1,akan-modal-evid41b,positive,no,ɛsɛsɛ,,12
-ɛsɛsɛ,strong,epistemic,1,akan-modal-evid3p,negative,low,ɛnsɛsɛ,n is negation,13
+ɛsɛsɛ,strong,bouletic,1,aka-modal-evid41b,positive,no,ɛsɛsɛ,,12
+ɛsɛsɛ,strong,epistemic,1,aka-modal-evid3p,negative,low,ɛnsɛsɛ,n is negation,13
 ɛsɛsɛ,weak necessity,epistemic,?,,negative,,,,14
 ɛsɛsɛ,weak,epistemic,?,,negative,,,,15
-ɛsɛsɛ,strong,deontic,1,akan-modal-evid16pc,negative,low,ɛnsɛsɛ,"it is hard to tell from note the scope of negation, but from the semantics of words it seems like the negation scopes lower",16
+ɛsɛsɛ,strong,deontic,1,aka-modal-evid16pc,negative,low,ɛnsɛsɛ,"it is hard to tell from note the scope of negation, but from the semantics of words it seems like the negation scopes lower",16
 ɛsɛsɛ,weak necessity,deontic,?,,negative,,,,17
 ɛsɛsɛ,weak,deontic,?,,negative,,,,18
-ɛsɛsɛ,strong,teleological,1,akan-modal-evid24pb,negative,low,ɛnsɛsɛ,"it is hard to tell from note the scope of negation, but from the semantics of words it seems like the negation scopes lower",19
+ɛsɛsɛ,strong,teleological,1,aka-modal-evid24pb,negative,low,ɛnsɛsɛ,"it is hard to tell from note the scope of negation, but from the semantics of words it seems like the negation scopes lower",19
 ɛsɛsɛ,weak necessity,teleological,?,,negative,,,,20
 ɛsɛsɛ,weak,teleological,?,,negative,,,,21
 ɛsɛsɛ,strong,circumstantial,?,,negative,,,,22
 ɛsɛsɛ,weak,circumstantial,?,,negative,,,,23
 ɛsɛsɛ,strong,bouletic,?,,negative,,,,24
-a-gye-sɛ,strong,epistemic,1,akan-modal-evid3b,positive,no,a-gye-sɛ,it is not clear that the expression is only limited to strong epistemic,25
+a-gye-sɛ,strong,epistemic,1,aka-modal-evid3b,positive,no,a-gye-sɛ,it is not clear that the expression is only limited to strong epistemic,25
 a-gye-sɛ,weak necessity,epistemic,?,,positive,no,a-gye-sɛ,,26
 a-gye-sɛ,weak,epistemic,?,,positive,no,a-gye-sɛ,,27
-a-gye-sɛ,strong,deontic,0,akan-modal-evid12d,positive,no,a-gye-sɛ,,28
+a-gye-sɛ,strong,deontic,0,aka-modal-evid12d,positive,no,a-gye-sɛ,,28
 a-gye-sɛ,weak necessity,deontic,?,,positive,no,a-gye-sɛ,,29
 a-gye-sɛ,weak,deontic,?,,positive,no,a-gye-sɛ,,30
 a-gye-sɛ,strong,teleological,?,,positive,no,a-gye-sɛ,,31
@@ -35,57 +35,57 @@ a-gye-sɛ,weak,teleological,?,,positive,no,a-gye-sɛ,,33
 a-gye-sɛ,strong,circumstantial,?,,positive,no,a-gye-sɛ,,34
 a-gye-sɛ,weak,circumstantial,?,,positive,no,a-gye-sɛ,,35
 a-gye-sɛ,strong,bouletic,?,,positive,no,a-gye-sɛ,,36
-ɛ-ho-hia,strong,epistemic,0,akan-modal-evid2c,positive,no,ɛ-ho-hia,glossed as 'pro-self-need',37
+ɛ-ho-hia,strong,epistemic,0,aka-modal-evid2c,positive,no,ɛ-ho-hia,glossed as 'pro-self-need',37
 ɛ-ho-hia,weak necessity,epistemic,?,,positive,no,ɛ-ho-hia,,38
 ɛ-ho-hia,weak,epistemic,?,,positive,no,ɛ-ho-hia,,39
-ɛ-ho-hia,strong,deontic,1,akan-modal-evid12c,positive,no,ɛ-ho-hia,,40
+ɛ-ho-hia,strong,deontic,1,aka-modal-evid12c,positive,no,ɛ-ho-hia,,40
 ɛ-ho-hia,weak necessity,deontic,?,,positive,no,ɛ-ho-hia,,41
 ɛ-ho-hia,weak,deontic,?,,positive,no,ɛ-ho-hia,,42
-ɛ-ho-hia,strong,teleological,0,akan-modal-evid24c,positive,no,ɛ-ho-hia,,43
+ɛ-ho-hia,strong,teleological,0,aka-modal-evid24c,positive,no,ɛ-ho-hia,,43
 ɛ-ho-hia,weak necessity,teleological,?,,positive,no,ɛ-ho-hia,,44
 ɛ-ho-hia,weak,teleological,?,,positive,no,ɛ-ho-hia,,45
-ɛ-ho-hia,strong,circumstantial,0,akan-modal-evid35a,positive,no,ɛ-ho-hia,,46
+ɛ-ho-hia,strong,circumstantial,0,aka-modal-evid35a,positive,no,ɛ-ho-hia,,46
 ɛ-ho-hia,weak,circumstantial,?,,positive,no,ɛ-ho-hia,,47
 ɛ-ho-hia,strong,bouletic,?,,positive,no,ɛ-ho-hia,,48
 ɛ-ho-hia,strong,epistemic,?,,negative,,,,49
 ɛ-ho-hia,weak necessity,epistemic,?,,negative,,,,50
 ɛ-ho-hia,weak,epistemic,?,,negative,,,,51
-ɛ-ho-hia,strong,deontic,1,akan-modal-evid16pb,negative,high,ɛ-ho-n-hia,"translated to ""don't have to"",it is hard to tell from notes the scope but I categorize it as high base on the semantics",52
+ɛ-ho-hia,strong,deontic,1,aka-modal-evid16pb,negative,high,ɛ-ho-n-hia,"translated to ""don't have to"",it is hard to tell from notes the scope but I categorize it as high base on the semantics",52
 ɛ-ho-hia,weak necessity,deontic,?,,negative,,,,53
 ɛ-ho-hia,weak,deontic,?,,negative,,,,54
-ɛ-ho-hia,strong,teleological,0,akan-modal-evid24c,negative,high,ɛ-ho-n-hia,"translated to ""don't need to"",it is hard to tell from notes the scope but I categorize it as high base on the semantics",55
+ɛ-ho-hia,strong,teleological,0,aka-modal-evid24c,negative,high,ɛ-ho-n-hia,"translated to ""don't need to"",it is hard to tell from notes the scope but I categorize it as high base on the semantics",55
 ɛ-ho-hia,weak necessity,teleological,?,,negative,,,,56
 ɛ-ho-hia,weak,teleological,?,,negative,,,,57
 ɛ-ho-hia,strong,circumstantial,?,,negative,,,,58
 ɛ-ho-hia,weak,circumstantial,?,,negative,,,,59
 ɛ-ho-hia,strong,bouletic,?,,negative,,,,60
 ɛwɔsɛ,strong,epistemic,?,,positive,no,ɛwɔsɛ,ɛwɔsɛ is acceptable under some context and infelicitous under others,61
-ɛwɔsɛ,weak necessity,epistemic,1,"akan-modal-evid5b, 6b",positive,no,ɛwɔsɛ,,62
+ɛwɔsɛ,weak necessity,epistemic,1,"aka-modal-evid5b, 6b",positive,no,ɛwɔsɛ,,62
 ɛwɔsɛ,weak,epistemic,?,,positive,no,ɛwɔsɛ,,63
-ɛwɔsɛ,strong,deontic,1,"akan-modal-evid12b, akan-modal-evid13b",positive,no,ɛwɔsɛ,,64
-ɛwɔsɛ,weak necessity,deontic,1,akan-modal-evid16b,positive,no,ɛwɔsɛ,,65
+ɛwɔsɛ,strong,deontic,1,"aka-modal-evid12b, aka-modal-evid13b",positive,no,ɛwɔsɛ,,64
+ɛwɔsɛ,weak necessity,deontic,1,aka-modal-evid16b,positive,no,ɛwɔsɛ,,65
 ɛwɔsɛ,weak,deontic,?,,positive,no,ɛwɔsɛ,,66
-ɛwɔsɛ,strong,teleological,1,akan-modal-evid24,positive,no,ɛwɔsɛ,,67
-ɛwɔsɛ,weak necessity,teleological,1,akan-modal-evid27,positive,no,ɛwɔsɛ,,68
+ɛwɔsɛ,strong,teleological,1,aka-modal-evid24,positive,no,ɛwɔsɛ,,67
+ɛwɔsɛ,weak necessity,teleological,1,aka-modal-evid27,positive,no,ɛwɔsɛ,,68
 ɛwɔsɛ,weak,teleological,?,,positive,no,ɛwɔsɛ,,69
-ɛwɔsɛ,strong,circumstantial,1,akan-modal-evid34,positive,no,ɛwɔsɛ,,70
+ɛwɔsɛ,strong,circumstantial,1,aka-modal-evid34,positive,no,ɛwɔsɛ,,70
 ɛwɔsɛ,weak,circumstantial,?,,positive,no,ɛwɔsɛ,,71
-ɛwɔsɛ,strong,bouletic,1,akan-modal-evid41c,positive,no,ɛwɔsɛ,,72
+ɛwɔsɛ,strong,bouletic,1,aka-modal-evid41c,positive,no,ɛwɔsɛ,,72
 ɛwɔsɛ,strong,epistemic,?,,negative,,,-n- is a negative circumfix,73
 ɛwɔsɛ,weak necessity,epistemic,?,,negative,,,,74
 ɛwɔsɛ,weak,epistemic,?,,negative,,,,75
 ɛwɔsɛ,strong,deontic,?,,negative,,,,76
 ɛwɔsɛ,weak necessity,deontic,?,,negative,,,,77
-ɛwɔsɛ,weak,deontic,1,"akan-modal-evid16p, akan-modal-evid16pb",negative,yes,ɛnwɔsɛ,it is hard to tell from the notes the scope,78
+ɛwɔsɛ,weak,deontic,1,"aka-modal-evid16p, aka-modal-evid16pb",negative,yes,ɛnwɔsɛ,it is hard to tell from the notes the scope,78
 ɛwɔsɛ,strong,teleological,?,,negative,,,,79
 ɛwɔsɛ,weak necessity,teleological,?,,negative,,,,80
-ɛwɔsɛ,weak,teleological,1,"akan-modal-evid27p, akan-modal-evid27pb",negative,yes,ɛnwɔsɛ,it is hard to tell from the notes the scope,81
+ɛwɔsɛ,weak,teleological,1,"aka-modal-evid27p, aka-modal-evid27pb",negative,yes,ɛnwɔsɛ,it is hard to tell from the notes the scope,81
 ɛwɔsɛ,strong,circumstantial,?,,negative,,,,82
 ɛwɔsɛ,weak,circumstantial,?,,negative,,,,83
 ɛwɔsɛ,strong,bouletic,?,,negative,,,,84
 ebia,strong,epistemic,?,,positive,no,ebia,adverb that translated to perhaps,85
 ebia,weak necessity,epistemic,?,,positive,no,ebia,,86
-ebia,weak,epistemic,1,akan-modal-evid9,positive,no,ebia,,87
+ebia,weak,epistemic,1,aka-modal-evid9,positive,no,ebia,,87
 ebia,strong,deontic,?,,positive,no,ebia,,88
 ebia,weak necessity,deontic,?,,positive,no,ebia,,89
 ebia,weak,deontic,?,,positive,no,ebia,,90
@@ -95,7 +95,7 @@ ebia,weak,teleological,?,,positive,no,ebia,,93
 ebia,strong,circumstantial,?,,positive,no,ebia,,94
 ebia,weak,circumstantial,?,,positive,no,ebia,,95
 ebia,strong,bouletic,?,,positive,no,ebia,,96
-ebia,strong,epistemic,1,akan-modal-evid7pb,negative,low,ebia ... eni,eni is translated to not,97
+ebia,strong,epistemic,1,aka-modal-evid7pb,negative,low,ebia ... eni,eni is translated to not,97
 ebia,weak necessity,epistemic,?,,negative,,,,98
 ebia,weak,epistemic,?,,negative,,,,99
 ebia,strong,deontic,?,,negative,,,,100
@@ -109,7 +109,7 @@ ebia,weak,circumstantial,?,,negative,,,,107
 ebia,strong,bouletic,?,,negative,,,,108
 gyama,strong,epistemic,?,,positive,no,gyama,adverb that is translated to maybe,109
 gyama,weak necessity,epistemic,?,,positive,no,gyama,,110
-gyama,weak,epistemic,1,akan-modal-evid9b,positive,no,gyama,,111
+gyama,weak,epistemic,1,aka-modal-evid9b,positive,no,gyama,,111
 gyama,strong,deontic,?,,positive,no,gyama,,112
 gyama,weak necessity,deontic,?,,positive,no,gyama,,113
 gyama,weak,deontic,?,,positive,no,gyama,,114
@@ -121,29 +121,29 @@ gyama,weak,circumstantial,?,,positive,no,gyama,,119
 gyama,strong,bouletic,?,,positive,no,gyama,,120
 (be)-tumi,strong,epistemic,?,,positive,no,be-tumi,"be- is future tense, tumi is translated to can. be- is optional but the speaker noted be-tumi is the most natural expression ",121
 (be)-tumi,weak necessity,epistemic,?,,positive,no,be-tumi,,122
-(be)-tumi,weak,epistemic,1,akan-modal-evid9d,positive,no,be-tumi,,123
+(be)-tumi,weak,epistemic,1,aka-modal-evid9d,positive,no,be-tumi,,123
 (be)-tumi,strong,deontic,?,,positive,no,be-tumi,,124
 (be)-tumi,weak necessity,deontic,?,,positive,no,be-tumi,,125
-(be)-tumi,weak,deontic,1,"akan-modal-evid20, akan-modal-evid23",positive,no,be-tumi,,126
+(be)-tumi,weak,deontic,1,"aka-modal-evid20, aka-modal-evid23",positive,no,be-tumi,,126
 (be)-tumi,strong,teleological,?,,positive,no,be-tumi,,127
 (be)-tumi,weak necessity,teleological,?,,positive,no,be-tumi,,128
-(be)-tumi,weak,teleological,1,akan-modal-evid30,positive,no,be-tumi,,129
+(be)-tumi,weak,teleological,1,aka-modal-evid30,positive,no,be-tumi,,129
 (be)-tumi,strong,circumstantial,?,,positive,no,be-tumi,,130
-(be)-tumi,weak,circumstantial,1,"akan-modal-evid37b, akan-modal-evid40",positive,no,be-tumi,,131
+(be)-tumi,weak,circumstantial,1,"aka-modal-evid37b, aka-modal-evid40",positive,no,be-tumi,,131
 (be)-tumi,strong,bouletic,?,,positive,no,be-tumi,,132
 (be)-tumi,strong,epistemic,?,,negative,,,,133
 (be)-tumi,weak necessity,epistemic,?,,negative,,,,134
-(be)-tumi,weak,epistemic,1,"akan-modal-evid9e, akan-modal-evid9f, akan-modal-evid9g",negative,high,n+tumi ... n+verb,n is negation,135
+(be)-tumi,weak,epistemic,1,"aka-modal-evid9e, aka-modal-evid9f, aka-modal-evid9g",negative,high,n+tumi ... n+verb,n is negation,135
 (be)-tumi,strong,deontic,?,,negative,,,,136
 (be)-tumi,weak necessity,deontic,?,,negative,,,,137
-(be)-tumi,weak,deontic,1,akan-modal-evid12pc,negative,high,n+tumi ... n+verb,"it is hard to tell from note the scope of negation, but from the semantics of words it seems like the negation scopes higher",138
+(be)-tumi,weak,deontic,1,aka-modal-evid12pc,negative,high,n+tumi ... n+verb,"it is hard to tell from note the scope of negation, but from the semantics of words it seems like the negation scopes higher",138
 (be)-tumi,strong,teleological,?,,negative,,,,139
 (be)-tumi,weak necessity,teleological,?,,negative,,,,140
-(be)-tumi,weak,teleological,1,akan-modal-evid24p,negative,high,n+tumi ... n+verb,,141
+(be)-tumi,weak,teleological,1,aka-modal-evid24p,negative,high,n+tumi ... n+verb,,141
 (be)-tumi,strong,circumstantial,?,,negative,,,,142
-(be)-tumi,weak,circumstantial,1,akan-modal-evid35p,negative,high,n+tumi ... n+verb,,143
+(be)-tumi,weak,circumstantial,1,aka-modal-evid35p,negative,high,n+tumi ... n+verb,,143
 (be)-tumi,strong,bouletic,?,,negative,,,,144
-ebia+tumi,strong,epistemic,1,akan-modal-evid7p,negative,low,ebetumi....eni,"ebia is an adverb that means perhaps and tumi means can, eni is a negation form",145
+ebia+tumi,strong,epistemic,1,aka-modal-evid7p,negative,low,ebetumi....eni,"ebia is an adverb that means perhaps and tumi means can, eni is a negation form",145
 ebia+tumi,weak necessity,epistemic,?,,negative,,,,146
 ebia+tumi,weak,epistemic,?,,negative,,,,147
 ebia+tumi,strong,deontic,?,,negative,,,,148
@@ -164,6 +164,6 @@ e-be-tumi,weak,deontic,?,,negative,no,e-be-tumi,,162
 e-be-tumi,strong,teleological,?,,negative,no,e-be-tumi,,163
 e-be-tumi,weak necessity,teleological,?,,negative,no,e-be-tumi,,164
 e-be-tumi,weak,teleological,?,,negative,no,e-be-tumi,,165
-e-be-tumi,strong,circumstantial,1,akan-modal-evid44,negative,no,e-be-tumi,"the full form is same as ebia+tumi but it is noted as e-be-tumi which is glossed as pro-fut-mod, that is different from ebia+tumi",166
+e-be-tumi,strong,circumstantial,1,aka-modal-evid44,negative,no,e-be-tumi,"the full form is same as ebia+tumi but it is noted as e-be-tumi which is glossed as pro-fut-mod, that is different from ebia+tumi",166
 e-be-tumi,weak,circumstantial,?,,negative,no,e-be-tumi,,167
 e-be-tumi,strong,bouletic,?,,negative,no,e-be-tumi,,168
