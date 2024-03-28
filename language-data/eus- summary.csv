@@ -1,0 +1,313 @@
+expression,force,flavor,can_express,evidence,polarity,syntactically_negated,full_form,notes,index
+Behar,strong,epistemic,1,"basque-modal-evid1, 2, 3, 4",positive,no,behar, ,1
+Behar,weak necessity,epistemic,？,"basque-modal-evid5, 6",positive,no,behar,,2
+Behar,weak,epistemic,?,,positive,no,behar,,3
+Behar,strong,deontic,1,"basque-modal-evid13, 14, 31",positive,no,behar,,4
+Behar,weak necessity,deontic,1,"basque-modal-evid15, 17",positive,no,behar,,5
+Behar,weak,deontic,?,,positive,no,behar,,6
+Behar,strong,teleological,1,"basque-modal-evid27, 28, 28b, 29, 30",positive,no,behar,,7
+Behar,weak necessity,teleological,1,basque-modal-evid32b,positive,no,behar,this is marginally acceptable ,8
+Behar,weak,teleological,?,,positive,no,behar,,9
+Behar,strong,circumstantial,1,"basque-modal-evid41, 42, 43",positive,no,behar,,10
+Behar,weak,circumstantial,?,,positive,no,behar,,11
+Behar,strong,bouletic,1,"basque-modal-evid52, 53b",positive,no,behar,,12
+Behar,strong,epistemic,1,basque-modal-evid4b,positive,no,-en behar,only elicited in epi-nec-4 context,13
+Behar,weak necessity,epistemic,?,,positive,no,-en behar,,14
+Behar,weak,epistemic,?,,positive,no,-en behar,,15
+Behar,strong,deontic,0,basque-modal-evid31b,positive,no,-en behar,,16
+Behar,weak necessity,deontic,?,,positive,no,-en behar,,17
+Behar,weak,deontic,?,,positive,no,-en behar,,18
+Behar,strong,teleological,0,basque-modal-evid30b,positive,no,-en behar,,19
+Behar,weak necessity,teleological,?,,positive,no,-en behar,,20
+Behar,weak,teleological,?,,positive,no,-en behar,,21
+Behar,strong,circumstantial,?,,positive,no,-en behar,,22
+Behar,weak,circumstantial,?,,positive,no,-en behar,,23
+Behar,strong,bouletic,?,,positive,no,-en behar,,24
+Behar,strong,epistemic,?,,negative,,ez ... behar,,25
+Behar,weak necessity,epistemic,?,,negative,,ez ... behar,,26
+Behar,weak,epistemic,?,,negative,,ez ... behar,,27
+Behar,strong,deontic,1,"basque-modal-evid23, 23c, 24",negative,yes,ez ... behar,ez = negation,28
+Behar,weak necessity,deontic,?,,negative,,ez ... behar,,29
+Behar,weak,deontic,?,,negative,,ez ... behar,,30
+Behar,strong,teleological,?,,negative,,ez ... behar,,31
+Behar,weak necessity,teleological,?,,negative,,ez ... behar,,32
+Behar,weak,teleological,?,,negative,,ez ... behar,,33
+Behar,strong,circumstantial,?,,negative,,ez ... behar,,34
+Behar,weak,circumstantial,?,,negative,,ez ... behar,,35
+Behar,strong,bouletic,?,,negative,,ez ... behar,,36
+Behar,strong,epistemic,?,,positive,no,BEHAR(KO) ZENUKE,,37
+Behar,weak necessity,epistemic,?,,positive,no,BEHAR(KO) ZENUKE,,38
+Behar,weak,epistemic,?,,positive,no,BEHAR(KO) ZENUKE,,39
+Behar,strong,deontic,?,,positive,no,BEHAR(KO) ZENUKE,,40
+Behar,weak necessity,deontic,?,,positive,no,BEHAR(KO) ZENUKE,,41
+Behar,weak,deontic,?,,positive,no,BEHAR(KO) ZENUKE,,42
+Behar,strong,teleological,?,,positive,no,BEHAR(KO) ZENUKE,,43
+Behar,weak necessity,teleological,1,basque-modal-evid32,positive,no,BEHAR(KO) ZENUKE,ZENUKE = be.2sg.erg.pot,44
+Behar,weak,teleological,?,,positive,no,BEHAR(KO) ZENUKE,,45
+Behar,strong,circumstantial,?,,positive,no,BEHAR(KO) ZENUKE,,46
+Behar,weak,circumstantial,?,,positive,no,BEHAR(KO) ZENUKE,,47
+Behar,strong,bouletic,?,,positive,no,BEHAR(KO) ZENUKE,,48
+Behar,strong,epistemic,?,,positive,no,BEHAR(KO) ZINATEKE,,49
+Behar,weak necessity,epistemic,?,,positive,no,BEHAR(KO) ZINATEKE,,50
+Behar,weak,epistemic,?,,positive,no,BEHAR(KO) ZINATEKE,,51
+Behar,strong,deontic,?,,positive,no,BEHAR(KO) ZINATEKE,,52
+Behar,weak necessity,deontic,?,,positive,no,BEHAR(KO) ZINATEKE,,53
+Behar,weak,deontic,?,,positive,no,BEHAR(KO) ZINATEKE,,54
+Behar,strong,teleological,?,,positive,no,BEHAR(KO) ZINATEKE,,55
+Behar,weak necessity,teleological,1,"basque-modal-evid33, 34",positive,no,BEHAR(KO) ZINATEKE,,56
+Behar,weak,teleological,?,,positive,no,BEHAR(KO) ZINATEKE,,57
+Behar,strong,circumstantial,?,,positive,no,BEHAR(KO) ZINATEKE,,58
+Behar,weak,circumstantial,?,,positive,no,BEHAR(KO) ZINATEKE,,59
+Behar,strong,bouletic,?,,positive,no,BEHAR(KO) ZINATEKE,,60
+Behar,strong,epistemic,?,,negative,,ez ... behar-rik,,61
+Behar,weak necessity,epistemic,?,,negative,,ez ... behar-rik,,62
+Behar,weak,epistemic,?,,negative,,ez ... behar-rik,,63
+Behar,strong,deontic,?,,negative,,ez ... behar-rik,,64
+Behar,weak necessity,deontic,?,,negative,,ez ... behar-rik,,65
+Behar,weak,deontic,?,,negative,,ez ... behar-rik,,66
+Behar,strong,teleological,1,basque-modal-evid38,negative,yes,ez ... behar-rik,NEG + behar + 'any' NPI (rik),67
+Behar,weak necessity,teleological,?,,negative,,ez ... behar-rik,,68
+Behar,weak,teleological,?,,negative,,ez ... behar-rik,,69
+Behar,strong,circumstantial,?,,negative,,ez ... behar-rik,,70
+Behar,weak,circumstantial,?,,negative,,ez ... behar-rik,,71
+Behar,strong,bouletic,?,,negative,,ez ... behar-rik,,72
+Egitekotan egon,strong,epistemic,?,,positive,no,Egitekotan egon,,73
+Egitekotan egon,weak necessity,epistemic,1,basque-modal-evid6b,positive,no,Egitekotan egon,“is nearly” paraphrase,74
+Egitekotan egon,weak,epistemic,?,,positive,no,Egitekotan egon,,75
+Egitekotan egon,strong,deontic,?,,positive,no,Egitekotan egon,,76
+Egitekotan egon,weak necessity,deontic,?,,positive,no,Egitekotan egon,,77
+Egitekotan egon,weak,deontic,?,,positive,no,Egitekotan egon,,78
+Egitekotan egon,strong,teleological,?,,positive,no,Egitekotan egon,,79
+Egitekotan egon,weak necessity,teleological,?,,positive,no,Egitekotan egon,,80
+Egitekotan egon,weak,teleological,?,,positive,no,Egitekotan egon,,81
+Egitekotan egon,strong,circumstantial,?,,positive,no,Egitekotan egon,,82
+Egitekotan egon,weak,circumstantial,?,,positive,no,Egitekotan egon,,83
+Egitekotan egon,strong,bouletic,?,,positive,no,Egitekotan egon,,84
+V + potential izan,strong,epistemic,?,,positive,no,LITEKE,,85
+V + potential izan,weak necessity,epistemic,?,,positive,no,LITEKE,,86
+V + potential izan,weak,epistemic,1,"basque-modal-evid7, 8, 9, 10",positive,no,LITEKE,LITEKE = be.potential_FUT,87
+V + potential izan,strong,deontic,?,,positive,no,LITEKE,,88
+V + potential izan,weak necessity,deontic,?,,positive,no,LITEKE,,89
+V + potential izan,weak,deontic,?,,positive,no,LITEKE,,90
+V + potential izan,strong,teleological,?,,positive,no,LITEKE,,91
+V + potential izan,weak necessity,teleological,?,,positive,no,LITEKE,,92
+V + potential izan,weak,teleological,?,,positive,no,LITEKE,,93
+V + potential izan,strong,circumstantial,?,,positive,no,LITEKE,,94
+V + potential izan,weak,circumstantial,?,,positive,no,LITEKE,,95
+V + potential izan,strong,bouletic,?,,positive,no,LITEKE,,96
+V + potential izan,strong,epistemic,?,,positive,no,DAITEKE,,97
+V + potential izan,weak necessity,epistemic,?,,positive,no,DAITEKE,,98
+V + potential izan,weak,epistemic,0,basque-modal-evid7b,positive,no,DAITEKE,DAITEKE = be.potential_PRES,99
+V + potential izan,strong,deontic,?,,positive,no,DAITEKE,,100
+V + potential izan,weak necessity,deontic,?,,positive,no,DAITEKE,,101
+V + potential izan,weak,deontic,1,"basque-modal-evid18b, 21b, 22",positive,no,DAITEKE,DAITEKE = be.3sg.pot.abs,102
+V + potential izan,strong,teleological,?,,positive,no,DAITEKE,,103
+V + potential izan,weak necessity,teleological,?,,positive,no,DAITEKE,,104
+V + potential izan,weak,teleological,?,,positive,no,DAITEKE,,105
+V + potential izan,strong,circumstantial,?,,positive,no,DAITEKE,,106
+V + potential izan,weak,circumstantial,?,,positive,no,DAITEKE,,107
+V + potential izan,strong,bouletic,?,,positive,no,DAITEKE,,108
+V + potential izan,strong,epistemic,?,,positive,no,DITZAKETE,,109
+V + potential izan,weak necessity,epistemic,?,,positive,no,DITZAKETE,,110
+V + potential izan,weak,epistemic,?,,positive,no,DITZAKETE,,111
+V + potential izan,strong,deontic,?,,positive,no,DITZAKETE,,112
+V + potential izan,weak necessity,deontic,1,basque-modal-evid16,positive,no,DITZAKETE,DITZAKETE = izan.3pl.pot,113
+V + potential izan,weak,deontic,?,,positive,no,DITZAKETE,,114
+V + potential izan,strong,teleological,?,,positive,no,DITZAKETE,,115
+V + potential izan,weak necessity,teleological,?,,positive,no,DITZAKETE,,116
+V + potential izan,weak,teleological,?,,positive,no,DITZAKETE,,117
+V + potential izan,strong,circumstantial,?,,positive,no,DITZAKETE,,118
+V + potential izan,weak,circumstantial,1,basque-modal-evid48,positive,no,DITZAKETE,,119
+V + potential izan,strong,bouletic,?,,positive,no,DITZAKETE,,120
+V + potential izan,strong,epistemic,?,,positive,no,beharko lituzkete,,121
+V + potential izan,weak necessity,epistemic,?,,positive,no,beharko lituzkete,,122
+V + potential izan,weak,epistemic,?,,positive,no,beharko lituzkete,,123
+V + potential izan,strong,deontic,?,,positive,no,beharko lituzkete,,124
+V + potential izan,weak necessity,deontic,1,basque-modal-evid16b,positive,no,beharko lituzkete,,125
+V + potential izan,weak,deontic,?,,positive,no,beharko lituzkete,,126
+V + potential izan,strong,teleological,?,,positive,no,beharko lituzkete,,127
+V + potential izan,weak necessity,teleological,?,,positive,no,beharko lituzkete,,128
+V + potential izan,weak,teleological,?,,positive,no,beharko lituzkete,,129
+V + potential izan,strong,circumstantial,?,,positive,no,beharko lituzkete,,130
+V + potential izan,weak,circumstantial,?,,positive,no,beharko lituzkete,,131
+V + potential izan,strong,bouletic,?,,positive,no,beharko lituzkete,,132
+V + potential izan,strong,epistemic,?,,positive,no,ZAITEZKE,,133
+V + potential izan,weak necessity,epistemic,?,,positive,no,ZAITEZKE,,134
+V + potential izan,weak,epistemic,?,,positive,no,ZAITEZKE,,135
+V + potential izan,strong,deontic,?,,positive,no,ZAITEZKE,,136
+V + potential izan,weak necessity,deontic,?,,positive,no,ZAITEZKE,,137
+V + potential izan,weak,deontic,1,"basque-modal-evid19b, 20b",positive,no,ZAITEZKE,ZAITEZKE = be.2sg.POT,138
+V + potential izan,strong,teleological,?,,positive,no,ZAITEZKE,,139
+V + potential izan,weak necessity,teleological,?,,positive,no,ZAITEZKE,,140
+V + potential izan,weak,teleological,?,,positive,no,ZAITEZKE,,141
+V + potential izan,strong,circumstantial,?,,positive,no,ZAITEZKE,,142
+V + potential izan,weak,circumstantial,?,,positive,no,ZAITEZKE,,143
+V + potential izan,strong,bouletic,?,,positive,no,ZAITEZKE,,144
+V + potential izan,strong,epistemic,?,,positive,no,dezakezu,,145
+V + potential izan,weak necessity,epistemic,?,,positive,no,dezakezu,,146
+V + potential izan,weak,epistemic,?,,positive,no,dezakezu,,147
+V + potential izan,strong,deontic,?,,positive,no,dezakezu,,148
+V + potential izan,weak necessity,deontic,?,,positive,no,dezakezu,,149
+V + potential izan,weak,deontic,1,basque-modal-evid20b,positive,no,dezakezu,dezakezu = be.2nd.present.ergative.potential,150
+V + potential izan,strong,teleological,?,,positive,no,dezakezu,,151
+V + potential izan,weak necessity,teleological,?,,positive,no,dezakezu,,152
+V + potential izan,weak,teleological,1,"basque-modal-evid35, 36, 37",positive,no,dezakezu,,153
+V + potential izan,strong,circumstantial,?,,positive,no,dezakezu,,154
+V + potential izan,weak,circumstantial,?,,positive,no,dezakezu,,155
+V + potential izan,strong,bouletic,?,,positive,no,dezakezu,,156
+V + potential izan,strong,epistemic,?,,positive,no,DEZAKE ,,157
+V + potential izan,weak necessity,epistemic,?,,positive,no,DEZAKE ,,158
+V + potential izan,weak,epistemic,?,,positive,no,DEZAKE ,,159
+V + potential izan,strong,deontic,?,,positive,no,DEZAKE ,,160
+V + potential izan,weak necessity,deontic,?,,positive,no,DEZAKE ,,161
+V + potential izan,weak,deontic,1,basque-modal-evid21,positive,no,DEZAKE ,DEZAKE  = be.3sg.pot.erg,162
+V + potential izan,strong,teleological,?,,positive,no,DEZAKE ,,163
+V + potential izan,weak necessity,teleological,?,,positive,no,DEZAKE ,,164
+V + potential izan,weak,teleological,?,,positive,no,DEZAKE ,,165
+V + potential izan,strong,circumstantial,?,,positive,no,DEZAKE ,,166
+V + potential izan,weak,circumstantial,1,"basque-modal-evid45, 46, 47",positive,no,DEZAKE ,,167
+V + potential izan,strong,bouletic,?,,positive,no,DEZAKE ,,168
+V + potential izan,strong,epistemic,?,,positive,no,DAITEZKE,,169
+V + potential izan,weak necessity,epistemic,?,,positive,no,DAITEZKE,,170
+V + potential izan,weak,epistemic,?,,positive,no,DAITEZKE,,171
+V + potential izan,strong,deontic,?,,positive,no,DAITEZKE,,172
+V + potential izan,weak necessity,deontic,?,,positive,no,DAITEZKE,,173
+V + potential izan,weak,deontic,?,,positive,no,DAITEZKE,,174
+V + potential izan,strong,teleological,?,,positive,no,DAITEZKE,,175
+V + potential izan,weak necessity,teleological,?,,positive,no,DAITEZKE,,176
+V + potential izan,weak,teleological,?,,positive,no,DAITEZKE,,177
+V + potential izan,strong,circumstantial,?,,positive,no,DAITEZKE,,178
+V + potential izan,weak,circumstantial,1,basque-modal-evid44,positive,no,DAITEZKE,,179
+V + potential izan,strong,bouletic,?,,positive,no,DAITEZKE,,180
+V + potential izan,strong,epistemic,?,,positive,no,LITEZKE,,181
+V + potential izan,weak necessity,epistemic,?,,positive,no,LITEZKE,,182
+V + potential izan,weak,epistemic,?,,positive,no,LITEZKE,,183
+V + potential izan,strong,deontic,?,,positive,no,LITEZKE,,184
+V + potential izan,weak necessity,deontic,?,,positive,no,LITEZKE,,185
+V + potential izan,weak,deontic,?,,positive,no,LITEZKE,,186
+V + potential izan,strong,teleological,?,,positive,no,LITEZKE,,187
+V + potential izan,weak necessity,teleological,?,,positive,no,LITEZKE,,188
+V + potential izan,weak,teleological,?,,positive,no,LITEZKE,,189
+V + potential izan,strong,circumstantial,?,,positive,no,LITEZKE,,190
+V + potential izan,weak,circumstantial,1,basque-modal-evid44c,positive,no,LITEZKE,,191
+V + potential izan,strong,bouletic,?,,positive,no,LITEZKE,,192
+V + potential izan,strong,epistemic,?,,positive,no,LEZAKE,,193
+V + potential izan,weak necessity,epistemic,?,,positive,no,LEZAKE,,194
+V + potential izan,weak,epistemic,?,,positive,no,LEZAKE,,195
+V + potential izan,strong,deontic,?,,positive,no,LEZAKE,,196
+V + potential izan,weak necessity,deontic,?,,positive,no,LEZAKE,,197
+V + potential izan,weak,deontic,?,,positive,no,LEZAKE,,198
+V + potential izan,strong,teleological,?,,positive,no,LEZAKE,,199
+V + potential izan,weak necessity,teleological,?,,positive,no,LEZAKE,,200
+V + potential izan,weak,teleological,?,,positive,no,LEZAKE,,201
+V + potential izan,strong,circumstantial,?,,positive,no,LEZAKE,,202
+V + potential izan,weak,circumstantial,1,"basque-modal-evid45b, 47b",positive,no,LEZAKE,,203
+V + potential izan,strong,bouletic,?,,positive,no,LEZAKE,,204
+V + potential izan,strong,epistemic,?,,positive,no,LITZAKETE,,205
+V + potential izan,weak necessity,epistemic,?,,positive,no,LITZAKETE,,206
+V + potential izan,weak,epistemic,?,,positive,no,LITZAKETE,,207
+V + potential izan,strong,deontic,?,,positive,no,LITZAKETE,,208
+V + potential izan,weak necessity,deontic,?,,positive,no,LITZAKETE,,209
+V + potential izan,weak,deontic,?,,positive,no,LITZAKETE,,210
+V + potential izan,strong,teleological,?,,positive,no,LITZAKETE,,211
+V + potential izan,weak necessity,teleological,?,,positive,no,LITZAKETE,,212
+V + potential izan,weak,teleological,?,,positive,no,LITZAKETE,,213
+V + potential izan,strong,circumstantial,?,,positive,no,LITZAKETE,,214
+V + potential izan,weak,circumstantial,1,basque-modal-evid48b,positive,no,LITZAKETE,,215
+V + potential izan,strong,bouletic,?,,positive,no,LITZAKETE,,216
+Ba + potential izan … V … ez,strong,epistemic,?,,negative,,Baliteke...ez,,217
+Ba + potential izan … V … ez,weak necessity,epistemic,?,,negative,,Baliteke...ez,,218
+Ba + potential izan … V … ez,weak,epistemic,1,"basque-modal-evid11, 11b",negative,yes,Baliteke...ez,"ez' = negation, “possible V not…” prp",219
+Ba + potential izan … V … ez,strong,deontic,?,,negative,,Baliteke...ez,,220
+Ba + potential izan … V … ez,weak necessity,deontic,?,,negative,,Baliteke...ez,,221
+Ba + potential izan … V … ez,weak,deontic,?,,negative,,Baliteke...ez,,222
+Ba + potential izan … V … ez,strong,teleological,?,,negative,,Baliteke...ez,,223
+Ba + potential izan … V … ez,weak necessity,teleological,?,,negative,,Baliteke...ez,,224
+Ba + potential izan … V … ez,weak,teleological,?,,negative,,Baliteke...ez,,225
+Ba + potential izan … V … ez,strong,circumstantial,?,,negative,,Baliteke...ez,,226
+Ba + potential izan … V … ez,weak,circumstantial,?,,negative,,Baliteke...ez,,227
+Ba + potential izan … V … ez,strong,bouletic,?,,negative,,Baliteke...ez,,228
+ezin,strong,epistemic,?,,negative,,ezin,,229
+ezin,weak necessity,epistemic,?,,negative,,ezin,,230
+ezin,weak,epistemic,1,basque-modal-evid12,negative,no,ezin,negation is lexicalized,231
+ezin,strong,deontic,?,,negative,,ezin,,232
+ezin,weak necessity,deontic,?,,negative,,ezin,,233
+ezin,weak,deontic,1,"basque-modal-evid25b, 26",negative,no,ezin,negation is lexicalized,234
+ezin,strong,teleological,?,,negative,,ezin,,235
+ezin,weak necessity,teleological,?,,negative,,ezin,,236
+ezin,weak,teleological,1,"basque-modal-evid39, 40",negative,no,ezin,negation is lexicalized,237
+ezin,strong,circumstantial,0,basque-modal-evid49c,negative,,ezin,,238
+ezin,weak,circumstantial,1,"basque-modal-evid50, 51",negative,no,ezin,negation is lexicalized,239
+ezin,strong,bouletic,?,,negative,,ezin,,240
+V + potential izan,strong,epistemic,?,,negative,,ezin ZENUKE,,241
+V + potential izan,weak necessity,epistemic,?,,negative,,ezin ZENUKE,,242
+V + potential izan,weak,epistemic,?,,negative,,ezin ZENUKE,,243
+V + potential izan,strong,deontic,?,,negative,,ezin ZENUKE,,244
+V + potential izan,weak necessity,deontic,?,,negative,,ezin ZENUKE,,245
+V + potential izan,weak,deontic,?,,negative,yes,ezin ZENUKE,"ZENUKE = be.2sg.erg.pot, translated to 'wouldn’t be able to'",246
+V + potential izan,strong,teleological,?,,negative,,ezin ZENUKE,,247
+V + potential izan,weak necessity,teleological,?,,negative,,ezin ZENUKE,,248
+V + potential izan,weak,teleological,?,,negative,,ezin ZENUKE,,249
+V + potential izan,strong,circumstantial,?,,negative,,ezin ZENUKE,,250
+V + potential izan,weak,circumstantial,?,,negative,,ezin ZENUKE,,251
+V + potential izan,strong,bouletic,?,,negative,,ezin ZENUKE,,252
+V + potential izan,strong,epistemic,?,,negative,,ezin DAITEZKE,,253
+V + potential izan,weak necessity,epistemic,?,,negative,,ezin DAITEZKE,,254
+V + potential izan,weak,epistemic,?,,negative,,ezin DAITEZKE,,255
+V + potential izan,strong,deontic,?,,negative,,ezin DAITEZKE,,256
+V + potential izan,weak necessity,deontic,?,,negative,,ezin DAITEZKE,,257
+V + potential izan,weak,deontic,？,basque-modal-evid26b,negative,yes,ezin DAITEZKE,DAITEZKE = be.3pl.pot,258
+V + potential izan,strong,teleological,?,,negative,,ezin DAITEZKE,,259
+V + potential izan,weak necessity,teleological,?,,negative,,ezin DAITEZKE,,260
+V + potential izan,weak,teleological,?,,negative,,ezin DAITEZKE,,261
+V + potential izan,strong,circumstantial,?,,negative,,ezin DAITEZKE,,262
+V + potential izan,weak,circumstantial,?,,negative,,ezin DAITEZKE,,263
+V + potential izan,strong,bouletic,?,,negative,,ezin DAITEZKE,,264
+ahal,strong,epistemic,?,,positive,no,ahal,,265
+ahal,weak necessity,epistemic,?,,positive,no,ahal,,266
+ahal,weak,epistemic,?,,positive,no,ahal,,267
+ahal,strong,deontic,?,,positive,no,ahal,,268
+ahal,weak necessity,deontic,?,,positive,no,ahal,,269
+ahal,weak,deontic,1,"basque-modal-evid18, 19, 20",positive,no,ahal,,270
+ahal,strong,teleological,?,,positive,no,ahal,,271
+ahal,weak necessity,teleological,?,,positive,no,ahal,,272
+ahal,weak,teleological,1,"basque-modal-evid35b, 36b, 37b",positive,no,ahal,,273
+ahal,strong,circumstantial,?,,positive,no,ahal,,274
+ahal,weak,circumstantial,1,"basque-modal-evid44b, 45c, 46c, 46d, 47c",positive,no,ahal,,275
+ahal,strong,bouletic,?,,positive,no,ahal,,276
+Ez da ziur,strong,epistemic,?,,negative,,Ez dago ziurtasun-ik,,277
+Ez da ziur,weak necessity,epistemic,?,,negative,,Ez dago ziurtasun-ik,,278
+Ez da ziur,weak,epistemic,?,,negative,,Ez dago ziurtasun-ik,,279
+Ez da ziur,strong,deontic,?,,negative,,Ez dago ziurtasun-ik,,280
+Ez da ziur,weak necessity,deontic,?,,negative,,Ez dago ziurtasun-ik,,281
+Ez da ziur,weak,deontic,?,,negative,,Ez dago ziurtasun-ik,,282
+Ez da ziur,strong,teleological,?,,negative,,Ez dago ziurtasun-ik,,283
+Ez da ziur,weak necessity,teleological,?,,negative,,Ez dago ziurtasun-ik,,284
+Ez da ziur,weak,teleological,?,,negative,,Ez dago ziurtasun-ik,,285
+Ez da ziur,strong,circumstantial,1,basque-modal-evid49,negative,yes,Ez dago ziurtasun-ik,,286
+Ez da ziur,weak,circumstantial,?,,negative,,Ez dago ziurtasun-ik,,287
+Ez da ziur,strong,bouletic,?,,negative,,Ez dago ziurtasun-ik,,288
+Ez da ziur,strong,epistemic,?,,negative,,Ez da ziur,,289
+Ez da ziur,weak necessity,epistemic,?,,negative,,Ez da ziur,,290
+Ez da ziur,weak,epistemic,?,,negative,,Ez da ziur,,291
+Ez da ziur,strong,deontic,?,,negative,,Ez da ziur,,292
+Ez da ziur,weak necessity,deontic,?,,negative,,Ez da ziur,,293
+Ez da ziur,weak,deontic,?,,negative,,Ez da ziur,,294
+Ez da ziur,strong,teleological,?,,negative,,Ez da ziur,,295
+Ez da ziur,weak necessity,teleological,?,,negative,,Ez da ziur,,296
+Ez da ziur,weak,teleological,?,,negative,,Ez da ziur,,297
+Ez da ziur,strong,circumstantial,1,basque-modal-evid49b,negative,yes,Ez da ziur,,298
+Ez da ziur,weak,circumstantial,?,,negative,,Ez da ziur,,299
+Ez da ziur,strong,bouletic,?,,negative,,Ez da ziur,,300
+nahi,strong,epistemic,?,,positive,no,nahi,,301
+nahi,weak necessity,epistemic,?,,positive,no,nahi,,302
+nahi,weak,epistemic,?,,positive,no,nahi,,303
+nahi,strong,deontic,?,,positive,no,nahi,,304
+nahi,weak necessity,deontic,?,,positive,no,nahi,,305
+nahi,weak,deontic,?,,positive,no,nahi,,306
+nahi,strong,teleological,?,,positive,no,nahi,,307
+nahi,weak necessity,teleological,?,,positive,no,nahi,,308
+nahi,weak,teleological,?,,positive,no,nahi,,309
+nahi,strong,circumstantial,?,,positive,no,nahi,,310
+nahi,weak,circumstantial,?,,positive,no,nahi,,311
+nahi,strong,bouletic,1,"basque-modal-evid52b, 53, 54",positive,no,nahi,,312

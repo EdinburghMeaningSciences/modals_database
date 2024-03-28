@@ -1,0 +1,103 @@
+ref,words,gloss,translation,comment
+basque-modal-1,Beñat igeri   egiten       egon behar da                      /du.,Name swim do-atelic   stay   MOD  aux.intransitive /aux.transitive,Ben must be swimming,
+basque-modal-2, .. egon behar da          /du.,Stay MOD   aux.int  / aux.trns,John must be at school,
+basque-modal-3,… Izan behar da/du. ,… be MOD aux.int / aux.trns,It must be in C,
+basque-modal-4,Txakurra etxean egon behar da	       /du — ,Dog         home  be     must  aux.intr / aux.tr,The dog must be at home,
+basque-modal-4b,Txakurra etxean egonen        behar da          / du — ,Dog         home  be-EN  must  aux.intr / aux.tr,The dog must be at home,
+basque-modal-5,Ane    laku-an izan behar da orain.,Name lake-in be BEHAR aux now,Ann should be at the lake right now,
+basque-modal-5b,Ane lakuan izanEN da orain.,???,Ann should be at the lake right now,"Here, EN-version is not felicitous because the speaker has not exhausted the possibilities (the mountain option is not completely eliminated)"
+basque-modal-6,Euria egin behar du,Rain do/make must aux,It should be raining right now in Goa,infelicitous
+basque-modal-6b,Goan euria egitekotan egon behar du orain,Goa rain do-at.the.verge.of stay must aux now,It must be the case at the verge of raining right now in Goa,“Must be the case at the verge of raining”
+basque-modal-7,Bera/Hura         ikastolara/eskolara         etor         LITEKE (might) ,He 	school-ALL 		come 	be.potential_FUT (?) ,He might come to school,
+basque-modal-7b,Bera/Hura         ikastolara/eskolara         etor DAITEKE (can) ,He         school-ALL                 come         be.potential_PRES,He might come to school,infelicitous
+basque-modal-8,Garazi-ren        lepokoa  galduta egon LITEKE,Grace-GEN(?) necklace lost       be     be.potential_FUT,Grace’s necklace might be lost,
+basque-modal-9,Katu-a  barruan edo kanpoan egon LITEKE.,Cat-det inside   or    outside   be       be.potential_FUT,The cat may be inside or outside,
+basque-modal-9b,Katu-a  barruan edo kanpoan egon BA-LITEKE.,Cat-det inside   or    outside   be       be.potential_FUT,,ungrammatical
+basque-modal-10,LITEKE,MOD,Daniel may go to New York,a complete sentece is not elicited
+basque-modal-11,Baliteke Miren etxean ez egoteA.,Might Mary home not being,Mary may not be home,
+basque-modal-11b,"Miren etxean egon behar        da,   baina BA-LITEKE                  etxean  EZ    egoteA.","Mary home    be    SHOULD aux, but      HYPOTHETICAL-might  home  NOT being ","Mary should be home, but she may not be home.","There is no item that fits in the following blank and expresses non-necessity 
+Benat ____ da etxean egon.
+          ____  aux home be"
+basque-modal-11c,"Miren etxean egon behar        da,   baina LITEKE                  etxean  EZ    egoteA.","Mary home    be    SHOULD aux, but      HYPOTHETICAL-might  home  NOT being ",,ungrammatical
+basque-modal-12,Benat EZIN    da   etxean egon,Ben    CAN’T aux home be,Ben can't be at home,
+basque-modal-13,(Zu) Kasko-A      eraman behar duzu.,You helmet-DET wear MUST   aux.2sg ,You must wear a helmet,
+basque-modal-14,Bisitari-AK      6tik    aurrera   joan   behar dira.,visitor-DET.pl 6from onwards leave MUST aux.pl,Visitors must leave from after 6pm,
+basque-modal-15,(nik) Arropa  formala (gainean) eraman behar dut          festara.,(Me) Clothes formal   (on.top)   bring    must   aux.1sg party,I ought to wear formal clothes to the party.,
+basque-modal-16,Bezeroek bere eskuak garbi DITZAKETE. ,Customers their hands clean izan.3pl.pot,Customers can wash their hands,no obligation meaning; rather fits possibility
+basque-modal-16b,Bezeroek bere eskuak garbitu beharko lituzkete.,???,It's highly recommended that customoers wash their hands,“highly recommended that you wash your hands”
+basque-modal-16c,Bezeroek bere eskuak garbitu behar dituzte.,???,Customers should wash their hands,infelicitous
+basque-modal-17,(Nik) maskara bat     eraman behar   dut.,You   mask      indef  carry    MUST aux,You must carry a mask,
+basque-modal-18,Martin noria-n ibili AHAL da.,M. ferris.wheel-LOC go.on MOD aux    ,Martin may ride the ferris wheel,
+basque-modal-18b,Martin noria-n ibili DAITEKE,M. ferris.wheel-LOC go.on be.3sg.pot.abs,Martin may ride the ferris wheel,
+basque-modal-19,(Zu) sartu AHAL zara,(you) enter MOD aux.2sg,You may enter,
+basque-modal-19b,(Zu) sartu ZAITEZKE,You enter be.2sg.POT,You may enter,
+basque-modal-20,"(Zuk) gaua hemen pasa/igaro ahal duzu. 
+Etxera ERE joan ahal zara.","(you) night here stay.over MOD aux.2sg
+House-to also go MOD be.2sg",You can stay overnight. You can also go home.,
+basque-modal-20b,"(Zuk) gaua hemen pasa/igaro dezakezu.
+Etxera ERE joan zaitezke.","(you) night here stay.over be.2nd.present.ergative.potential
+House-to also go be.2sg.pot",You can stay overnight. You can also go home.,
+basque-modal-21,Aliz-EK bere semea altxa DEZAKE ,Alize-erg poss baby lift be.3sg.pot.erg,Alice CAN lift her baby,
+basque-modal-21b,Aliz altxa DAITEKE,Aliz lift be.3sg.pot.abs,Alice CAN lift her baby,
+basque-modal-21c,Aliz-EK bere semea altxatu ahal du,Alice-erg poss baby lift MOD aux.3sg,Alice CAN lift her baby,infelicitous: it does not have the reading where “she’s not able physically”
+basque-modal-22,Beth igeri egitera joan DAITEKE,Beth swim do go be.3sg.pot.abs,Beth CAN go swimming,
+basque-modal-22b,Beth igeri egitera joan AHAL da.,Beth swim do go MOD aux,Beth may go swimming,infelicitous
+basque-modal-23,(Nik) Ez dut arropa formala eraman BEHAR ,I neg aux Clothes formal wear MUST,I DON’T HAVE TO / NEEDN’T wear formal clothes,
+basque-modal-23b,"Arropa formala eraman behar dut, baina (Nik) Ez dut arropa formala eraman BEHAR","clothes formal   wear     MOD  aux, but     (me) neg aux clothes formal wear     MOD","I ought to wear formal clothes to the party, but I DON’T HAVE TO / NEEDN’T wear formal clothes.",Consultant’s comment: ‘could be contradictory in the above form’
+basque-modal-23c,"Arropa formala eraman behar dut, baina ez dut eraman eraman BEHAR ","clothes formal  wear      MOD  aux, but   neg aux wear  wear       MOD","I ought to wear formal clothes to the party, but I DON’T HAVE TO / NEEDN’T wear formal clothes.",One way to conjoin ought with non-necessity: reduplication of the verb in the second conjunct 
+basque-modal-24,Ez dut maskara eraman behar,Neg aux mask wear MOD,I DON’T HAVE TO / NEEDN’T wear a mask,
+basque-modal-25,EZIN ZENUKE motorra kaskor-ik gabe gidatu	,Imposs be.2sg.erg.pot motorbike helmet-PART without ride,You must not ride a motor bike without a helmet. ,(wouldn’t be able to…)
+basque-modal-25b,EZIN duzu motorra kaskor-ik gabe gidatu	,Imposs aux.2 motorbike helmet-PART without ride,You may not ride a motor bike without a helmet. ,(you may not)
+basque-modal-26,Bisitariak EZIN dira 6 [ostean/ ondoren] gelditu,Visitors imposs be.3pl.ind 6 [after] stay,Visitors MUST NOT / MAY NOT stay after 6pm,more prohibitive + more direct
+basque-modal-26b,Bisitariak EZIN DAITEZKE 6 ostean gelditu	,Visitors imposs be.3pl.pot 6 after stay,Visitors MUST NOT / MAY NOT stay after 6pm,infelicitous; ‘more likely something written on the door’
+basque-modal-27,Errepide hau hartu BEHAR duzu,Road this take MOD aux.2,You HAVE TO take this road,
+basque-modal-28,A taldea B taldea-ri irabazi BEHAR dio.,A team B  team-dat     win MOD izan.3sg.,Team A HAS TO beat Team B.,
+basque-modal-28b,A taldea B taldea zapaldu BEHAR du.,A team B team	  step-on  MOD aux.,Team A HAS TO beat Team B.,"stronger form of win, like “team A steps on B”"
+basque-modal-29,Ginoz-etik eskatu BEHAR dugu pizza-rik onena jateko/bazkaltzeko… ez dago besterik,Gino - __               MOD    aux    bizza-superlative                                     Neg there.is any.other.way,We HAVE TO order from Gino’s to eat the best pizza.,
+basque-modal-29b,Ginoz-etik eskatu BEHAR dugu pizza-rik onena jateko/bazkaltzeko…,Gino - __               MOD    aux    bizza-superlative,We need to order from Gino’s to eat the best pizza.,"ungrammatical; Without the consequent, emphasis is different - “we need to” instead of “we have to”"
+basque-modal-30,Etxean egon behar naiz paketea jasotzeko.,At.home egon MOD izan.1sg package receive,I have to be at home to receive the package.,
+basque-modal-30b,Etxean egonen behar naiz paketea jasotzeko.,At.home egonEN MOD izan.1sg package receive,I have to be at home to receive the package.,infelicitous
+basque-modal-31,egon behar,be MOD,You MUST stay home,a complete sentece is not elicited
+basque-modal-31b,egonen behar,be-EN MOD,You MUST stay home,infelicitous; a complete sentece is not elicited
+basque-modal-32,Supermerkatu-ra joateko autobusa hartu BEHAR(KO) ZENUKE. 	,supermarket -to go.inorderto bus take behar.fut    be.2sg.erg.pot,"To get to the shopping centre, you SHOULD take the bus.",zenuke' is some sort of strong suggestion
+basque-modal-32b,Supermerkatu-ra joateko autobusa hartu BEHAR duzu. ,supermarket -to go.inorderto bus take behar aux,"To get to the shopping centre, you have to take the bus.",This seems to be “have to” rather than “should”
+basque-modal-33,Errepide txiki-etatik zehar joan BEHAR(KO) ZINATEKE,Roads small.PERL? through go,You SHOULD go via the smaller roads.,
+basque-modal-34,Nire denda-ra joan BEHARKO ZINATEKE alkondara berri bat eros-teko. (erosi),My store.to go                                                  shirt new one buy-purpose,You SHOULD go to my shop to buy a new shirt.,
+basque-modal-35,Lehenengo bidea har  DEZAKEZU,First way take be.2nd.potential,You CAN take way 1.,preferred 
+basque-modal-35b,Lehenengo bidea hartu AHAL duzu,First way take MOD aux,You CAN take way 1.,dispreferred
+basque-modal-36,[V + potential izan],???,We CAN go to the swimming pool to the west.,preferred;  a complete sentece is not elicited
+basque-modal-36b,AHAL,MOD,We CAN go to the swimming pool to the west.,dispreferred;  a complete sentece is not elicited
+basque-modal-37,DEZAKEZU,be.2nd.potential,You CAN go to this boutique.,preferred; a complete sentece is not elicited
+basque-modal-37b,AHAL,MOD,You CAN go to this boutique.,dispreferred; a complete sentece is not elicited
+basque-modal-38,Autobusa har DEZAKEZU baina ez duzu (hori) egin beharrik.,Bus take can but Neg Aux.2sg (that) do necessarily?,"You should take the bus, but you don't need to do so.",
+basque-modal-39,EZIN duzu beste errepide-E hartu,Cannot aux another road-RIK to take ,you CAN’T take another road.,
+basque-modal-40,A Taldeak EZIN dio B taldea-ri irabazi.,A team.Erg cannot aux B team.dat  win ,Team A CAN’T lose to Team B.,
+basque-modal-41,Txisa egin BEHAR dut nahitaez/derrigorrez/bai edo bai,Pee do MOD aux necessarily / compulsorily / ,I HAVE to pee so badly!,
+basque-modal-42,Doministiku egin BEHAR dut,sneeze          do    MOD     aux,I HAVE to sneeze.,
+basque-modal-43,Ura eskubiko zulotik atera BEHAR da.,Water right    hole.from come.out must aux,The water must come out from the right output. ,
+basque-modal-44,Kiwiak hemen hazi DAITEZKE,CAN,duku trees CAN grow here.,
+basque-modal-44c,Kiwiak hemen hazi LITEZKE,COULD,duku trees could grow here.,
+basque-modal-44b,Kiwiak hemen hazi AHAL dira,???,duku trees CAN grow here.,
+basque-modal-45,Eimi-k pasta tradizionala sukaldu DEZAKE,???,Amy CAN make traditional Italian pasta.,
+basque-modal-45b,Eimi-k pasta tradizionala sukaldu LEZAKE,???,Amy CAN make traditional Italian pasta.,
+basque-modal-45c,Eimik pasta tradizionala sukaldu AHAL du,???,Amy CAN make traditional Italian pasta.,least preferred 
+basque-modal-46,Ben orain ibili DEZAKE,Ben now walk MOD,Ben CAN walk now.,
+basque-modal-46b,Ben orain ibili LEZAKE,Ben now walk MOD,Ben CAN walk now.,infelicitous: 'lezake' is not embeddable under NOW
+basque-modal-46c,Ben orain ibili AHAL daiteke,Ben now walk MOD can,Ben CAN walk now.,
+basque-modal-46d,Ben orain ibili AHAL da,Ben now walk MOD aux,Ben CAN walk now.,least preferred 
+basque-modal-47,Pablok harria jaso DEZAKE,Pablo stone lift ABIL,Paul CAN lift that rock.,
+basque-modal-47b,Pablok harria jaso  LEZAKE,Pablo stone lift ABIL,Paul CAN lift that rock.,
+basque-modal-47c,Pablok harris jaso ahal du,Pablo stone lift MOD aux,Paul CAN lift that rock.,least preferred
+basque-modal-48,Bidai furgonetak 20 pertsona egokitu DITZAKETE,Travel van 20 person fit __,Travel vans CAN fit 20 people.,
+basque-modal-48b,Bidai furgonetak 20 pertsona egokitu LITZAKETE,Travel van 20 person fit __,Travel vans CAN fit 20 people.,
+basque-modal-49,Ez dago ziurtasun-ik sumendiak 5 urteetan aktibatuko dela,Neg aux there.is.certainty-NPI volcano 5 years be.activated aux,There is no certainty that the volcano will erupt in the next 5 years. ,
+basque-modal-49b,Ez da ziur sumendiak 5 urteetan aktibatuko dela,Neg aux certain volcano 5 years be.activated aux,It is not certain that the volcano will erupt in the next 5 years. ,
+basque-modal-49c,Sumendia EZIN izango da 5 urteetan aktibatu,volcano MOD ? aux 5 years be.activated,The volcano can't erput in the next 5 years,infelicitous
+basque-modal-50,EZIN da ibili,MOD aux walk,He CAN’T walk,
+basque-modal-50b,AHAL,MOD,He CAN’T walk,infelicitous; a complete sentece is not elicited
+basque-modal-51,Ura EZIN da ezkerreko zulotik atera,Water MOD aux left.GEN hole.from come out ,The water CAN’T come out from the left output. ,
+basque-modal-52,Erosi BEHAR dut.,Buy MOD aux,I want to buy it.,
+basque-modal-52b,Erosi NAHI dut,Buy MOD aux ,I want to buy it.,
+basque-modal-53,Zinemara joan NAHI dut,Cinema.to go want aux,I WANT to go to the cinema.,
+basque-modal-53b,Zinemara joan BEHAR dut,Cinema.to go MOD aux,I WANT to go to the cinema.,With BEHAR the bouletic sense possible here as well. 
+basque-modal-54,Nire laguna ni bisitatzera etorri NAHI du.,My friend me visit.to come wants aux,My friend WANTS to come visit me.,
