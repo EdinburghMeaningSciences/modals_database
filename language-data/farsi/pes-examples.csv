@@ -2,7 +2,7 @@ ref,context,words,gloss,translation,comment
 pes-modal-1,epi-nec-1,Ben 	bayad 	rafte 	 bash-ad        	    shena,Ben 	MOD  	go.pp 	 aux.subj-3sg 	    swimming,‘Ben must be swimming’,
 pes-modal-2,epi-nec-2,John  	bayad 	madrese    bash-ad,John 	MOD 	school 	    be.subj-3sg,‘John must be at school’,
 pes-modal-3,epi-nec-3,Bayad	  tu    C 	   bash-ad,MOD   	  in    C    be.subj-3sg,‘(it) must be in C’,
-pes-modal-4,epi-nec-4,#sag 	 bayad 	xune  	na-bash-ad,  dog 	MOD  	house 	not-be.subj-3sg,,
+pes-modal-4,epi-nec-4,sag          bayad         xune          na-bash-ad,  dog 	MOD  	house 	not-be.subj-3sg,,
 pes-modal-4b,epi-nec-4,Sag  	na     - bayad 	xune   bash-ad,Dog 	NEG - MOD  	house  be.subj-3sg,“It must be the case that the dog is not in the house”,"correspondent says second, epistemic, is better - where negation is on the modal)"
 pes-modal-5,epi-wn-1,Bayad,MOD,,"If one needs to contrast between certainty vs. weak necessity, one adds a modifier like “definitely” to bayad. Or, one can also weaken bayad with “probably”"
 pes-modal-6,epi-wn-2,Bayad,MOD,,"If one needs to contrast between certainty vs. weak necessity, one adds a modifier like “definitely” to bayad. Or, one can also weaken bayad with “probably”"
@@ -13,21 +13,20 @@ pes-modal-8c,epi-pos-1,emkan         be     madrese         be-y-ad,MOD 	 to    
 pes-modal-9,epi-pos-2,Shayad         gardanband- e          Grace         gom         shode                 bash-ad,MOD 	 necklace     - ez  Grace 	lost  	become.pp 	aux.subj-3sg,‘Grace’s necklace may be lost’,
 pes-modal-9b,epi-pos-2,Momken         gardanband- e          Grace         gom         shode                 bash-ad,MOD 	 necklace     - ez  Grace 	lost  	become.pp 	aux.subj-3sg,‘Grace’s necklace may be lost’,preferred
 pes-modal-9c,epi-pos-2,emkan        gardanband- e          Grace         gom         shode                 bash-ad,MOD 	 necklace     - ez  Grace 	lost  	become.pp 	aux.subj-3sg,‘Grace’s necklace may be lost’,less preferred
-pes-modal-10,epi-pos-3,Momken   ast              	(ke)   gorbe 	daxel  	bash-ad…,Possible     be.pres.3sg         that    cat             inside         be.subj- 3sg…,‘(it’s) possible that the cat is inside…’,
-pes-modal-10b,epi-pos-3,… Momken ham 	ast	      	(ke) 	biroon	bash-ad,… Possible  also 	be.pres.3sg 	that    	outside	be.subj- 3sg,… ‘(it’s) possible that the cat is outside’,
-pes-modal-10c,epi-pos-3,"Gorbe	 shayad    daxel	   bash-ad,          shayad 	ham 	biroon 	bash-ad","Cat     	 MOD	   inside    be.subj-3sg,  maybe  	too   	outside  be.subj-3sg","‘(The) cat maybe inside, or inside’",
+pes-modal-10,epi-pos-3,Momken   ast                      (ke)   gorbe         daxel          bash-ad ...Momken ham         ast                      (ke)         biroon        bash-ad,Possible     be.pres.3sg         that    cat             inside         be.subj- 3sg ... Possible  also         be.pres.3sg         that            outside        be.subj- 3sg,‘(it’s) possible that the cat is inside…(it’s) possible that the cat is outside’,
+pes-modal-10b,epi-pos-3,"Gorbe         shayad    daxel           bash-ad,          shayad         ham         biroon         bash-ad","Cat     	 MOD	   inside    be.subj-3sg,  maybe  	too   	outside  be.subj-3sg","‘(The) cat maybe inside, or inside’",
 pes-modal-11,epi-pos-4,Daniel         momken   ast                 be        NYC     be               - rav - ad,Daniel         possible            to        NYC          imperf.subj - go   - 3sg,‘(It’s) possible Daniel was going to NYC’,
 pes-modal-11b,epi-pos-4,Daniel 	shayad	be	NYC     be	       - rav - ad,Daniel        maybe            to        NYC          imperf.subj - go   - 3sg,‘Daniel was maybe going to NYC’,
 pes-modal-11c,epi-pos-4,Shayad Daniel	 raft 		       	 NYC,Maybe         be.pres.3sg   Daniel          go.perfective.subj-3sg         NYC,‘Maybe Daniel went to NYC’,
-pes-modal-11d,epi-pos-4,#momken	ast                Daniel	 raft 		       	 NYC,possible          be.pres.3sg   Daniel          go.perfective.subj-3sg         NYC,‘Maybe Daniel went to NYC’,
+pes-modal-11d,epi-pos-4,momken        ast                Daniel         raft                                 NYC,possible          be.pres.3sg   Daniel          go.perfective.subj-3sg         NYC,‘Maybe Daniel went to NYC’,
 pes-modal-12,epi-nnec-1,Shayad   xune  	na	- bash-ad,MOD      home 	neg	- be.subj-3sg,‘(she) is maybe not at home’,Negation on embedded verb
-pes-modal-12b,epi-nnec-1,?mi       -tavan - ad    xune  bash-ad,Imperf- MOD   -3sg home be.subj-3sg,,
+pes-modal-12b,epi-nnec-1,mi       -tavan - ad    xune  bash-ad,Imperf- MOD   -3sg home be.subj-3sg,,
 pes-modal-12c,epi-nnec-1,Momken   ast              	(ke)    	xune  	na   - bash-ad,Possible     be.pres.3sg 	(that)  	home 	neg - be.subj-3sg,‘It is possible that she is not home’,
-pes-modal-12d,epi-nnec-1,#Momken   n     -  ist 		   (ke)    xune  	bash-ad,Possible    neg - be.pres.3sg 	   (that) 	home 	be.subj- 3sg,,
+pes-modal-12d,epi-nnec-1,Momken   n     -  ist                    (ke)    xune          bash-ad,Possible    neg - be.pres.3sg 	   (that) 	home 	be.subj- 3sg,,
 pes-modal-13,epi-imp-1,Momken	 n-ist 		(ke) 	 xune  	bash-ad,Possible 	neg-be.pres.3sg that	 home 	be.subj-3sg,‘It is not possible that he is home’,
 pes-modal-13b,epi-imp-1,Emkan         	na -  dar   - ad 	(ke) 	 xune  	bash-ad,Possibility	neg- have - 3sg  that	 home 	be.subj-3sg,‘It is not possible that he is home ’,
-pes-modal-13c,epi-imp-1,#Shayad	xune  	na    -	 bash-ad,Maybe	home 	neg  - 	 be.subj-3sg,,
-pes-modal-13d,epi-imp-1,#Momken	 ast		(ke)  	xune  	na    - bash-ad, Possible          be.pres.3sg        that          home         neg  - be.subj-3sg,,
+pes-modal-13c,epi-imp-1,Shayad        xune          na    -         bash-ad,Maybe	home 	neg  - 	 be.subj-3sg,,
+pes-modal-13d,epi-imp-1,Momken         ast                (ke)          xune          na    - bash-ad, Possible          be.pres.3sg        that          home         neg  - be.subj-3sg,,
 pes-modal-14,epi-imp-2,Momken   n     -  ist …,Possible    neg -  be.pres.3sg …,it MUST NOT / CAN’T be in C. ,
 pes-modal-14b,epi-imp-2,Emkan     na    -  dar    -   ad …,Possible    neg  -  have  -  3sg …,it MUST NOT / CAN’T be in C. ,
 pes-modal-14c,epi-imp-2,Ne	mi       -  tavan	- ad   	tu  C  bashad,Neg        imperf - MOD        - 3sg         in  C  be.subj.3sg,it MUST NOT / CAN’T be in C. ,
@@ -37,7 +36,7 @@ pes-modal-16,deo-nec-2,Bazdidkonandegan 	bayad 	bimarestan   ra	   ta   sa’at 
 pes-modal-16b,deo-nec-2,Lazem      ast                (ke)   Bazdidkonandegan bimarestan ra   ta  sa’at-e    6 tark   be            - kon -and,Necessary be-pres-3sg  (that) visitors 		hospital      acc by clock-ez 6 leave impf.subj-  do  - 3pl,‘(It’s) necessary for visitors to leave the hospital by 6 o’clock’,
 pes-modal-16c,deo-nec-2,Majboor hast-and … ,“Forced…”,“Forced…” ,
 pes-modal-17,deo-wn-2,Moshtarian          bayad           dast           -  an        - eshan    ra           be          - shur   - and …amma          majbur    n     -  ist               - and,Customers           MOD           hand         -  PL  - POSS.3pl   acc          impf.sub - wash  - 3pl …but       	forced     neg -  be.pres.3sg   - 3pl,"Customers ought to wash theri hands, but they don't have to.","(no particular modal form, complex verbal predicate instead) "
-pes-modal-17b,deo-wn-2,#Lazem,MOD,,too strong for weak necessity
+pes-modal-17b,deo-wn-2,Lazem,MOD,,too strong for weak necessity
 pes-modal-18,deo-wn-3,Behtar	ast		(ke)	mask	be-zan-am,Better	be.pres.3sg	that	mask	impf.sub - hit  - 1sg, I OUGHT TO wear a face covering.,
 pes-modal-18b,deo-wn-3,Bayad	mask	be-zan-am,MOD	mask	impf.sub - hit  - 1sg, I OUGHT TO wear a face covering.,
 pes-modal-19,deo-pos-1,Martin	mi        -  tavan        - ad    (ke)     savar - e   charkh -o- falak  	be        	       -  shav        - ad,Matin	imperf -  MOD.pres - 3sg  (that)   rider - ez  ferris         wheel 	imperf.subj  -  become  -  3sg ,Martin MAY ride the ferris wheel.,
@@ -57,14 +56,14 @@ pes-modal-25,deo-imp-2,Na-bayad …,neg-MOD,,
 pes-modal-25b,deo-imp-2,Ne-mi-shav-ad,neg-Imperf-become.pres-3sg,,
 pes-modal-26,tel-nec-1,"Agar be            - khah - i     az    A be B be          - rav - i,      bayad (hatman) az      in var be	    - rav - i","If      impf.subj - want -2sg from A to B impf.subj - go  - 2sg,  MOD   definitely  from this side Impf.subj - go  - 2sg","If you go from Location A to Location B, you HAVE TO take this road.","Hatman = adverbial [definitely], strengthening bayad. 
 Dropping hatman doesn’t make it deontic, but weakens the teleological reading."
-pes-modal-26b,tel-nec-1,#majbur,MOD,,
+pes-modal-26b,tel-nec-1,majbur,MOD,,
 pes-modal-27,tel-nec-2,Bayad + (intonation) / (adverbial modification),MOD,,
 pes-modal-27b,tel-nec-2,Majbur,MOD,,“we HAVE TO win”
 pes-modal-28,tel-nec-3,Bayad + (intonation) / (adverbial modification),MOD,,
-pes-modal-28b,tel-nec-3,#Majbur ,MOD,,
+pes-modal-28b,tel-nec-3,Majbur ,MOD,,
 pes-modal-29,tel-wn-1,Bayad,MOD,,
 pes-modal-29b,tel-wn-1,Behtar ast ke,Better is that,,
-pes-modal-30,tel-wn-2,#bayad ,MOD,,
+pes-modal-30,tel-wn-2,bayad ,MOD,,
 pes-modal-31,tel-wn-3,Bayad,MOD,,as an invitation
 pes-modal-32,tel-pos-1,Mi   - tavan-i     ke     az     masir-e 1 be             -rav-i ,Impf- MOD-2sg that  from  way-ez 1 impf.subj-go-2s,You CAN take way 1.,
 pes-modal-32b,tel-pos-1,Mi	- shav	   - ad    az     masir - e 	1  be                - rav - i 		,Imperf	- become - 3sg  by     way   - ez 	1  imperf.subj - go  - 2sg,You CAN take way 1.,
@@ -72,37 +71,38 @@ pes-modal-33,tel-pos-2,Mi        - tavan - im,Imperf - MOD - 1pl,,
 pes-modal-34,tel-pos-3,Mi        - tavan - i,Imperf - MOD - 2sg,,
 pes-modal-35,tel-nnec-1,Ama	 hatman    na   -  bayad 	ba      otubus 	be	       - rav - i ,But 	definitely neg -  must 	with   bus 	imperf.subj - go	  - 2sg    ,“But it’s not the case that you must definitely go by bus”,
 pes-modal-35b,tel-nnec-1,Hatman lazem n-ist  - ,definitely MOD neg-be.pres.3sg,,
-pes-modal-35c,tel-nnec-1,#lazem n-ist  - ,MOD neg-be.pres.3sg,,"Without hatman, infelicity. “you mustn’t go with bus”, a weaker variant) "
+pes-modal-35c,tel-nnec-1,lazem n-ist  - ,MOD neg-be.pres.3sg,,"Without hatman, infelicity. “you mustn’t go with bus”, a weaker variant) "
 pes-modal-36,tel-imp-1,Ne   - mi   - tavan  - i         az         rah   - e   digar-i         be               - rav - i ,Neg - imp - MOD - 2sg        from        way - ez  another-        imperf.subj - go          - 2sg,you CAN’T take another road,Ne is a special variant of negation that co-occurs with imperfective forms. The normal negation na cannot co-occur with imperfectives. 
 pes-modal-36b,tel-imp-1,Ne     - mi     - shav   - ad   az          rah   - e   digar-i         be               - rav - i ,Neg   - impf - MOD -  sg   from         way - ez  another-        imperf.subj - go          - 2sg,you CAN’T take another road,
 pes-modal-36c,tel-imp-1,Na    - bayad   az         rah   - e   digar-i         be               - rav - i ,Neg  - MOD   from        way - ez  another-        imperf.subj - go          - 2sg,you CAN’T take another road,
 pes-modal-36d,tel-imp-1,Dar  - am    mi         - rav            - am,Aux - 1sg   impf - go.pres - 1sg,you CAN’T take another road,
-pes-modal-37,tel-imp-2,Ne   - mi   - tavan  -,Neg - imp - MOD ,,"No negation of Majbur -> majbur n-ist, it would have the reading “The team is not forced to…”"
+pes-modal-37,tel-imp-2,Ne   - mi   - tavan  -,Neg - imp - MOD ,,
 pes-modal-37b,tel-imp-2,Ne     - mi     - shav   - ,Neg   - impf - MOD,,
 pes-modal-37c,tel-imp-2,Na    - bayad,Neg  - MOD,,
 pes-modal-37d,tel-imp-2,Dar  - ,Aux,,
+pes-modal-37e,tel-imp-2,majbur n-ist,forced neg-be.pres.3sg,,"No negation of Majbur -> majbur n-ist, it would have the reading “The team is not forced to…”"
 pes-modal-38,cir-nec-1,Bayad	 be	        -  rav  - am    dast-shoyi,MOD 	 imperf.subj  -  go   - 1sg   toilet,‘I must go to the toilet’ / ‘I have to go to the toilet’ ,
 pes-modal-39,cir-nec-3,Ab       bayad 	az 	khoroji - e    rast   be	      - ya	     - d 	   biroon,Water  mod 	from 	output  - ez  right impf.subj - come - 3sg   out,the water MUST come out from the right output. ,
-pes-modal-39b,cir-nec-3,#Lazem - ast  ab az …. ,MOD -  be.pres.3sg water from ...,,
+pes-modal-39b,cir-nec-3,Lazem - ast  ab az …. ,MOD -  be.pres.3sg water from ...,,
 pes-modal-40,cir-pos-1,Derakht	- e     duku 	mi	-  tavan	  - ad	inja 	dar  be		-  y	- ad,Tree	- ez   duku 	imperf  -  MOD   - 3sg 	here 	at    impf.subj	-  come - 3sg,duku trees CAN  grow here.,
 pes-modal-40b,cir-pos-1,Mi-shav-ad ,Imperf-mod-3sg ,,
 pes-modal-41,cir-pos-2,Amy balad  	   ast              	pasta 	be	     - paz	   - ad,Amy knows.how be.pres.3sg 	pasta  	imperf.sub - cook - 3sg,Amy CAN make traditional Italian pasta,
 pes-modal-42,cir-pos-3,Mi	- tavan	-  ad  ,Imperf	- MOD	-  3sg,,
-pes-modal-42b,cir-pos-3,#mi - shav - ad ,Imperf-mod-3sg ,,“it is possible for him to walk”
+pes-modal-42b,cir-pos-3,mi - shav - ad ,Imperf-mod-3sg ,,“it is possible for him to walk”
 pes-modal-43,cir-pos-4,Mi	- tavan - ad,Imperf	- MOD - 3sg,,
-pes-modal-43b,cir-pos-4,#mi-shav-ad,Imperf-mod-3sg ,,“it is possible for him to lift a rock”
+pes-modal-43b,cir-pos-4,mi-shav-ad,Imperf-mod-3sg ,,“it is possible for him to lift a rock”
 pes-modal-44,cir-pos-5,Van-ha-ye mosaferati Mi-tavan-and 20 nafar ro ja be-dah-and,Van-pl-ez travel  imperf-MOD-3sg 20 person acc place impf.subj-give-3pl        ,,
-pes-modal-44b,cir-pos-5,#mi-shav-ad,Imperf-mod-3sg ,,
+pes-modal-44b,cir-pos-5,mi-shav-ad,Imperf-mod-3sg ,,
 pes-modal-45,cir-nnec-1,Momken 	ast 	ama  	hatmi  	nist 	ke,Possible  	is   	but   	certain 	isn’t 	(that),,
 pes-modal-46,cir-imp-1,Ne-mi-tavan-am	jelo-ye		atse-am			ro		be-gir-am,neg-impf-MOD-1sg        front-ez                sneez-POSS.1sg        acc                impf.subj-get-1sg,I CAN’T help sneezing!,
 pes-modal-46b,cir-imp-1,Ne mi-tavan-ad na-rav-am dast-shouyi,neg-impf-MOD-3sg neg-go-1sg hand-?,,
 pes-modal-47,cir-imp-2,Ne mi-tavan-ad …,neg-impf-MOD-3sg,,
 pes-modal-47b,cir-imp-2,Momken n-ist …,Possible neg-be.pres.3sg,,
-pes-modal-47c,cir-imp-2,#na bayad,neg MOD,,"doesn’t work, nor does it work when negating embedded verb"
-pes-modal-47d,cir-imp-2,# Ab      bayad  az      khoroji - e      rast	  na   - ya      - d	    biroon,   Water mod     from  output  - ez    right  neg - come - 3sg  out,,
+pes-modal-47c,cir-imp-2,na bayad,neg MOD,,"doesn’t work, nor does it work when negating embedded verb"
+pes-modal-47d,cir-imp-2, Ab      bayad  az      khoroji - e      rast          na   - ya      - d            biroon,   Water mod     from  output  - ez    right  neg - come - 3sg  out,,
 pes-modal-48,bou-nec-1,Bayad	be	   - khar	-  am    - esh,Mod	impf.subj - buy	-  2sg   - it,I need to buy it,‘I must(ish)’ with a bouletic flavour 
 pes-modal-48b,bou-nec-1,Mi    - xah   - am          be	 - khar	- am  - esh,Impf - want - 1sg Mod impf.subj - buy	- 2sg - it,I want to buy it,‘I want to buy it’
 pes-modal-49,bou-nec-2,Mi - xah - am be  - rav - am cinema,Impf - want - 1sg  impf.sub - go  - 1sg cinema,I WANT to go to the cinema., (desire - some sort of rising intonation - vowel lengthening)
-pes-modal-49b,bou-nec-2,# Mi - xah - am be  - rav - am cinema,Impf - want - 1sg impf.sub - go - 1sg cinema,I WANT to go to the cinema.,"(plan - stress on the mi, falling and short vowel)"
+pes-modal-49b,bou-nec-2,Mi - xah - am be  - rav - am cinema,Impf - want - 1sg impf.sub - go - 1sg cinema,I WANT to go to the cinema.,"(plan - stress on the mi, falling and short vowel)"
 pes-modal-50,bou-nec-3,Mi-xah-ad,,,
-pes-modal-50b,bou-nec-3,#bayad ,,,
+pes-modal-50b,bou-nec-3,bayad ,,,
