@@ -1,0 +1,142 @@
+ref,context,premise,example,judgment,comment,index
+dutch-modal-evid1,epi-nec-1,na,dutch-modal-1,felicitous,,1
+dutch-modal-evid2,epi-nec-2,na,dutch-modal-2,felicitous,,2
+dutch-modal-evid2b,epi-nec-2,na,dutch-modal-2b,infelicitous,,3
+dutch-modal-evid3,epi-nec-3,na,dutch-modal-3,felicitous,,4
+dutch-modal-evid3b,epi-nec-3,na,dutch-modal-3b,felicitous,preferred,5
+dutch-modal-evid4,epi-nec-4,na,dutch-modal-4,felicitous,,6
+dutch-modal-evid4b,epi-nec-4,na,dutch-modal-4b,felicitous,,7
+dutch-modal-evid4c,epi-nec-4,na,dutch-modal-4c,felicitous,,8
+dutch-modal-evid4d,epi-nec-4,na,dutch-modal-4d,infelicitous,,9
+dutch-modal-evid4e,epi-nec-4,na,dutch-modal-4e,infelicitous,,10
+dutch-modal-evid4f,epi-nec-4,na,dutch-modal-4f,felicitous,,11
+dutch-modal-evid5,epi-wn-1,na,dutch-modal-5,felicitous,"""more sure""",12
+dutch-modal-evid5b,epi-wn-1,na,dutch-modal-5b,felicitous,"""not sure""",13
+dutch-modal-evid5c,epi-wn-1,na,dutch-modal-5c,felicitous,preferred,14
+dutch-modal-evid6,epi-wn-2,na,dutch-modal-6,felicitous,,15
+dutch-modal-evid6b,epi-wn-2,na,dutch-modal-6b,felicitous,preferred,16
+dutch-modal-evid7,epi-wn-3,na,dutch-modal-7,felicitous,,17
+dutch-modal-evid7b,epi-wn-3,na,dutch-modal-7b,felicitous,,18
+dutch-modal-evid7c,epi-wn-3,na,dutch-modal-7c,felicitous,,19
+dutch-modal-evid7d,epi-wn-3,na,dutch-modal-7d,felicitous,preferred,20
+dutch-modal-evid8,epi-pos-1,na,dutch-modal-8,felicitous,,21
+dutch-modal-evid8b,epi-pos-1,na,dutch-modal-8b,felicitous,marginally acceptable,22
+dutch-modal-evid8c,epi-pos-1,na,dutch-modal-8c,infelicitous,,23
+dutch-modal-evid9,epi-pos-2,na,dutch-modal-9,felicitous,,24
+dutch-modal-evid9b,epi-pos-2,na,dutch-modal-9b,felicitous,,25
+dutch-modal-evid10,epi-pos-3,na,dutch-modal-10,felicitous,,26
+dutch-modal-evid10b,epi-pos-3,na,dutch-modal-10b,ungrammatical,,27
+dutch-modal-evid10c,epi-pos-3,na,dutch-modal-10c,felicitous,,28
+dutch-modal-evid10d,epi-pos-3,na,dutch-modal-10d,felicitous,,29
+dutch-modal-evid10e,epi-pos-3,na,dutch-modal-10e,ungrammatical,,30
+dutch-modal-evid11,epi-pos-4,na,dutch-modal-11,felicitous,,31
+dutch-modal-evid11b,epi-pos-4,na,dutch-modal-11b,felicitous,,32
+dutch-modal-evid11c,epi-pos-4,na,dutch-modal-11c,infelicitous,,33
+dutch-modal-evid12,epi-nnec-1,na,dutch-modal-12,felicitous,,34
+dutch-modal-evid12b,epi-nnec-1,na,dutch-modal-12b,felicitous,dispreferred,35
+dutch-modal-evid12c,epi-nnec-1,na,dutch-modal-12c,felicitous,,36
+dutch-modal-evid12d,epi-nnec-1,na,dutch-modal-12d,infelicitous,,37
+dutch-modal-evid12e,epi-nnec-1,na,dutch-modal-12e,infelicitous,,38
+dutch-modal-evid12f,epi-nnec-1,na,dutch-modal-12f,felicitous,,39
+dutch-modal-evid12g,epi-nnec-1,na,dutch-modal-12g,infelicitous,,40
+dutch-modal-evid13,epi-imp-1,na,dutch-modal-13,felicitous,,41
+dutch-modal-evid13b,epi-imp-1,na,dutch-modal-13b,felicitous,marginally acceptable,42
+dutch-modal-evid14,epi-imp-2,na,dutch-modal-14,felicitous,,43
+dutch-modal-evid15,deo-nec-1,na,dutch-modal-15,felicitous,,44
+dutch-modal-evid16,deo-nec-2,na,dutch-modal-16,felicitous,,45
+dutch-modal-evid16b,deo-nec-2,na,dutch-modal-16b,felicitous,,46
+dutch-modal-evid17,deo-wn-1,na,dutch-modal-17,felicitous,,47
+dutch-modal-evid18,deo-wn-2,na,dutch-modal-18,felicitous,,48
+dutch-modal-evid19,deo-wn-3,na,dutch-modal-19,felicitous,,49
+dutch-modal-evid19b,deo-wn-4,na,dutch-modal-19b,felicitous,,50
+dutch-modal-evid20,deo-pos-1,na,dutch-modal-20,felicitous,preferred,51
+dutch-modal-evid20b,deo-pos-1,na,dutch-modal-20b,felicitous,,52
+dutch-modal-evid21,deo-pos-2,na,dutch-modal-21,felicitous,,53
+dutch-modal-evid21b,deo-pos-2,na,dutch-modal-21b,felicitous,preferred,54
+dutch-modal-evid21c,deo-pos-2,na,dutch-modal-21c,felicitous,most preferred,55
+dutch-modal-evid22,deo-pos-3,na,dutch-modal-22,felicitous,preferred by the consultant,56
+dutch-modal-evid22b,deo-pos-3,na,dutch-modal-22b,felicitous,,57
+dutch-modal-evid22c,deo-pos-3,na,dutch-modal-22c,felicitous,preferred by the reviewer,58
+dutch-modal-evid23,deo-pos-4,na,dutch-modal-23,felicitous,,59
+dutch-modal-evid23b,deo-pos-4,na,dutch-modal-23b,infelicitous,,60
+dutch-modal-evid24,deo-pos-5,na,dutch-modal-24,felicitous,,61
+dutch-modal-evid25,deo-nnec-1,na,dutch-modal-25,felicitous,,62
+dutch-modal-evid25b,deo-nnec-1,na,dutch-modal-25b,infelicitous,,63
+dutch-modal-evid25c,deo-nnec-1,na,dutch-modal-25c,felicitous,,64
+dutch-modal-evid26,deo-nnec-2,na,dutch-modal-26,felicitous,"""moet"" needs to be stressed",65
+dutch-modal-evid26b,deo-nnec-2,na,dutch-modal-26b,felicitous,more informal,66
+dutch-modal-evid26c,deo-nnec-2,na,dutch-modal-26c,felicitous,,67
+dutch-modal-evid27,deo-imp-1,na,dutch-modal-27,felicitous,,68
+dutch-modal-evid27b,deo-imp-1,na,dutch-modal-27b,felicitous,preferred,69
+dutch-modal-evid28,deo-imp-2,na,dutch-modal-28,felicitous,,70
+dutch-modal-evid28b,deo-imp-2,na,dutch-modal-28b,felicitous,,71
+dutch-modal-evid29,tel-nec-1,na,dutch-modal-29,felicitous,,72
+dutch-modal-evid29b,tel-nec-1,na,dutch-modal-29b,felicitous,,73
+dutch-modal-evid30,tel-nec-2,na,dutch-modal-30,felicitous,,74
+dutch-modal-evid30b,tel-nec-2,na,dutch-modal-30b,felicitous,,75
+dutch-modal-evid30c,tel-nec-2,na,dutch-modal-30c,ungrammatical,,76
+dutch-modal-evid30d,tel-nec-2,na,dutch-modal-30d,felicitous,preferred,77
+dutch-modal-evid31,tel-nec-3,na,dutch-modal-31,felicitous,,78
+dutch-modal-evid31b,tel-nec-3,na,dutch-modal-31b,felicitous,,79
+dutch-modal-evid31c,tel-nec-3,na,dutch-modal-31c,felicitous,preferred,80
+dutch-modal-evid32,tel-wn-1,na,dutch-modal-32,felicitous,,81
+dutch-modal-evid32b,tel-wn-1,na,dutch-modal-32b,felicitous,,82
+dutch-modal-evid32c,tel-wn-1,na,dutch-modal-32c,felicitous,dispreferred,83
+dutch-modal-evid32d,tel-wn-1,na,dutch-modal-32d,felicitous,,84
+dutch-modal-evid33,tel-wn-2,na,dutch-modal-33,felicitous,,85
+dutch-modal-evid33b,tel-wn-2,na,dutch-modal-33b,felicitous,,86
+dutch-modal-evid33c,tel-wn-2,na,dutch-modal-33c,felicitous,,87
+dutch-modal-evid33d,tel-wn-2,na,dutch-modal-33d,felicitous,,88
+dutch-modal-evid34,tel-wn-3,na,dutch-modal-34,felicitous,,89
+dutch-modal-evid34b,tel-wn-3,na,dutch-modal-34b,felicitous,,90
+dutch-modal-evid35,tel-pos-1,na,dutch-modal-35,felicitous,,91
+dutch-modal-evid35b,tel-pos-1,na,dutch-modal-35b,felicitous,,92
+dutch-modal-evid36,tel-pos-2,na,dutch-modal-36,felicitous,,93
+dutch-modal-evid36b,tel-pos-2,na,dutch-modal-36b,felicitous,,94
+dutch-modal-evid37,tel-pos-3,na,dutch-modal-37,felicitous,,95
+dutch-modal-evid37b,tel-pos-3,na,dutch-modal-37b,felicitous,,96
+dutch-modal-evid38,tel-nnec-1,na,dutch-modal-38,felicitous,,97
+dutch-modal-evid38b,tel-nnec-1,na,dutch-modal-38b,infelicitous,,98
+dutch-modal-evid38c,tel-nnec-1,na,dutch-modal-38c,felicitous,,99
+dutch-modal-evid39,tel-imp-1,na,dutch-modal-39,felicitous,,100
+dutch-modal-evid39b,tel-imp-1,na,dutch-modal-39b,felicitous,,101
+dutch-modal-evid39c,tel-imp-1,na,dutch-modal-39c,felicitous,,102
+dutch-modal-evid39d,tel-imp-1,na,dutch-modal-39d,felicitous,,103
+dutch-modal-evid40,tel-imp-2,na,dutch-modal-40,felicitous,,104
+dutch-modal-evid40b,tel-imp-2,na,dutch-modal-40b,felicitous,,105
+dutch-modal-evid40c,tel-imp-2,na,dutch-modal-40c,felicitous,,106
+dutch-modal-evid40d,tel-imp-2,na,dutch-modal-40d,felicitous,marginally acceptable,107
+dutch-modal-evid41,cir-nec-1,na,dutch-modal-41,felicitous,,108
+dutch-modal-evid42,cir-nec-2,na,dutch-modal-42,felicitous,,109
+dutch-modal-evid43,cir-nec-3,na,dutch-modal-43,felicitous,,110
+dutch-modal-evid44,cir-pos-1,na,dutch-modal-44,felicitous,,111
+dutch-modal-evid44b,cir-pos-1,na,dutch-modal-44b,felicitous,,112
+dutch-modal-evid44c,cir-pos-1,na,dutch-modal-44c,felicitous,,113
+dutch-modal-evid45,cir-pos-2,na,dutch-modal-45,felicitous,,114
+dutch-modal-evid45b,cir-pos-3,na,dutch-modal-45b,felicitous,,115
+dutch-modal-evid46,cir-pos-3,na,dutch-modal-46,felicitous,preferred,116
+dutch-modal-evid46b,cir-pos-3,na,dutch-modal-46b,felicitous,,117
+dutch-modal-evid47,cir-pos-4,na,dutch-modal-47,felicitous,,118
+dutch-modal-evid47b,cir-pos-4,na,dutch-modal-47b,infelicitous,,119
+dutch-modal-evid47c,cir-pos-4,na,dutch-modal-47c,felicitous,,120
+dutch-modal-evid48,cir-pos-5,na,dutch-modal-48,felicitous,,121
+dutch-modal-evid48b,cir-pos-5,na,dutch-modal-48b,infelicitous,,122
+dutch-modal-evid49,cir-nnec-1,na,dutch-modal-49,felicitous,marginally acceptable,123
+dutch-modal-evid49b,cir-nnec-1,na,dutch-modal-49b,felicitous,,124
+dutch-modal-evid50,cir-nnec-2,na,dutch-modal-50,felicitous,,125
+dutch-modal-evid51,cir-imp-3,na,dutch-modal-51,felicitous,,126
+dutch-modal-evid51b,cir-imp-3,na,dutch-modal-51b,infelicitous,,127
+dutch-modal-evid52,cir-imp-2,na,dutch-modal-52,felicitous,confident,128
+dutch-modal-evid52b,cir-imp-2,na,dutch-modal-52b,felicitous,,129
+dutch-modal-evid52c,cir-imp-2,na,dutch-modal-52c,felicitous,,130
+dutch-modal-evid52d,cir-imp-2,na,dutch-modal-52d,felicitous,purely hypothetical,131
+dutch-modal-evid52e,cir-imp-2,na,dutch-modal-52e,felicitous,less confident,132
+dutch-modal-evid53,cir-imp-4,na,dutch-modal-53,felicitous,,133
+dutch-modal-evid53b,cir-imp-4,na,dutch-modal-53b,felicitous,,134
+dutch-modal-evid53c,cir-imp-4,na,dutch-modal-53c,felicitous,purely hypothetical,135
+dutch-modal-evid54,bou-nec-1,na,dutch-modal-54,felicitous,,136
+dutch-modal-evid54b,bou-nec-1,na,dutch-modal-54b,felicitous,,137
+dutch-modal-evid55,bou-nec-2,na,dutch-modal-55,felicitous,,138
+dutch-modal-evid55b,bou-nec-2,na,dutch-modal-55b,felicitous,,139
+dutch-modal-evid56,bou-nec-3,na,dutch-modal-56,felicitous,,140
+dutch-modal-evid56b,bou-nec-3,na,dutch-modal-56b,felicitous,,141

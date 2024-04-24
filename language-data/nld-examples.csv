@@ -1,0 +1,146 @@
+ref,words,gloss,translation,comment
+dutch-modal-1,Ben zal  aan het zwemmen zijn.,Ben MOD prep DET swimming be,Ben must be swimming,
+dutch-modal-2,Jon zal op school zijn.,John MOD on school be,John must be at school,Zal is weaker than moet.  
+dutch-modal-2b,Jon moet op school zijn.,John MOD on school be,John must be at school,"Moet is not appropriate in this context, otherwise you’d just say “he is in school”"
+dutch-modal-3,Het moet in  C zitten.,It MOD in  C be,It must be in C,
+dutch-modal-3b,Het moeten in  C zitten.,It MOD in  C be,It must be in C,"If you’re 100% certain, moeten is more appropriate"
+dutch-modal-4,De hond moet buiten zijn.,The dog MOD outside be,the dog must be outside,
+dutch-modal-4b,De hond kan   niet  in het  huis  zijn.,The dog MOD NEG  in the  house  be,the dog must not be in the house,
+dutch-modal-4c,De  hond  kan  niet  binnen  zijn,The  dog  MOD  NEG  inside  be,the dog must not be in inside,
+dutch-modal-4d,De hond moet niet in het huis zijn,the dog MOD NEG in the house be,the dog must not be in the house,
+dutch-modal-4e,De hond zal buiten zijn.,The dog MOD outside be,the dog must be outside,Zal not appropriate because you’ve checked every room in the house
+dutch-modal-4f,De hond zal wel buiten zijn.,The dog MOD outside be,the dog must be outside,"""zal wel"" can be used here, giving rise to the inference that the speaker doesn't care that much where the dog is."
+dutch-modal-5,Ann zal nu bij het meer zijn.,Ann MOD now near the lake be,Ann should be at the lake right now,Zal more likely to be used when you’re more sure that she’s at the lake 
+dutch-modal-5b,Ann  zou bij het meer  kunnen zijn.,Ann  MOD near the lake MOD   be,Ann should be at the lake right now,for when you’re not sure: “could be there”
+dutch-modal-5c,Ann is waarschijnlijk  bij het meer,Ann is probably near the lake,Ann is probably near the lake,more natural option suggested by the reviewer
+dutch-modal-6,Het zal   aan het regenen  zijn in Goa.,It MOD prep it rain.inf  be in goa,it should be raining now in Goa.,
+dutch-modal-6b,Het zal  wel aan het regenen  zijn in Goa,It MOD prep it rain.inf be in goa,it should be raining now in Goa.,more natural option suggested by the reviewer
+dutch-modal-7,Mary is waarschijnlijk  thuis,Mary is probably at.home,Mary should be at home.,
+dutch-modal-7b,Mary zal  thuis zijn.,Mary MOD  at.home be,Mary should be at home.,
+dutch-modal-7c,Mary zal waarschijnlijk thuis zijn,Mary MOD probably   at.home be,Mary should be at home.,
+dutch-modal-7d,Mary zal wel thuis zijn.,Mary MOD  MOD at.home be,Mary should be at home.,more natural option suggested by the reviewer (but with an inference of speaker indifference)
+dutch-modal-8,Hij komt misschien  naar  school  vandaag.,He comes maybe  to school  today,He might be coming to school today.,
+dutch-modal-8b,Hij  zou naar school kunnen komen vandaag.,He  MOD to school MOD come today,He might be coming to school today.,"This wouldn’t be 100% appropriate in this context, because it sounds like you’re half expecting the teacher not to come. But there is an expectation for teachers to come to class. "
+dutch-modal-8c,Hij kan naar school komen vandaag,He MOD to school come today,He might be coming to school today.,Variant with just kunnen  cannot have the targeted meaning (just ability).
+dutch-modal-9,Grace’s ketting is  misschien  kwijt.,Grace’s necklace is  maybe   lost,Grace’s necklace might be lost,
+dutch-modal-9b,Grace’s ketting  zou  kwijt  kunnen zijn.,Grace’s necklace MOD lost MOD be,Grace’s necklace might be lost,offered by the reviewer
+dutch-modal-10,De kat kan  binnen  zijn.  De kat kan  ook  buiten  zijn.,The cat MOD inside  be.  The cat MOD also  outside be,The cat may be inside. The cat may also be outside.,
+dutch-modal-10b,De kat zou  binnen zijn. De  kat zou  ook  buiten  kunnen zijn.,The  cat   MOD inside 	 	     be. 	  The 	cat   MOD  also  outside  MOD 	be.,The cat may be inside. The cat may also be outside.,ungrammatical
+dutch-modal-10c,De    kat   zou 	binnen kunnen  zijn.  De 	kat   zou    ook 	buiten 	kunnen zijn.,The  cat   MOD inside 	  MOD 	      be. 	  The 	cat   MOD  also  outside  MOD 	be.,The cat may be inside. The cat may also be outside.,
+dutch-modal-10d,De    kat   is     misschien    binnen.   De            kat         is   misschien         buiten.,The  cat    is     maybe         inside.    The  cat 	is   maybe 	outside,The cat may be inside. The cat may also be outside.,
+dutch-modal-10e,De    kat   is     misschien    binnen.   De            kat         is   misschien         ook         buiten.,The  cat    is     maybe         inside.    The  cat 	is   maybe 	also	outside,The cat may be inside. The cat may also be outside.,ungrammatical
+dutch-modal-11,Daniel  gaat  misschien naar New York.,Daniel  goes  maybe   to New York,Daniel might go to New York.,
+dutch-modal-11b,Daniel  zou  naar New York  kunnen gaan.,Daniel  MOD  prep New York  MOD  go,Daniel might go to New York.,
+dutch-modal-11c,Daniel zou naar NY  gaan,Daniel MOD to NY  go,Daniel might go to New York.,
+dutch-modal-12,Mary  is  misschien  niet  thuis.,Mary  is  maybe   not  at.home,Mary may not be at home.,
+dutch-modal-12b,Mary  is  wellicht  niet  thuis.,Mary  is  possibly  NEG  at.home,Mary may not be at home.,"Wellicht not used as often anymore - there is a possibility that she is not at home, possibly"
+dutch-modal-12c,Mary  hoeft  niet  thuis  te  zijn,Mary  MOD  neg  at.home at  be,Mary may not be at home.,
+dutch-modal-12d,Mary  kan niet  thuis  te  zijn,Mary  MOD  neg  at.home at  be,Mary may not be at home.,
+dutch-modal-12e,Mary moet niet thuis zijn,Mary  MOD  neg  at.home  be,Mary may not be at home.,
+dutch-modal-12f,Het  zou kunnen  dat Mary niet thuis is.,It MOD MOD that Mary not at.home is,Mary may not be at home.,Alternative offered by the reviewer
+dutch-modal-12g,Mary zou niet thuis kunnen zijn,Mary MOD neg at.home MOD be,Mary may not be at home.,the negation can only scope over the weak modal
+dutch-modal-13,Ben  zal  niet  thuis   zijn.,Ben  MOD  NEG  at-house be.,Ben can’t be at home.,
+dutch-modal-13b,Ben  kan  niet  thuis   zijn.,Ben MOD NEG at-house  be,Ben can’t be at home.,feels a bit too strong in this context
+dutch-modal-14,Het  kan  niet  in  C  zitten.,It  MOD  neg  in  C  be,it can’t be in C.,
+dutch-modal-15,Je  moet  een  helm  dragen.,You  MOD  a  helmet  wear,You must wear a helmet.,
+dutch-modal-16,Bezoek   moet  weggaan  om  6  uur,Visitor   MOD  leave  at  6  house,Visitors must leave by 6pm.,[they have to leave by 6pm]
+dutch-modal-16b,Bezoek  moet  om  6  uur  weg  zijn,Visitor  MOD at  6  hour leave be,Visitors must leave by 6pm.,[they have to be gone by 6pm]
+dutch-modal-17,Ik  zou  nette  kleding aan  moeten   doen.,I  MOD  neat  clothes  prep  MOD   do,I ought to wear formal clothes,aan .. doen = wear/put on
+dutch-modal-18,Gasten  zouden (eigenlijk)  ook  hun  handen  moeten wassen!,Guests MOD   in.principle  also  their  hands  MOD  wash,Non-employees ought to wash their hands too!,
+dutch-modal-19,Ik zou   een  mondkapje  moeten dragen.,I MOD  a  mask   MOD  wear,I ought to wear a face covering.,
+dutch-modal-19b,Ik moet  eigenlijk  een  mondkapje  dragen.,I MOD  in.principle  a  mask   wear,I ought to wear a face covering.,
+dutch-modal-20,Martin  mag  in  het  reuzenrad.,Martin MOD   in the  ferris-wheel,Martin may ride the ferris wheel.,both modals intuitively the same in this context. Mag was first volunteered. Reviewer also prefers mag.
+dutch-modal-20b,Martin  kan  in  het  reuzenrad.,Martin MOD   in the  ferris-wheel,Martin may ride the ferris wheel.,
+dutch-modal-21,Je  mag  binnenkomen.,You  MOD  enter,You may enter.,"kan would also be possible, but in this situation “mag” would feel more natural."
+dutch-modal-21b,Je  kan  binnenkomen.,You  MOD  enter,You may enter.,"kan would also be possible, but in this situation “mag” would feel more natural."
+dutch-modal-21c,Je  mag wel  binnenkomen.,You  MOD  MOD enter,You may enter.,"Reviewer: mag wel is even more natural for me, it makes the sentence more friendly."
+dutch-modal-22,Je  kan  blijven  slapen  of  je  kan  naar  huis  gaan.,You  MOD  stay  sleep  or  you  MOD  prep  home  go,You can stay overnight or you can go home.,This is the consultant’s preferred variant
+dutch-modal-22b,Je  mag  blijven  slapen  maar  je  ?mag  ook  naar  huis  gaan.,You  MOD  stay  sleep  but  you … ? MOD  also at house go,‘You can stay overnight. You can also go home.’,
+dutch-modal-22c,Je  mag  blijven  slapen.  Je  kan  ook  naar  huis  gaan.,You  MOD  stay  sleep.  You  MOD  also  prep  home  go,You can stay overnight or you can go home.,This is the reviewer’s preferred variant
+dutch-modal-23,Alice         mag         haar         baby         optillen.,Alice 	MOD 	her 	baby 	lift,Alice can lift her baby.,
+dutch-modal-23b,Alice         kan        haar         baby         optillen.,Alice 	MOD 	her 	baby 	lift,Alice can lift her baby.,infelicitous
+dutch-modal-24,Beth 	mag 	zwemmen.,Beth  MOD  swim,Beth can go swimming.,
+dutch-modal-25,Ik hoef   geen  nette  kleding  te dragen.,I MOD/have   no  neat  clothes  to wear,I don’t have to / needn’t wear formal clothes.,
+dutch-modal-25b,Ik moet geen nette kleding dragen.,I MOD/have   no  neat  clothes  to wear,I don’t have to / needn’t wear formal clothes.,infelicitous
+dutch-modal-25c,Het  is  niet  verplicht  om  nette  kleding  te  dragen,It  is  NEG  required  that neat  clothes  to  wear,It's not required to wear formal clothes.,
+dutch-modal-26,Het  moet  niet.,It  MOD  neg,I don’t have to / needn’t.,"In this case it is important that moet is stressed. In that case, negation can take scope over the modal."
+dutch-modal-26b,Het  hoeft  niet.,It  MOD  neg,I don’t have to / needn’t.,(more informal)
+dutch-modal-26c,Het  is  niet  verplicht.,It is not required,It  is  not  required,
+dutch-modal-27,Je  moet  niet  zonder   helm  op  een  motor   rijden.,You  MOD  neg  without helmet on  a  motorbike drive,You mustn’t ride a motor bike without a helmet.,
+dutch-modal-27b,Je  mag  niet  zonder   helm   op  een  motor   rijden.,You  MOD  neg  without helmet on  a  motorbike ride,You mustn’t ride a motor bike without a helmet.,Mag niet more appropriate for the context.
+dutch-modal-28,Bezoekers  mogen  niet  na  6  uur  blijven.,Visitors  MOD  neg  after  6  hour  stay,Visitors mustn’t stay after 6pm,
+dutch-modal-28b,Bezoekers  moeten na  6  uur  weg.,Visitors  MOD   after  6  hour  leave,Visitors mustn’t stay after 6pm,
+dutch-modal-29,… moet je  deze  weg  nemen.,… MOD you  this  road  take,you have to take this road.,[SUBORDINATE CLAUSE]
+dutch-modal-29b,Je  moet  deze  weg  nemen,You  MOD this road  take,you have to take this road.,[INDEPENDENT CLAUSE]
+dutch-modal-30,Team  A  moet  Team  B  verslaan,Team  A  MOD  Team  B  beat, Team A has to beat Team B.,
+dutch-modal-30b,"Als  Team  A  verder  wil  komen,  zouden ze  Team  B moeten verslaan.","If  Team  A  further  want  come,  MOD  they  TEAM  B MOD  beat.", Team A has to beat Team B.,
+dutch-modal-30c,"Als  Team  A  verder  wil  komen,  zouden ze  Team  B verslaan.","If 	Team 	A 	further 	want 	come, 	MOD 	they 	TEAM 	B       beat. ", Team A has to beat Team B.,ungrammatical
+dutch-modal-30d,"Als  Team  A  verder  wil  komen,  zullen ze  Team  B  moeten verslaan   ","If  Team  A  further  want  come,  MOD  they  TEAM  B MOD  beat.", Team A has to beat Team B.,zullen moeten would be even better than zouden moeten
+dutch-modal-31,We  moeten   bij  Gino’s  bestellen  om  de  beste  pizza  te  eten.,We  MOD   by  Gino’s  order   C  the  best  pizza  to  eat,We have to order from Gino’s to eat the best pizza.,
+dutch-modal-31b,"Als we de  beste  pizza  willen  eten,  zouden we bij Gino’s moeten  bestellen.","If we the  best  pizza  want  eat,  MOD  we by Gino’s MOD  order","If we want to eat the best pizze, we have to order from Gino’s.",
+dutch-modal-31c,"Als    we    de 	beste 	pizza 	willen 	eten,   	zullen	we    bij    Gino’s    moeten 	bestellen.","If we the  best  pizza  want  eat,  MOD  we by Gino’s MOD  order","If we want to eat the best pizze, we have to order from Gino’s.",zullen moeten would be preferred here as well
+dutch-modal-32,… moet 	je 	de 	bus 	nemen. 	,MOD  you  the  bus  take,you should take the bus,[subordinate clause]
+dutch-modal-32b,Je 	moet 	de 	bus 	nemen 		,You 	MOD	the 	bus 	take 		,you should take the bus,[independent clause - V2]
+dutch-modal-32c,Je 	zou 	de 	bus 	moeten 	nemen.,You  	MOD	the	bus	MOD	take ,you should take the bus,does not sound natural to the reviewer
+dutch-modal-32d,Je 	kunt 	het 	beste 	de 	bus 	nemen.,You 	MOD 	the 	best 	the 	bus 	take,you should take the bus,alternative suggested by the reviewer
+dutch-modal-33,We 	moeten 	via 	de 	zijweggetjes 		gaan.,We 	MOD	via 	the 	sideroads.dim 		go,you should go via the smaller roads.,
+dutch-modal-33b,Je    moet      via de 	zijwegen    gaan.,You MOD     via  the 	sideroad     go,you should go via the smaller roads.,
+dutch-modal-33c,Je 	zou 	via   de 	   zijweggetjes 	moeten  gaan.,You 	MOD 	via   the   sideroads.dim 	MOD 	 go,you should go via the smaller roads.,
+dutch-modal-33d,Je 	kan 	het 	beste 	via 	de 	zijweggetjes 	gaan.,You 	MOD 	the 	best 	via 	the 	sideroads.dim 	go,you should go via the smaller roads.,alternative suggested by the reviewer
+dutch-modal-34,Je       zou 	naar 	mijn 	winkel 	moeten    komen  om 	een   shirt    te 	kopen.,You MOD to  my  shop  MOD  come C  a shirt to  buy,You should go to my shop to buy a new shirt.,
+dutch-modal-34b,Je  kan  het  beste  naar  mijn  winkel  komen.,You 	MOD 	the 	best 	to 	my 	shop 	come,You should go to my shop to buy a new shirt.,alternative suggested by the reviewer
+dutch-modal-35,Je 	kan 	route 	1 	nemen.,You 	MOD 	route 	1 	take.,You can take way 1.,
+dutch-modal-35b,Je 	zou 	route 1 	kunnen nemen.,You 	MOD 	route 1	MOD 	take,You can take way 1.,Additional option suggested by the reviewer
+dutch-modal-36,We 	kunnen   naar 	het    zwembad 		in    het 	     westen 	gaan.,We 	MOD 	   to 	the    swimming.pool 	in    the 	     west 	go,We can go to the swimming pool to the west.,
+dutch-modal-36b,We	zouden 	naar 	het 	zwembad 	in het 	westen 	kunnen gaan.,We 	MOD 	to 	the 	swimming.pool in the 	west 	MOD 	go,We can go to the swimming pool to the west.,Additional option suggested by the reviewer
+dutch-modal-37,Je 	kan 	naar 	deze 	boetiek 	   gaan.,You 	MOD 	to 	this 	boutique  go,You can go to this boutique.,
+dutch-modal-37b,Je 	zou 	naar 	deze 	boetiek 	kunnen gaan.,You 	MOD 	to 	this 	boutique MOD 	go,You can go to this boutique.,Additional option suggested by the reviewer
+dutch-modal-38,Je 	hoeft 	de 	bus 	niet 	te 	nemen.,You         MOD         the         bus         NEG         to         take ,you don’t need to take the bus.,
+dutch-modal-38b,je moet de bus niet nemen ,You         MOD         the         bus         NEG         take ,you don’t need to  take the bus.,#/?
+dutch-modal-38c,Het moet niet,It MOD NEG,you don’t need to.,
+dutch-modal-39,… kun 	     je 	geen 	andere 	weg 	nemen. 		,MOD   you 	no 	other 	way 	take, you can’t take another road.,[SUBORDINATE CLAUSE]
+dutch-modal-39b,Je 	kunt 	geen 	andere 	weg 	nemen. 	,You	MOD 	no 	other 	way 	take , you can’t take another road.,[INDEPENDENT CLAUSE]
+dutch-modal-39c,Je 	kunt 	niet 	een 	andere 	weg 	nemen.,You	MOD	neg	a	other	way 	take, you can’t take another road.,
+dutch-modal-39d,Je 	kan 	geen 	andere 	weg 	nemen.,You 	MOD 	no 	other 	way 	take , you can’t take another road.,
+dutch-modal-40,Team 	A 	kan    	niet 	van 	Team 	B 	verliezen.,Team 	A 	MOD 	not 	of 	Team 	B 	to.lose,Team A can’t lose to Team B.,
+dutch-modal-40b,Team 	A 	mag 	niet 	van 	Team 	B 	verliezen.,Team 	A 	MOD 	neg 	of 	team 	B 	to.lose,Team A can’t lose to Team B.,
+dutch-modal-40c,"Om 	verder 	te 	komen,	 moet 	Team A    niet 	van 	Team 	B    verliezen.","If 	further 	to 	come, 	 MOD 	team A     neg 	of 	Team 	B    to.lose","In order to advance, Team A can’t lose to Team B.",
+dutch-modal-40d,Team         A         moet         niet         van         Team         B    verliezen.,Team 	A 	MOD 	neg 	of 	Team 	B     to.lose,Team A can’t lose to Team B.,
+dutch-modal-41,Ik         moet         zo         nodig         plassen!,I 	MOD 	so 	badly 	to.pee,I have to pee so badly!,
+dutch-modal-42,Ik	moet 	niezen.,I 	MOD	to.sneeze,I have to sneeze.,
+dutch-modal-43,Het 	water 	moet 	uit 	de 	rechter 	uitgang 	komen.,The 	water 	MOD 	out 	the 	right 	exit 		come ,the water must come out from the right output. ,
+dutch-modal-44,Duku 	bomen 	kunnen    hier 	groeien.,Duku 	trees 	MOD 	    here 	grow,duku trees can grow here.,
+dutch-modal-44b,Duku 	bomen 	zouden    hier 	kunnen    groeien.,Duku 	trees 	MOD 	   here 	MOD 	    grow,duku trees can grow here.,
+dutch-modal-44c,Duku bomen zouden  hier   moeten kunnen groeien,Duku trees    MOD    here   MOD   MOD   grow,duku trees can grow here.,
+dutch-modal-45,Amy         kan         traditionele         Italiaanse    pasta         maken.,Amy         MOD        traditional        Italian              pasta        to.make,Amy can make traditional Italian pasta ,
+dutch-modal-45b,Amy    zouden     kan         traditionele         Italiaanse    pasta         maken.,Amy      MOD   MOD        traditional        Italian              pasta        to.make,Amy can make traditional Italian pasta ,Zouden + kan as a phrase can be used to specify the fact that she doesn’t have the means to make the pasta
+dutch-modal-46,Ben 	kan 	nu 	lopen.,Ben 	MOD 	now 	walk,Ben can walk now.,
+dutch-modal-46b,Ben 	zou 	nu 	kunnen 	lopen.,Ben 	MOD 	now 	MOD 		walk	,Ben can walk now.,[slightly less fitting for the context] 
+dutch-modal-47,Paul 	kan 	die 	steen 	tillen.,Paul 	MOD 	the 	stone 	lift,Paul can lift that rock.,
+dutch-modal-47b,Paul mag die steen tillen. 	,Paul 	MOD 	the 	stone 	lift,Paul can lift that rock.,"[this would be deontic case, not circumstantial]"
+dutch-modal-47c,Paul 	zou 	die 	steen 	kunnen 	tillen. ,Paul	MOD	the 	stone 	MOD		lift 	,Paul can lift that rock.,
+dutch-modal-48,Bussen 	kunnen 	meer 	dan 	20 	mensen 		vervoeren.,Buses         MOD                 more         than         20         people                 transport,Travel vans can fit 20 people.,
+dutch-modal-48b,Bussen         zouden         meer         dan         20         mensen       kunnen          vervoeren.,Buses         MOD                 more         than         20         people       MOD          transport,Travel vans can fit 20 people.,"Zouden + kunnen is not licit in this context, because the vans ability to fit more than 13 is not a hypothetical. "
+dutch-modal-49,De         vulkaan         hoeft         niet   (per se)         uit    te          barsten. ,The 	volcano 	MOD 	neg    (per se)	out   to 	 burst,The volcano doesn’t have to erupt.,"Context and the target sentence didn’t seem to flow very well for correspondent. This translation is “not too fitting”, because vulkaan is not animate. "
+dutch-modal-49b,Het is niet zeker dat de         vulkaan         uit    te          barsten. ,It is not certain that the volcano out to burst,It is not certain that the volcano will erupt.,Reviewer: I’d probably avoid modals in this context
+dutch-modal-50,Ik      hoeft         niet              plassen!,I MOD NEG pee,I don’t have to pee.,context and sentence volunteered by the consultant
+dutch-modal-51,Ben         kan         niet         lopen.,Ben         MOD         neg         walk,Ben can’t walk.,
+dutch-modal-51b,Ben         zouden        niet     kunnen    lopen.,Ben         MOD         neg   MOD      walk,Ben can’t walk.,"Zouden + kunnen is not available, because it is known that he is in pain. It’s not a hypothetical "
+dutch-modal-52,Het 	water 	kan 	niet 	uit 	de 	linker 	uitgang		komen.,The 	water 	MOD 	neg 	out.of 	the 	left 	output 	   	come, the water can’t come out from the left output. ,For a context in which you’re confident enough that you’ve made the device work 
+dutch-modal-52b,Het 	water 	zou 	niet 	uit 	de 	linker 	uitgang 	moeten    kunnen    komen.,The 	water 	MOD 	neg 	out.of 	the 	left 	output		MOD	   MOD	       come, the water shouldn't be able to come out from the left output. ,"“If it works, then it shouldn’t come through”
+I.e., “Shouldn’t be able to”"
+dutch-modal-52c,Het 	water 	zou 	niet 	uit 	de 	linker 	uitgang 	 moeten    komen.,The 	water 	MOD 	neg 	out.of 	the 	left 	output	   	MOD	      come, the water shouldn't be able to come out from the left output. ,"“The water shouldn’t come out of the left, but we don’t know what the outcome will be”
+I.e., “Shouldn’t be able to”"
+dutch-modal-52d,Het         water         zou         niet         uit         de         linker         uitgang         kunnen   komen.,The         water         MOD         neg         out.of         the         left         output                   MOD              come, the water wouldn't come out from the left output. ,"This is a purely hypothetical variant, when you’re not actively in the process of testing the contraption in the real world. 
+“Wouldn’t come out of the left” 
+Fits well embedded in an if-clause "
+dutch-modal-52e,Het         water         zouden         niet         uit         de         linker         uitgang         kunnen   komen.,The         water         MOD         neg         out.of         the         left         output                   MOD              come,the water shouldn't be able to come out from the left output.,"If you’ve not tried to put water through, zouden + kunnen can work - less confidence "
+dutch-modal-53,Duku 	bomen 	kunnen    hier 	niet 	groeien.,Duku 	trees 	MOD 	    here 	neg 	grow, duku trees can’t grow here.,
+dutch-modal-53b,Duku 	bomen 	kunnen   niet 	hier 	groeien,Duku 	trees 	MOD 	   neg  	here 	grow, duku trees can’t grow here.,
+dutch-modal-53c,Duku 	bomen 	zouden   hier 	niet 	kunnen   groeien.,Duku	trees 	MOD	  her 	neg	MOD	   grow, duku trees can’t grow here.,"This is good in a “textbook”-like context, say where you are comparing differing climates, “you don’t know that Duku trees can grow here unless you try to grow one” - again, it seems purely hypothetical"
+dutch-modal-54,Ik    moet    hem    	kopen.,I      MOD   handbag	buy,I must buy the handbag.,"Moet “really want” versus willen “want”, same semantic distinction as the inclusion “want” and “must have”"
+dutch-modal-54b,Ik     wil         	    hem 		kopen ,I       MOD/want   handbag	buy,I want the handbag.,"Moet “really want” versus willen “want”, same semantic distinction as the inclusion “want” and “must have”"
+dutch-modal-55,Ik    moet    naar     de 	bioscoop.,I      MOD   to        the 	cinema,I must to go to the cinema.,
+dutch-modal-55b,Ik    wil        	   naar    de 	bioscoop.,I      MOD/want   to        the 	cinema,I must to go to the cinema.,
+dutch-modal-56,Mijn 	vriend 	wil       		op    bezoek 	komen.,My 	friend 	MOD/want  	on    visit 	come,My friend wants to come visit me.,
+dutch-modal-56b,Een 	vriend 	van 	me 	wil 		op    bezoek 	komen.,A    	friend 	of 	mine 	MOD/want 	on    visit 	come ,My friend wants to come visit me.,
