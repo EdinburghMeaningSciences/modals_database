@@ -39,9 +39,9 @@ def write_evidence_file(f):
     if os.path.exists(output_filename):
         overwrite_flag = input('File already exists – would you like to overwrite? Y/N ')
     
-    if overwrite_flag == 'Y': 
-        evid.to_csv(output_filename)
-        print(f'{output_filename} written successfully to {os.getcwd()}')
+        if overwrite_flag == 'Y': 
+            evid.to_csv(output_filename)
+            print(f'{output_filename} written successfully to {os.getcwd()}')
         
     else:
         print('Operation canceled')
