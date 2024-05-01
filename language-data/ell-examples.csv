@@ -1,0 +1,132 @@
+ref,context,words,gloss,translation,comment
+ell-modal-1,epi-nec-1,O 	Ben 	prepi na    kolympái.,det 	Ben 	MOD  subj  swim,Ben must be swimming (right now).,
+ell-modal-1b,epi-nec-1,Ο       Βen    tha       prepi    na 	kolympai.,det    Ben    MOD   MOD    subj 	swim ,Ben must be swimming (right now).,
+ell-modal-2,epi-nec-2,O 	John 	prepi 	na 	einai 	sto 	sholeio.,det	John 	MOD	subj  	be 	prep	school.,John must be at school,Correspondent comments that it is hard to see a semantic difference between the two 
+ell-modal-2b,epi-nec-2,O 	John   tha     prepi 	na	einai 	sto 	sholeio.,det 	John   MOD   MOD	subj  	be 	prep 	school.,John must be at school,"Less likely to use tha in this context, because we’re more sure than context 1. (possibility marker, tha)"
+ell-modal-3,epi-nec-3,Prepi         na         einai         sto         C.,MOD         subj         be         prep         C,it must be in C.,
+ell-modal-3b,epi-nec-3,Tha prepi         na         einai         sto         C.,MOD MOD         subj         be         prep         C,it must be in C.,"Doesn’t sound strange to use tha, but is less preferable to just the modal particle"
+ell-modal-3c,epi-nec-3,Tha     na         einai         sto         C.,MOD         subj         be         prep         C,it must be in C.,"You can use just the future particle tha without prepi, as an epistemic modal"
+ell-modal-4,epi-nec-4,O         skilos         den         prepi         na         einai         sto         spiti.,det         dog         neg         MOD         subj         be         prep        house ,the dog must not be in the house.,
+ell-modal-4b,epi-nec-4,# O         skilos         den     tha    prepi         na         einai         sto         spiti.,det         dog         neg      MOD   MOD         subj         be         prep        house ,the dog must not be in the house.,"Strange to use tha here - from the context: the dog is not in the house, not the possibility that dog is in the house."
+ell-modal-4c,epi-nec-4,O         skilos         den         tha         na         einai         sto         spiti.,det         dog         neg         MOD         subj         be         prep        house ,the dog must not be in the house.,"you can use plain tha as a modal, it's probably the best option."
+ell-modal-5,epi-wn-1,I 	Ann 	mpori  na 	einai 	sti 	limni 	tora.,det	Ann	MOD	 subj	be	prep	lake	now ,Ann should be at the lake right now. ,"Mporei -> possible she’s at the lake, but also that she’s at the mountain "
+ell-modal-5b,epi-wn-1,# I 	Ann 	prepi 	na 	einai 	sti 	limni 	tora.,  det	Ann	MOD	subj	be	prep	lake	now,Ann should be at the lake right now. ,Prepei not usable because there is some sort of lack of certainty
+ell-modal-6,epi-wn-2,Mpori   na         vrehei         tora         sti         Goa.,MOD         subj         rain            now         prep         Goa,it should be raining now in Goa.,
+ell-modal-6b,epi-wn-2,# Prepi    na 	verhei 	tora 	sti 	Goa.,   MOD   subj 	rain    	now 	prep 	Goa,it should be raining now in Goa.,"Prepi  - strange, because “it’s not necessary that it is raining in Goa”"
+ell-modal-6c,epi-wn-2,# Tha mpori   na         vrehei         tora         sti         Goa.,MOD MOD         subj         rain            now         prep         Goa,it should be raining now in Goa.,"Tha refers to the future, not usable with mpori here."
+ell-modal-7,epi-wn-3,I 	Mary 	prepi 	na 	einai 	sto 	spiti.,det 	Mary  	MOD 	subj 	be 	prep	house ,Mary should be at home. ,"Prepi better here, because it is more certain that Mary is home. "
+ell-modal-7b,epi-wn-3,I	Mary 	mpori   na 	einai 	sto 	spiti.,det 	Mary  	MOD 	  subj 	be 	prep	house ,Mary should be at home. ,"Mpori is usable too, if less certain. "
+ell-modal-8,epi-pos-1,Mpori   na 	erthi 	sto 	sholio 	simera.,MOD   subj         come         prep         school         today,He might be coming to school today.,
+ell-modal-8b,epi-pos-1,# Tha 	mpori 	  na 	erthi 	sto 	sholeio 	simera.,MOD MOD     subj 	come 	prep 	school 	today,He might be coming to school today.,"The tha variant is usable if referring to “tomorrow”, for instance. "
+ell-modal-8c,epi-pos-1,* Prepi    na 	erthi 	sto 	sholeio 	simera.,   MOD    subj 	come 	prep 	school 	today,He might be coming to school today.,
+ell-modal-8d,epi-pos-1,Isos na erthi sto sholeio simera.,MOD   subj         come         prep         school         today,He might be coming to school today.,Another way to express mpori na
+ell-modal-9,epi-pos-2,To 	kolie 	   tis 	Grace 	mpori   na 	ehi 	hathi.,det        necklace  gen        Grace        MOD          subj         be         lost,Grace’s necklace might  be lost.,
+ell-modal-9b,epi-pos-2,To 	kolie 	   tis 	Grace 	prepi 	na 	ehi 	hathi.,det necklace gen Grace MOD subj  be  lost,Grace’s necklace might  be lost.,"After clarification that the status of the lostness is unknown, mpori was preferred."
+ell-modal-9c,epi-pos-2, To 	kolie 	   tis 	Grace 	isos  na ehi 	hathi.,det        necklace  gen        Grace        MOD          subj         be         lost,Grace’s necklace might  be lost.,
+ell-modal-10,epi-pos-3,I	gata 	mpori  	na     einai   mesa.     I	  gata 	mpori   	episis 	na   einai 	ekso.,det	cat 	MOD 	subj  be       inside.    det  cat 	MOD 	  also 	be   outside	also,The cat may be inside. The cat may also be outside.,This can be used when there are two scenarios that are equally possible. 
+ell-modal-10b,epi-pos-3,I	gata 	prepi 	na     einai   mesa.     # I  gata   prepi     episis  na   einai 	ekso.,det	cat 	MOD 	subj  be       inside.    det  cat 	MOD 	  also 	be   outside	also,The cat may be inside. The cat may also be outside.,"First conjunct fine, second not. Because prepi is more certain, not likely to have two likely scenarios... etc."
+ell-modal-11,epi-pos-4,O 	Daniel 	mpori  na 	paei 	sti 	Nea  Iorki.,det	Daniel 	MOD    subj  	go 	prep 	New York.,Daniel might go to New York.,General comment: na is compulsory. [MOD [*(NA) V]
+ell-modal-11b,epi-pos-4,# O 	Daniel 	prepi 	 na 	paei 	sti 	Nea  Iorki. ,  det	Daniel 	MOD    subj  	go 	prep 	New York,Daniel might go to New York.,"Prepi means that he’s obliged to go there, rather than making his own personal choice."
+ell-modal-12,epi-nnec-1,I      Mary 	den 	prepi 	na 	einai 	sto 	spiti.,det   Mary 	neg 	MOD 	subj 	be 	at 	home,Mary may not be at home.,
+ell-modal-12b,epi-nnec-1,# I     Mary 	den 	mpori 	na 	einai 	sto 	spiti,  det   Mary 	neg 	MOD 	subj 	be 	at 	home,Mary may not be at home.,
+ell-modal-12c,epi-nnec-1,I       Mary	mpori 	na  	min 	ine 	sto 	spiti. ,Det   Mary         MOD         subj         not         be         at         home,Mary may not be at home.,Most faithful translation to the English example according to the reviewer
+ell-modal-13,epi-nnec-2,I 	gata 	den 	prepi 	na 	einai 	sto 	spiti.,det 	cat 	neg	MOD	subj 	be 	prep 	home ,The cat may not be at home.,It is not necessary that the cat is not at home. Could be the case that cat is at home
+ell-modal-13b,epi-nnec-2,I       gata 	mpori	na 	min 	ine sto spiti. ,det    cat   	MOD 	subj 	not 	be at home,The cat may not be at home.,Another alternative suggested by the reviewer
+ell-modal-13c,epi-nnec-2,? I         gata         den         mpori  na         einai         sto         spiti.,det 	cat 	neg	MOD	 subj 	be 	prep 	home,The cat may not be at home.,"Could say it, but it's more strange. Because there is an ability ambiguity (circumstantial possibility)
+Intonation is very important to make epistemic reading more available 
+Without den - ability reading "
+ell-modal-14,epi-imp-1,O 	Ben 	den 	prepi 	na 	einai 	sto 	spiti.,det  Ben  neg  MOD  subj  be  at  home,Ben can’t be at home. ,
+ell-modal-14b,epi-imp-1,O 	Ben 	den 	mpori na 	einai 	sto 	spiti. ,det 	Ben 	neg	MOD 	subj 	be 	at 	home,Ben can’t be at home. ,"First reading is possibly circumstantial reading (not able to), as a possible reading. 
+Could also be used to say that “it’s not possible”. But this requires a bit of introspection
+the inability reading is the first thing that comes to mind"
+ell-modal-15,epi-imp-2,I 	mpala 	den 	mpori  na 	einai 	sto 	C.,det 	ball 	neg	MOD	 subj 	be 	prep 	C,it can’t be in C. ,
+ell-modal-15b,epi-imp-2,# I	mpala 	den 	prepi 	na 	einai 	sto 	C., det 	ball 	neg	MOD	subj 	be 	prep 	C,it can’t be in C. ,"den prepi makes it possible that the ball could be in C.  
+Comment from the reviewer:
+den prepi is indeed weaker than den mpori, but still it expresses that it is highly unlikely"
+ell-modal-16,deo-nec-1,Prepi 	na 	foras 	kranos.,MOD 	subj 	wear 	helmet,You must wear a helmet.,
+ell-modal-16b,deo-nec-1,# Mporis  	na 	foras 	kranos.,  MOD.2sg 	subj 	wear 	helmet,You must wear a helmet.,"Doesn’t mean that it is necessary. “If you don’t want to, don’t wear one” - doesn’t enforce the rule. "
+ell-modal-17,deo-nec-4,Xriazete na         foraw         kranos. ,MOD 	 subj	 wear 	helmet,I need to wear a helmet.,
+ell-modal-18,deo-nec-2,Oi 	 episkeptes 	prepi 	na 	figun 	     mechri tis 	6.,det	 visitors  	MOD 	subj 	leave.3rd   prep      det	6,Visitors must leave by 6pm,
+ell-modal-18b,deo-nec-2,Oi 	episkeptes 	tha 	prepi	 na 	figun 	     mehri tis 	6.,det	 visitors  	MOD	MOD 	 subj 	leave.3rd   prep   det	6,Visitors must leave by 6pm,Latter is the same. Doesn’t affect necessity - but perhaps less strict not a register difference
+ell-modal-19,deo-wn-1,Prepi         na         foraw         episima    rouha         sto         party.,MOD 	subj 	wear 	formal 	   clothes 	prep 	party,I ought to wear formal clothes to the party.,
+ell-modal-19b,deo-wn-1,# Mporo        na         foraw         episima    rouha         sto         party.,MOD 	subj 	wear 	formal 	   clothes 	prep 	party,I ought to wear formal clothes to the party.,#Mporo -> indicates that there’s one possibility among others.
+ell-modal-19c,deo-wn-1,tha eprepe   na         foraw         episima    rouha         sto         party.,MOD  MOD       subj         wear         formal            clothes         prep         party,I ought to wear formal clothes to the party.,Alternative suggested by the reviewer
+ell-modal-20,deo-wn-2,Oi         mi    - ergazomenoi         prepi         na         plenoun                ta         heria         tus         episis.,det 	non - employees 	MOD 	subj 	wash 		det	hands 	their	too,Non-employees ought to wash their hands too!,
+ell-modal-20b,deo-wn-2,? Oi         mi    - ergazomenoi         mporei        na         plenoun                ta         heria         tus         episis.,det         non - employees         MOD         subj         wash                 det        hands         their        too,Non-employees ought to wash their hands too!,"Mporei -> not the best. 
+It means that they have this possibility, they could wash their hands. No necessity reading."
+ell-modal-20c,deo-wn-2,Oi         mi    - ergazomenoi         tha   eprepe        na         plenoun                ta         heria         tus         episis.,det         non - employees         MOD MOD         subj         wash                 det        hands         their        too,Non-employees ought to wash their hands too!,Alternative suggested by the reviewer
+ell-modal-21,deo-wn-3,Prepi         na         foraw         mia -  maska.,MOD         subj         wear         face - covering,I ought to wear a face covering.,“It’s good for me that I wear a face covering”
+ell-modal-21b,deo-wn-3,# Mporei        na         foraw         mia -  maska.,MOD         subj         wear         face - covering,I'm able to wear a face covering.,"#Mporei -> I can wear a mask, but I don’t have to if I don’t want to. I am able to do so."
+ell-modal-21c,deo-wn-3,# Hriazete         na         foraw         mia  - maska,   MOD		subj	wear	face - covering,It's better for me to wear a face covering.,“It is better for me that…” not really expressing “It is recommend to do so”
+ell-modal-22,deo-pos-1,O 	Martin 	mpori    na 	mpei 	ston 	troho.,det 	Martin 	MOD      subj 	ride 	the 	wheel,Martin may ride the ferris wheel.,
+ell-modal-22b,deo-pos-1,# O 	Martin 	prepi 	   na 	mpei 	ston 	troho.,   Det 	Martin 	MOD      subj 	ride 	the 	wheel,Martin must ride the ferris wheel.,It’s necessary to ride the ferris wheel. Not the right reading.
+ell-modal-22c,deo-pos-1,# O Martin isos  na mpei ston troho.,   Det 	Martin 	MOD      subj 	ride 	the 	wheel,Martin may ride the ferris wheel.,"Maybe he will ride it, maybe he will not - we don’t know."
+ell-modal-23,deo-pos-2,Mporis 		na 	mpeis.,MOD.2	sg	subj 	enter,You may enter.,
+ell-modal-24,deo-pos-3,Mporis     	na 	minis    to 	vradi 	h 	mporis 		na 	pas 	spiti.,MOD.2sg        subj 	stay 	det 	night 	or 	MOD.2sg 	subj 	go 	home,You can stay overnight or you can go home.,
+ell-modal-24b,deo-pos-3,Mporis 		na 	minis     to 	vradi. 	Mporis    	episis 	na 	pas 	spiti.,MOD.2sg 	subj 	stay 	det	night. 	MOD.2sg 	 also 	subj 	go 	home,You can stay overnight. You can also go home.,
+ell-modal-25,deo-pos-4,I 	Alice 	mpori    na 	sikwsei 	   to  moro tis.,det         Alice         MOD    subj         lift            the baby her,Alice can lift her baby.,
+ell-modal-25b,deo-pos-4,# Hriazete  Alice isos na sikwsei to mwro.,MOD alice MOD subj lift the baby,Alice can lift her baby.,"Maybe she’ll do it, maybe she’ll not.  Not natural"
+ell-modal-26,deo-pos-5,I	Beth 	mpori    na 	pai 	gia 	kolimpi.,det 	Beth 	MOD 	 subj 	go 	prep	swimming,Beth can go swimming.,
+ell-modal-27,deo-nnec-1,Den 	prepi 	na 	foreso 	episima ruha.,neg 	MOD 	subj 	wear 	formal 	clothes,I don’t have to / needn’t wear formal clothes.,
+ell-modal-27b,deo-nnec-1,Den 	hriazete na 	foresw 	episima ruha.,neg 	MOD 	subj 	wear 	formal 	clothes,I don’t have to / needn’t wear formal clothes.,preferred by the reviewer
+ell-modal-28,deo-nnec-2,den hriazete,neg MOD,I don’t have to / needn’t.,Inflected from hreiázomai - “to need”. 
+ell-modal-28b,deo-nnec-2,den prepi ,neg MOD,I don’t have to / needn’t.,
+ell-modal-29,deo-imp-1,Den 	prepi 	na 	odigas 	mihani 	       horis 	kranos.,neg 	MOD 	subj 	drive 	motorbike   without 	helmet,You mustn’t ride a motor bike without a helmet.,Prepi far more strong. It is necessary
+ell-modal-29b,deo-imp-1,Den 	mporis   	na 	odigas 	mihani 		horis 		kranos.,neg         MOD.2sg         subj         drive         motorbike         without         helmet,You mustn’t ride a motor bike without a helmet. ,"Mporis is possible too, less intensely stipulated. These two units can be interchangeable in some contexts "
+ell-modal-30,deo-imp-2,Oi 	episkeptes den 	mporoun    na 	    menoun   meta tis 	6.,det 	visitors 	     neg 	MOD.3pl   subj    stay 	       prep det	6,Visitors mustn’t stay after 6pm.,
+ell-modal-30b,deo-imp-2,Oi 	episkeptes den 	prepi 	 na 	menoun    meta tis 	6.,det 	visitors 	     neg 	MOD    subj    	stay 	    prep det 	6,Visitors mustn’t stay after 6pm.,
+ell-modal-31,tel-nec-1,Prepi         na         pareis         afto         to         dromo.,MOD         subj         take         this         det        road,you have to take this road.,
+ell-modal-31b,tel-nec-1,# Mpori        na         pareis         afto         to         dromo.,MOD         subj         take         this         det        road,you have to take this road.,"Because there’s only one way, no use of mpori"
+ell-modal-32,tel-nec-2,I 	omada 	A    prepi 	na 	kerdisei    tin 	omada 	B.,det	team 	A    MOD 	subj 	win 	   det 	team 	B,Team A has to beat Team B.,
+ell-modal-32b,tel-nec-2,# I         omada         A    mpori         na         kerdisei    tin         omada         B.,det	team 	A    MOD 	subj 	win 	   det 	team 	B,Team A has to beat Team B.,
+ell-modal-33,tel-nec-3,Prepi 	na 	paragiloume 	apo 	to 	Gino 	ja 	na 	fame 	tin 	kaliteri 	pizza.,MOD 	subj 	order 		from 	det	Gino 	?	subj 	eat 	det 	best pizza,We have to order from Gino’s to eat the best pizza.,
+ell-modal-33b,tel-nec-3,? Mpori        na         paragiloume         apo         to         Gino         ja         na         fame         tin         kaliteri         pizza.,MOD 	subj 	order 		from 	det	Gino 	?	subj 	eat 	det 	best pizza,We have to order from Gino’s to eat the best pizza.,"Mpori - could be used, but not common in this sort of example. But would have the same meaning"
+ell-modal-34,tel-wn-1,…mporis         na         pareis         to         leoforeio.,…MOD.2sg         subj         take         det         bus,you should take the bus.,
+ell-modal-34b,tel-wn-1,...tha eprepe     na         pareis         to         leoforeio,…MOD  MOD      subj         take         det         bus,you should take the bus.,Alternative provided by the reviewer
+ell-modal-35,tel-wn-2,…prepi 	na 	pas 	apo 	ton 	mikrotero 	dromo.,…MOD 	subj 	go 	via 	det 	smaller 		road,you should go via the smaller roads.,"After a follow up set of questions highlighting the choice, “In these contexts I have a preference for prepei just because it’s stronger.”"
+ell-modal-35b,tel-wn-2,# …mporeis        na         pas         apo         ton         mikrotero         dromo.,…MOD 	subj 	go 	via 	det 	smaller 		road,you should go via the smaller roads.,mporeis - doesn’t express that my friend proposes to follow this road 
+ell-modal-35c,tel-wn-2,…tha eprepe        na         pas         apo         ton         mikrotero         dromo.,…MOD  MOD       subj         go         via         det         smaller                 road,you should go via the smaller roads.,Alternative provided by the reviewer
+ell-modal-36,tel-wn-3,Prepi 	 na 	    pas 	sto 	magazi 	mu 	gia 	 na 	agorasis mia 	kenurja bluza.,MOD 	subj 	    go 	prep	shop	mine     for 	to 	buy.2	  det 	new 	shirt,You should go to my shop to buy a new shirt.,Prepi - more like strict. Stronger opinion. Better if we prefer one of a few options
+ell-modal-36b,tel-wn-3,Tha 	mporouses 	pas 	sto 	magazi 	mu 	gia 	na    agorasis 	mia 	kenurja   bluza.,MOD	MOD.2 	go 	to 	shop      mine 	for 	to     buy.2 	det 	new 	  shirt,You should go to my shop to buy a new shirt.,"Mporouses - more like proposing something. Much weaker. For context, probably less likely"
+ell-modal-37,tel-pos-1,Mporis                 na         pareis         ton         dromo         1.,MOD.2sg   	subj	take	det	way 	1,You can take way 1.,
+ell-modal-37b,tel-pos-1,# Prepi      na         pareis         ton         dromo         1.,MOD          subj        take        det        way         2,You should take way 1.,
+ell-modal-38,tel-pos-2,Mporoume         na         pame         stin         pisina         ditika.,MOD.1pl 	subj  	go.1pl	prep	pool	west,We can go to the swimming pool to the west.,
+ell-modal-38b,tel-pos-2,Prepi         na         pame         stin         pisina         ditika.,MOD        subj          go.1pl        prep        pool        west,We should go to the swimming pool to the west.,
+ell-modal-39,tel-pos-3,Mporis 		na 	pas 	se 	aftin 	tin 	boutique.,MOD.2sg  	subj	go 	prep 	this 	det	boutique,You can go to this boutique.,
+ell-modal-39b,tel-pos-3,# Prepi               na         pas         se         aftin         tin         boutique.,MOD          subj        go         prep         this         det        boutique,You should go to this boutique.,Prepi doesn’t express the possibility meaning - this expresses one preference for one thing 
+ell-modal-40,tel-nnec-1,Den 	prepi 	na 	pareis 	to 	leoforio.,neg  MOD  subj take det bus,you don’t need to / needn’t take the bus.,
+ell-modal-40b,tel-nnec-1,# Den         mpori        na         pareis         to         leoforio.,neg  MOD  subj take det bus,,"Mpori not ungrammatical, but it would mean that aren’t able to take the bus "
+ell-modal-40c,tel-nnec-1,Den    hriazete       na         pareis         to         leoforio.,neg  MOD  subj take det bus,you don’t need to / needn’t take the bus.,preferred by the reviewer
+ell-modal-41,tel-imp-1,Den 	mporis		na 	pareis 	allo 		dromo.,neg 	MOD.2sg 	subj	take 	another 		road,you can’t take another road.,There is not another option. 
+ell-modal-41b,tel-imp-1,? Den prepei na paris allo dromo.,neg         MOD         subj        take         another                 road,you can’t take another road.,"Fine with prepi, because there’s no other option. Subtle difference
+… because you will get lost. But implies that there is another route"
+ell-modal-42,tel-imp-2,I 	omada 	A 	den 	prepi 	na 	hasei 	apo 	tin 	omada 	B.,det        Team         A              neg         MOD         subj        lose         to         det         team         B,Team A can’t lose to Team B.,
+ell-modal-42b,tel-imp-2,# I omada A den mpori na hasei apo tin omada B.,det        Team         A              neg         MOD         subj        lose         to         det         team         B,Team A can’t lose to Team B.,"Team A is going to win, for sure. Because they’re unable to lose"
+ell-modal-43,cir-nec-1,Prepi 	na 	pao 	stin 	toualeta 	epeigontos!,MOD  subj	go	to 	toilet		urgently!,I have to pee so badly!,
+ell-modal-43b,cir-nec-1,# Mporo na paw stin touleta …,MOD.1sg  subj pee go toilet,,"“I am able to”. Different reading, so it’s not used here."
+ell-modal-44,cir-nec-2,Prepi 	na 	ftarnisto.,MOD 	subj	to.sneeze,I have to sneeze.,
+ell-modal-45,cir-nec-3,To 	nero 	prepi 	na 	vgei 		eksw 	apo 	ta 	deksia. ,det 	water 	MOD 	subj      come.out	out	from	det	right,the water must come out from the right output. ,"This is not overly natural, more natural translation…"
+ell-modal-45b,cir-nec-3,To         nero         tha         vgenei                 eksw         mono         apo         ta         deksia.,det	water 	MOD   	come.out	from     only      from 	det 	right,the water will only come out from the right output,
+ell-modal-45c,cir-nec-3,# To         nero        mpori        vgenei                 eksw         mono         apo         ta         deksia.,det	water 	MOD   	come.out	from     only      from 	det 	right,the water must come out from the right output. ,"# mpori - not applicable, because it could come out of the other output"
+ell-modal-46,cir-pos-1,Ta 	dentra 	duku 	mporoun 	na 	megalosoun 	edw.,det trees  duku  MOD.3pl  subj grow   here,duku trees can grow here.,
+ell-modal-46b,cir-pos-1,# Ta         dentra         duku         prepi       na         megalosoun         edw.,det trees  duku  MOD.3pl  subj grow   here,duku trees have to grow here.,# prepi - they HAVE to grow here [deontic]
+ell-modal-47,cir-pos-2,I	Amy 	mpori 		na 	ftiaksei 	paradosiaka 	italika 	zimarika.,det        Amy         MOD.3          subj         make          traditional         Italian         pasta,Amy can make traditional Italian pasta,Ability to make the pasta
+ell-modal-47b,cir-pos-2,# I 	Amy 	prepi 	na 	ftiaksei 	paradosiaka 	italika 	zimarika.,det        Amy         MOD         subj         make          traditional         Italian         pasta,Amy has to make traditional Italian pasta,Obliged to make pasta. Irrelevant for the context 
+ell-modal-48,cir-pos-3,O  Ben  mpori   na  perpatisi  tora.,det	Ben   	MOD.3sg 	subj     	walk 		now,Ben can walk now.,
+ell-modal-49,cir-pos-4,O 	Paul 	mpori 		na 	sikosi 	afti 	tin 	petra.,det        Paul         MOD.3sg        subj        lift        fem        det        stone,Paul can lift that rock.,
+ell-modal-50,cir-pos-5,Mporoun,MOD,Travel vans can fit 20 people.,"Also means that it’s legal, or allowed [ambiguity with deontic]"
+ell-modal-51,cir-nnec-1,Den 	eine 	aparetito 	oti 	to 	ifestio 	  tha 	ekragei.,neg          is         necessary         that          the         volcano  will         erupt,It is not necessy that the volcano will erupt,
+ell-modal-51b,cir-nnec-1,# Den         prepei  ...,neg     MOD ....,,den prepei - “it is not necessary” … because the city will be destroyed for example. (participant-external) deontic use. 
+ell-modal-51c,cir-nnec-1,# den mpori,neg MOD,Unable,Unable to erupt. 
+ell-modal-51d,cir-nnec-1,To ifestio mpori na min ekragi.,det volcano MOD subj neg erput,,Alternative suggested by the reviewer
+ell-modal-52,cir-imp-3,O 	Ben 	den 	mpori 	na 	perpatisi.,det	Ben 	neg 	MOD 	subj	walking,Ben can’t walk.,
+ell-modal-53,cir-imp-2,To 	nero 	den 	mpori na 	vgei 	 	apo 	tin 	aristeri 	eksodo.,det	water	neg	MOD 	subj	come.out	from	det 	left	exit,the water can’t come out from the left output. ,
+ell-modal-54,cir-imp-4,Ta         dentra         duku         den         mporoun         na         megalosoun         edo.,det	trees 	duku   	neg 	MOD.3pl  	subj	grow.3pl	here, duku trees can’t grow here.,
+ell-modal-54b,cir-imp-4,# Ta         dentra         duku         den        prepi       na         megalosoun         edo.,det        trees         duku           neg         MOD        subj        grow.3pl        here, duku trees can’t grow here.,den prepi would have a deontic impossibility reading here
+ell-modal-55,bou-nec-1,Prepi 	na 	tin 	agorasw.,MOD   subj	it   	buy,I must buy it.,prepi is stronger than theli
+ell-modal-55b,bou-nec-1,Thelo		na 	tin 	agorasw.,MOD.1sg 	subj	it	buy	,I must buy it.,
+ell-modal-55c,bou-nec-1,Mpori               na         tin         agorasw.,MOD        subj        it        buy        ,I am able to buy it.,mpori - circumstantial “am able to buy it”
+ell-modal-56,bou-nec-2,Prepi 	na 	paw 	sto 	cinema.,MOD    go 	prep 	det 	cinema,I must to go to the cinema.,
+ell-modal-56b,bou-nec-2,Thelo 		na 	paw 	sto 	cinema.,MOD.1sg 	subj	prep 	det 	cinema,I must to go to the cinema.,
+ell-modal-57,bou-nec-3,O 	filos 	mou 	theli 	na 	erthi 	na 	me 	episkefti.,det 	fried	mine	MOD	subj	come	to	me	visit ,My friend wants to come visit me.,
+ell-modal-57b,bou-nec-3,O         filos         mou         prepi      na         erthi         na         me         episkefti.,det 	fried	mine	MOD	subj	come	to	me	visit ,My friend must come visit me.,"Prepi, [must] come"
