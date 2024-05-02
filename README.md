@@ -28,7 +28,7 @@ This repository stores data in the Cross-linguistic dataset of force-flavor comb
     - gloss-checker.py
     - modal_element_extractor.py
 
-## Format of the CSV tables {#csv-sec}
+## Format of the CSV tables  {#csv-sec}
 
 The CSV format of the data consists of four files: the metadata yml file as well as three CSV tables: the examples table, the evidence table and the summary table. In a nutshell, the examples table lists all relevant example sentences while the evidence table records felicity judgements regarding the examples in the example table. The summary table 
 
