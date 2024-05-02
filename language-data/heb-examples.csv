@@ -1,0 +1,62 @@
+ref,context,words,gloss,translation,comment
+heb-modal-1,epi-nec-1,Ben	(batuakh)	sokhe.,Ben 	MOD	 	swims,Ben MUST be swimming (right now).,
+heb-modal-1b,epi-nec-1,Ben	khayav		liskhot	(akhsav).,Ben	MOD 		swim 	(now),Ben MUST be swimming (right now).,Deontic interpretation seems to be more natural
+heb-modal-2,epi-nec-5,Ben	batuakh	asheer.,Ben	MOD	 	be.rich,Ben must be rich. ,Original gloss for batuakh was for.sure
+heb-modal-2b,epi-nec-5,Ben	khayav		lihiyot	asheer. ,Ben	MOD		be	rich,Ben must be rich. ,
+heb-modal-3,epi-nec-3,Hakadoor	khayav	lihiyot	be-C.,the.ball 		MOD 	be 	in-C, it MUST be in C,
+heb-modal-4,epi-nec-4,Hakelev	batuakh	lo	baba-eit.,dog	 	MOD	 	not 	in.the.house,the dog MUST not be in the house.,
+heb-modal-4b,epi-nec-4,Batuakh 	hakelev	lo 	baba-eit.,MOD	 	dog 	not 	in.the.house,the dog MUST not be in the house.,(felicitous as an answer to a question )
+heb-modal-4c,epi-nec-4,Hakelev	khayav lo 	lihiyot 	baba-eit.,the.dog                MOD        not        be        in.the.house,the dog MUST not be in the house.,
+heb-modal-4d,epi-nec-4,*khayav	hakelev	lo 	lihiyot 	baba-eit., MOD		dog	not	be	in.the.house,,
+heb-modal-5,epi-wn-1,Ann	amoora lihiyot 	ba-agam	akhshav.,Ann 	MOD	be	at-lake		now,Ann SHOULD be at the lake right now. ,
+heb-modal-5b,epi-wn-1,Ann 	tzrikha lihiyot 	ba-agam	akhshav.,Ann 	MOD	be	at-lake		now,Ann SHOULD be at the lake right now. ,"less ‘correct’; tzrikha literally can be translated as “need”, so it is “less correct” in the sense that the literal translation does not match the weak necessity interpretation"
+heb-modal-6,epi-wn-3,Mary 	amoora lihiyot 	baba-eit. ,Mary	MOD	be	in.the.house,Mary SHOULD be at home,amoora fits better in this context. amoora = need
+heb-modal-6b,epi-wn-3,Mary 	tzrikha	 lihiyot 	baba-eit.,Mary	MOD	be	in.the.house,Mary SHOULD be at home,Original glosses: tzrikha = should(need)
+heb-modal-7,epi-pos-1,Hamoreh	oolay 	yavoh 	hayom.,Teacher 	MOD 	come 	today,The teacher MIGHT be coming to school today.,Oolay original gloss: “may”
+heb-modal-7b,epi-pos-1,Yitakhen 	sheh-ha-moreh 		yavoh 	hayom.,MOD 		Comp-D-teacher 	come 	today,The teacher MIGHT be coming to school today.,Yitakhen original gloss: “it.could.be”
+heb-modal-8,epi-pos-3,Ha-khatool         oolay         baba-eit. Ha-khatool         oolay         bakhootz. ,D-Cat                 MOD         in.the.house   D-Cat                 MOD         outside,The cat MAY be inside. The cat MAY also be outside.,
+heb-modal-8b,epi-pos-3,Yitakhen 	sheh-ha-khatool 	baba-eit 	o 	bakhutz.,MOD	 	Comp-D-cat 		in.the.house 	or 	outside,The cat MAY be inside or outside.,
+heb-modal-8c,epi-pos-3,*ha-khatool 	yitakhen 	baba-eit., D-cat		MOD		in.the.house,,
+heb-modal-8d,epi-pos-3,Oolay 	ha-khatool 	baba-eit.,MOD	D-cat		in.the.house,The cat MAY be in the house.,
+heb-modal-8e,epi-pos-3,Ha-khatool	yakhol 	lihiyot 	baba-eit.,D-cat 		MOD 	be 	in.the.house,The cat MAY be in the house.,
+heb-modal-9,epi-nnec-1,Mary 	amoorah 	lihiyot 	baba-eit 	aval 	lo 	batuakh.,Mary 	MOD 		be 	in.the.house 	but	neg	MOD,"Mary should be at home, but she MAY NOT be.",
+heb-modal-10,epi-imp-1,Ben lo 		yakhol 	lihiyot 	baba-eit.,Ben neg	MOD 	be 	in.the.house ,Ben CAN’T be at home. ,
+heb-modal-10b,epi-imp-1,# Asur      yakhol         lihiyot         baba-eit.,MOD         be         in.the.house ,Ben CAN’T be at home. ,(Asur cannot be used to express epistemic impossibility.)
+heb-modal-11,deo-nec-1,Ata	khayav	lakhvosh	kasdah.,You 	MOD 	put.on.head 	helmet,You MUST wear a helmet.,
+heb-modal-12,deo-nec-2,Orkhim		mekhuyavim 		laazov 	ad 	6 	ba-erev.,visitors  	MOD.plural.pass 	leave 	by 	6 	in.the.evening,Visitors MUST leave by 6pm,
+heb-modal-13,deo-wn-1,Kedai       she-elbash                 bgadim         yafim         la-mesibah.,MOD  		Comp-I.wear.fut 	clothes 	pretty 	to.the.party  ,I OUGHT TO wear formal clothes to the party.,kedai more common
+heb-modal-13b,deo-wn-1,Ratsuy        she-elbash                 bgadim         yafim         la-mesibah.,MOD  		Comp-I.wear.fut 	clothes 	pretty 	to.the.party  ,I OUGHT TO wear formal clothes to the party.,"Ra-tsuy more “correct”, slightly more formal; Ra-tsuy comes from “want”. More general, used to describe general requirements."
+heb-modal-14,deo-wn-2,Kedai        she-gam         lo-ovdim         yitlu                 yadayim.,MOD                 Comp-also         non-workers         washing        hands ,Non-employees OUGHT TO wash their hands too!,
+heb-modal-14b,deo-wn-2,Ratsuy        she-gam         lo-ovdim         yitlu                 yadayim.,MOD                 Comp-also         non-workers         washing        hands ,Non-employees OUGHT TO wash their hands too!,
+heb-modal-15,deo-wn-3,Kedai	she-hu 		yilbash 	masekhah.,MOD 	Comp-he 	wear 	mask,I OUGHT TO wear a face covering.,
+heb-modal-15b,deo-wn-3,# Ratsuy she-hu yilbash mesekhah. ,MOD 	Comp-he 	wear 	mask,I OUGHT TO wear a face covering.,"If we are talking about a specific person entering a hospital without a face covering: kedai ok, but ratsuy  #"
+heb-modal-16,deo-pos-1,Martin	yakhol	la-alot 	la-galgal-ha-anak.,Martin        MOD         go.up         ferris.wheel, Martin MAY ride the ferris wheel.,
+heb-modal-16b,deo-pos-1,# yitakhen she Martin yaale la-galgal-ha-anak,MOD comp Martin   ferris.wheel,,
+heb-modal-16c,deo-pos-1,# oolay she Martin yaale la-galgal-ha-anak,MOD comp Martin   ferris.wheel,,
+heb-modal-17,deo-pos-2,At	yekholah 	le-hikanes.,you 	MOD.F 	enter,You MAY enter.,
+heb-modal-18,deo-nnec-1,Ani	lo 	tsarikh 	lilvosh 	bgadim yafim.,I	neg	MOD	wear	clothes	pretty,I DON’T HAVE TO / NEEDN’T wear formal clothes.,
+heb-modal-18b,deo-nnec-1,Ani	lo 	khayav lilvosh 	bgadim yafim.,I	neg	MOD	wear	clothes	pretty,I DON’T HAVE TO / NEEDN’T wear formal clothes.,
+heb-modal-19,deo-imp-1,Asur  	lirkav 	ofanayim 	le-lo 		kasdah.,MOD	 ride 	bike 		without 	helmet,You MUST NOT ride a motor bike without a helmet. ,(Asur cannot be used to express epistemic impossibility.)
+heb-modal-19b,deo-imp-1,Asur 		le-Martin  	lirkav 	ofanayim 	le-lo 		kasdah.,MOD	 	Martin 		ride 	bike 		without 	helmet,You MUST NOT ride a motor bike without a helmet. ,Original gloss for asur was “not.allowed”
+heb-modal-19c,deo-imp-1,Le-Martin asur lirkav ofanayim le-lo kasdah.,Martin MOD ride bike without helmet,You MUST NOT ride a motor bike without a helmet. ,
+heb-modal-20,tel-nec-1,Ata	khayav	lakakhat	et		ha-kvish	ha-ze.,You 	MOD 	take 		demonstrative 	road 		this,you HAVE TO take this road.,
+heb-modal-20b,tel-nec-1,Ata tzrikh lakakhat et ha-kvish ha-ze.,You 	MOD 	take 		demonstrative 	road 		this,you HAVE TO take this road.,(grammatical but a bit weaker)
+heb-modal-21,tel-wn-1,Kedai 	she 	ata 	tikakh 	et 	ha-otobus.,MOD         Comp         you         take         D         bus,you SHOULD take the bus.,
+heb-modal-21b,tel-wn-1,Ratsuy she (ata) tikakh et ha-otobus.,MOD         Comp         you         take         D         bus,you SHOULD take the bus.,
+heb-modal-21c,tel-wn-1,# khayav,MOD ,,khayav is too strong. 
+heb-modal-21d,tel-wn-1,# tzrikh,MOD,,tzrikh is also too strong
+heb-modal-22,tel-pos-1,Ata	yakhol 	lakakhat et 	ha-derekh 	ha-rishonah.,You 	MOD 	take 	 C 	way 		the.first,You CAN take way 1.,
+heb-modal-22b,tel-pos-1,# yitakhen,MOD,,
+heb-modal-22c,tel-pos-1,# oolay,MOD,,
+heb-modal-23,tel-nnec-1,Ata 	lo-tzarikh 	lakakhat 	et 	ha-otobus.,You	neg-MOD	take		C	bus,you DON’T NEED TO / NEEDN’T do so.,
+heb-modal-24,tel-imp-1,Ata 	lo-yakhol 	lakakhat	kvish 	akher.,You	neg-MOD	take		road	another	,you CAN’T take another road.,
+heb-modal-24b,tel-imp-1,# Asur ,MOD,, (it sounds like a warning)
+heb-modal-25,cir-nec-2,Ani 	khayav le-hitatesh.,I	MOD	sneeze,I HAVE to sneeze.,
+heb-modal-26,cir-pos-1,Etzei	duku 	yekholim 	ligdol 	kan.,Trees	duku	MOD.pl	grow	here,duku trees CAN grow here.,
+heb-modal-26b,cir-pos-1,Etzei	duku 	mesugalim 	ligdol 	kan.,Trees	duku	MOD.pl	grow	here,duku trees CAN grow here.,
+heb-modal-27,cir-pos-2,Amy 	yekholah 	lehakhin 	pasta.,Amy	MOD.F		make/prepare	pasta,Amy CAN make traditional Italian pasta ,
+heb-modal-27b,cir-pos-2,Amy 	mesugelet	lehakhin 	pasta.,Amy	MOD.F		make/prepare	pasta,Amy CAN make traditional Italian pasta ,
+heb-modal-28,cir-nnec-1,Yitakhen 	she-havolvano	itparetz.,MOD		C-volcano	erupt,The volcano will erupt,
+heb-modal-28b,cir-nnec-1,Rov hasikuyim avl lo-behekhrakh/lo-batuakh.,?				neg-MOD,The volcano will erupt,
+heb-modal-29,cir-imp-1,Ani 	lo-yakhol 	lehafsik.,I	neg-MOD	sneeze,I CAN’T help sneezing! ,
+heb-modal-30,bou-nec-1,Ani 	tzarikh liknot 	et 	ha-tik.,I	MOD	buy	C	thing/it,I WANT/NEED TO buy it.,
