@@ -46,6 +46,12 @@ The CSV format of the data consists of four files: the metadata YAML file and th
 
 #### The evidence table (lang-evidence.csv)
 
+| ref | context	| premise	| example	| judgment	| comment	|
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | 
+| aka-modal-evid1 |	epi-nec-1 | na	| aka-modal-1	| felicitous	|
+| aka-modal-evid1b	| epi-nec-1	| na	| aka-modal-1b	| infelicitous	|
+| aka-modal-evid2	| epi-nec-2	| na	| aka-modal-2	| felicitous |
+
 #### The summary table  (lang-summary.csv)
 
 ## How to cite the data
