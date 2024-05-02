@@ -39,6 +39,7 @@ The CSV format of the data consists of four files: the metadata YAML file and th
 #### The examples table (lang-examples.csv)
 
 | ref |	words	| gloss	| translation |	comment |
+| ----------- | ----------- | ----------- | ----------- | ----------- |
 | aka-modal-1 | ɛsɛsɛ Ben dware	| MOD Ben swim	| Ben must be swimming	| The morphological analysis of ɛsɛsɛ according to Owusu (2014): Ɛ-sɛ-sɛ: expletive-fit-Comp |
 | aka-modal-1b	| Ɛwɔsɛ Ben dware	| MOD Ben swim	| Ben must be swimming	|
 | aka-modal-2	| Ɛwɔsɛ John wɔ sukuu |	MOD John be school | John must be at school	|
