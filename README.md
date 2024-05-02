@@ -1,7 +1,7 @@
 # Cross-linguistic dataset of force-flavor combinations in modal elements
 
 This repository stores data in the Cross-linguistic dataset of force-flavor combinations in modal elements
-(Uegaki, Mucha, Engels, Hannon & Fred Whibley. accepted. Cross-linguistic dataset of force-flavor combinations in modal elements. _Linguistic Variation_). The dataset contains the data in a machine-readable csv format (in the `language-data` directory) and in a pdf format (in the `language-questionnaires` directory). Please refer to Uegaki (accpted) for the description of the data in the pdf format. Below we describe the csv format. 
+(Uegaki, Mucha, Engels, Hannon & Fred Whibley. accepted. Cross-linguistic dataset of force-flavor combinations in modal elements. _Linguistic Variation_). The dataset contains the data in a machine-readable CSV format (in the `language-data` directory) and in a PDF format (in the `language-questionnaires` directory). Please refer to Uegaki et al. (accpted) for the description of the data in the PDF format. To a large extent, the data in the CSV format and the PDF format are equivalent, but the PDF data also contains ancillary comments that are not recorded in the CSV format. Details of the CSV format is described below.
 
 ## Basic repository structure
 
@@ -28,15 +28,18 @@ This repository stores data in the Cross-linguistic dataset of force-flavor comb
     - gloss-checker.py
     - modal_element_extractor.py
 
-
 ## Format of the CSV tables
 
-#### Language metadata
+The CSV format of the data consists of four files: the metadata yml file as well as three CSV tables: the examples table, the evidence table and the summary table. In a nutshell, the examples table lists all relevant example sentences while the evidence table records felicity judgements regarding the examples in the example table. The summary table 
 
-#### examples.csv
+#### Language metadata (lang-metadata.yml)
 
-#### evidence.csv
+#### The examples table (lang-examples.csv)
 
-#### summary.csv
+#### The evidence table (lang-evidence.csv)
 
-## How to cite 
+#### The summary table  (lang-summary.csv)
+
+## How to cite the data
+
+Uegaki, Wataru, Anne Mucha, James Engels, Ella Hannon and Fred Whibley. accepted. Cross-linguistic dataset of force-flavor combinations in modal elements. _Linguistic Variation_
