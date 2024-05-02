@@ -1,7 +1,7 @@
 # Cross-linguistic dataset of force-flavor combinations in modal elements
 
 This repository stores data in the Cross-linguistic dataset of force-flavor combinations in modal elements
-(Uegaki, Mucha, Engels, Hannon & Fred Whibley. accepted. Cross-linguistic dataset of force-flavor combinations in modal elements. _Linguistic Variation_). The dataset contains the data in a machine-readable CSV format (in the `language-data` directory) and in a PDF format (in the `language-questionnaires` directory). Please refer to Uegaki et al. (accpted) for the description of the data in the PDF format. To a large extent, the data in the CSV format and the PDF format are equivalent, but the PDF data also contains ancillary comments that are not recorded in the CSV format. Details of the CSV format is described in the section [Format of the CSV tables](#csv-sec) below.
+(Uegaki, Mucha, Engels, Hannon & Fred Whibley. accepted. Cross-linguistic dataset of force-flavor combinations in modal elements. _Linguistic Variation_). The dataset contains the data in a machine-readable CSV format (in the `language-data` directory) and in a PDF format (in the `language-questionnaires` directory). Please refer to Uegaki et al. (accpted) for the description of the data in the PDF format. To a large extent, the data in the CSV format and the PDF format are equivalent, but the PDF data also contains ancillary comments that are not recorded in the CSV format. Details of the CSV format is described in the section [Format of the CSV tables](#Format of the CSV tables) below.
 
 ## Basic repository structure
 
@@ -28,7 +28,7 @@ This repository stores data in the Cross-linguistic dataset of force-flavor comb
     - gloss-checker.py
     - modal_element_extractor.py
 
-## Format of the CSV tables  {#csv-sec}
+## Format of the CSV tables
 
 The CSV format of the data consists of four files: the metadata yml file as well as three CSV tables: the examples table, the evidence table and the summary table. In a nutshell, the examples table lists all relevant example sentences while the evidence table records felicity judgements regarding the examples in the example table. The summary table 
 
