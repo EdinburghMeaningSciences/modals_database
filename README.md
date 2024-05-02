@@ -13,10 +13,10 @@ This repository stores data in the Cross-linguistic dataset of force-flavor comb
         - lang1-evidence.csv
         - lang1-summary.csv
     - lang2
-        - lang1-metadata.yml
-        - lang1-examples.csv
-        - lang1-evidence.csv
-        - lang1-summary.csv
+        - lang2-metadata.yml
+        - lang2-examples.csv
+        - lang2-evidence.csv
+        - lang2-summary.csv
     - ...
 - language-questionnaires
     - _Modals Questionnaire version 2.1.pdf
@@ -31,5 +31,12 @@ This repository stores data in the Cross-linguistic dataset of force-flavor comb
 
 ## Format of the CSV tables
 
+#### Language metadata
+
+#### examples.csv
+
+#### evidence.csv
+
+#### summary.csv
 
 ## How to cite 
