@@ -54,6 +54,12 @@ The CSV format of the data consists of four files: the metadata YAML file and th
 
 #### The summary table  (lang-summary.csv)
 
+| expression | force | flavor | can_express	| evidence	| polarity	| syntactically_negated	| full_form	| notes	|
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | 
+| ɛsɛsɛ	| strong	| epistemic	| 1	| aka-modal-evid1, aka-modal-evid2b, aka-modal-evid3	| positive	| no	| ɛsɛsɛ		|
+| ɛsɛsɛ	| weak necessity	| epistemic	| 1	| aka-modal-evid5, aka-modal-evid6	| positive	| no	| ɛsɛsɛ	|
+| ɛsɛsɛ	| weak	| epistemic	| ?		| positive	| no	| ɛsɛsɛ	|
+
 ## How to cite the data
 
 Uegaki, Wataru, Anne Mucha, James Engels, Ella Hannon and Fred Whibley. accepted. Cross-linguistic dataset of force-flavor combinations in modal elements. _Linguistic Variation_
