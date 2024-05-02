@@ -30,9 +30,11 @@ This repository stores data in the Cross-linguistic dataset of force-flavor comb
 
 ## Format of the CSV tables
 
-The CSV format of the data consists of four files: the metadata YAML file and three CSV tables: **the examples table**, **the evidence table**, and **the summary table**. In a nutshell, **the examples table** lists all relevant example sentences while **the evidence table** records felicity judgements regarding the examples in **the example table**. **The summary table** summarizes the modal inventory in the language, with information about relevant morpho-syntactic and semantic properties of each modal element in the language. 
+The CSV format of the data consists of four files: the metadata YAML file and three CSV tables: **the examples table**, **the evidence table**, and **the summary table**. In a nutshell, **the examples table** lists all relevant example sentences while **the evidence table** records felicity judgements regarding the examples in **the example table**. **The summary table** summarizes the modal inventory, with information about relevant morpho-syntactic and semantic properties of each modal element in the language. 
 
 #### Language metadata (lang-metadata.yml)
+
+
 
 #### The examples table (lang-examples.csv)
 
