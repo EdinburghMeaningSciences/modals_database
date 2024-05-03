@@ -77,7 +77,12 @@ The summary table records the properties of each modal expression in the languag
 | ɛsɛsɛ	| weak necessity	| epistemic	| 1	| aka-modal-evid5, aka-modal-evid6	| positive	| no	| ɛsɛsɛ	|
 | ɛsɛsɛ	| weak	| epistemic	| ?		|| positive	| no	| ɛsɛsɛ	|
 
-The format of this table follows [The Database of Modal Typology](https://github.com/CLMBRs/modal-typology) (Guo et al. 2022[^2]) and the following 
+The format of this table follows [The Database of Modal Typology](https://github.com/CLMBRs/modal-typology) (Guo et al. 2022[^2]). The columns contain the following information and possible values: 
+
+- `expression`: transcription of the modal element corresponding to the MOD element in the examples table.
+- `force`: the information about the force of the modal element with the following possible values:
+    - `strong`: 
+
 
 [^2]: Qingxia Guo, Nathaniel Imel, Shane Steinert-Threlkeld, "A Database for Modal Semantic Typology", _Proceedings of the 4th Workshop on Computational Typology and Multilingual NLP (SIGTYP 2022)_, pp 42-51.
 
