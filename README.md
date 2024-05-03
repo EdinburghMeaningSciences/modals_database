@@ -80,8 +80,16 @@ The summary table records the properties of each modal expression in the languag
 The format of this table follows [The Database of Modal Typology](https://github.com/CLMBRs/modal-typology) (Guo et al. 2022[^2]). The columns contain the following information and possible values: 
 
 - `expression`: transcription of the modal element corresponding to the MOD element in the examples table.
-- `force`: the information about the force of the modal element with the following possible values:
-    - `strong`: 
+- `force`: the possible force of the interpretation of the modal element with the following possible values.
+    - `strong`: necessity interpretation or non-necessity interpretation;
+    - `weak`: possibility interpretation or impossibility interpretation;
+    - `weak necessity`: weak necessity interpretation;
+- `flavor`: the possible flavors of the interpretation of the modal element
+- `can_express`: whether the modal element can express the relevant force/flavor combination. The value is `?` if there is no relevant evidence in the evidence table.
+- `polarity`: the polarity of the possible interpretation.
+    -  `positive`: necessity, weak necessity, and possibility interpretations;
+    -  `negative`: impossibility and non-necessity interpretations.
+- `syntactically negated`: if the form contains syntactic negation, and if so whether the negation is syntactically higher or lower than the element. 
 
 
 [^2]: Qingxia Guo, Nathaniel Imel, Shane Steinert-Threlkeld, "A Database for Modal Semantic Typology", _Proceedings of the 4th Workshop on Computational Typology and Multilingual NLP (SIGTYP 2022)_, pp 42-51.
