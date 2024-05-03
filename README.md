@@ -75,7 +75,7 @@ The summary table records the properties of each modal expression in the languag
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | 
 | ɛsɛsɛ	| strong	| epistemic	| 1	| aka-modal-evid1, aka-modal-evid2b, aka-modal-evid3	| positive	| no	| ɛsɛsɛ		|
 | ɛsɛsɛ	| weak necessity	| epistemic	| 1	| aka-modal-evid5, aka-modal-evid6	| positive	| no	| ɛsɛsɛ	|
-| ɛsɛsɛ	| weak	| epistemic	| ?		| positive	| no	| ɛsɛsɛ	|
+| ɛsɛsɛ	| weak	| epistemic	| ?		|| positive	| no	| ɛsɛsɛ	|
 
 ## How to cite the data
 
