@@ -33,7 +33,7 @@ This repository stores data in the Cross-linguistic dataset of force-flavor comb
 
 The CSV format of the data for each language consists of four files: the metadata YAML file and three CSV tables: **the examples table**, **the evidence table**, and **the summary table**. In a nutshell, **the examples table** lists all relevant example sentences while **the evidence table** records felicity judgements regarding the examples in **the example table**. **The summary table** summarizes the modal inventory, with information about relevant morpho-syntactic and semantic properties of each modal element in the language. In addition, the `language-data` contains `modals-questionnaire.csv` which contains the contexts (based on Vander Klok 2022[^1]) used in the elicitation sessions to obtain the felicity of examples sentences. 
 
-[^1]: Vander Klok, Jozina. 2022. Discourse contexts targeting modality in fieldwork: A revised modal questionnaire. In J. Vander Klok, N. Rech and S. Guesser (eds.) _Studying modality in underdescribed languages: Methods and insights._ (Trends in Linguistics series). Berlin: Mouton de Gruyter.
+[^1]: Vander Klok, Jozina. 2022. "Discourse contexts targeting modality in fieldwork: A revised modal questionnaire." In J. Vander Klok, N. Rech and S. Guesser (eds.) _Studying modality in underdescribed languages: Methods and insights._ (Trends in Linguistics series). Berlin: Mouton de Gruyter.
 
 #### Language metadata (lang-metadata.yml)
 
@@ -92,7 +92,7 @@ The format of this table follows [The Database of Modal Typology](https://github
 - `syntactically negated`: if the form contains syntactic negation, and if so whether the negation is syntactically higher or lower than the element. 
 
 
-[^2]: Qingxia Guo, Nathaniel Imel, Shane Steinert-Threlkeld, "A Database for Modal Semantic Typology", _Proceedings of the 4th Workshop on Computational Typology and Multilingual NLP (SIGTYP 2022)_, pp 42-51.
+[^2]: Guo, Qingxia, Nathaniel Imel, Shane Steinert-Threlkeld. 2022. "A Database for Modal Semantic Typology", _Proceedings of the 4th Workshop on Computational Typology and Multilingual NLP (SIGTYP 2022)_, pp 42-51.
 
 ## How to cite the data
 
