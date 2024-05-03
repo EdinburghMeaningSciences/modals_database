@@ -1,7 +1,7 @@
 # Cross-linguistic dataset of force-flavor combinations in modal elements
 
 This repository stores data in the Cross-linguistic dataset of force-flavor combinations in modal elements
-(Uegaki, Mucha, Engels, Hannon & Fred Whibley. accepted. Cross-linguistic dataset of force-flavor combinations in modal elements. _Linguistic Variation_). The dataset contains the data in a machine-readable CSV format (in the `language-data` directory) and in a PDF format (in the `language-questionnaires` directory). Please refer to Uegaki et al. (accpted) for the description of the data in the PDF format. To a large extent, the data in the CSV format and the PDF format are equivalent, but the PDF data also contains ancillary comments that are not recorded in the CSV format. Details of the CSV format is described in the section [Format of the CSV tables](#Format-of-the-CSV-tables) below.
+(Uegaki, Mucha, Engels, Hannon & Fred Whibley. accepted. Cross-linguistic dataset of force-flavor combinations in modal elements. _Linguistic Variation_). The dataset contains the data in a machine-readable CSV format (in the `language-data` directory) and in a PDF format (in the `language-questionnaires` directory). Please refer to Uegaki et al. (to appear) for the description of the data in the PDF format. To a large extent, the data in the CSV format and the PDF format are equivalent, but the PDF data also contains ancillary comments that are not recorded in the CSV format. Details of the CSV format is described in the section [Format of the CSV tables](#Format-of-the-CSV-tables) below.
 
 ## Basic repository structure
 
@@ -62,4 +62,4 @@ The CSV format of the data consists of four files: the metadata YAML file and th
 
 ## How to cite the data
 
-Uegaki, Wataru, Anne Mucha, James Engels, Ella Hannon and Fred Whibley. accepted. Cross-linguistic dataset of force-flavor combinations in modal elements. _Linguistic Variation_
+Uegaki, Wataru, Anne Mucha, James Engels, Ella Hannon and Fred Whibley. to appear. Cross-linguistic dataset of force-flavor combinations in modal elements. _Linguistic Variation_
