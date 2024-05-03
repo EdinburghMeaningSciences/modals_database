@@ -69,13 +69,17 @@ The evidence table records the acceptability and felicity judgments of the examp
 
 #### The summary table  (lang-summary.csv)
 
-The summary table records the properties of each modal expression in the language, given the evidence available in the evidence table. 
+The summary table records the properties of each modal expression in the language, given the evidence available in the evidence table. For example, in the following sample table from Akan, the initial row indicates that the expression _ɛsɛsɛ_ can express epistemic necessity (`strong` force in the `epistemic` flavor) with reference to the evidence `aka-modal-evid1`, `aka-modal-evid2b`, and `aka-modal-evid3` in the Akan evidence table. 
 
 | expression | force | flavor | can_express	| evidence	| polarity	| syntactically_negated	| full_form	| notes	|
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | 
 | ɛsɛsɛ	| strong	| epistemic	| 1	| aka-modal-evid1, aka-modal-evid2b, aka-modal-evid3	| positive	| no	| ɛsɛsɛ		|
 | ɛsɛsɛ	| weak necessity	| epistemic	| 1	| aka-modal-evid5, aka-modal-evid6	| positive	| no	| ɛsɛsɛ	|
 | ɛsɛsɛ	| weak	| epistemic	| ?		|| positive	| no	| ɛsɛsɛ	|
+
+The format of this table follows [The Database of Modal Typology](https://github.com/CLMBRs/modal-typology) (Guo et al. 2022[^2]) and the following 
+
+[^2]: Qingxia Guo, Nathaniel Imel, Shane Steinert-Threlkeld, "A Database for Modal Semantic Typology", _Proceedings of the 4th Workshop on Computational Typology and Multilingual NLP (SIGTYP 2022)_, pp 42-51.
 
 ## How to cite the data
 
