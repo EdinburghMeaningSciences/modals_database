@@ -34,7 +34,13 @@ The CSV format of the data consists of four files: the metadata YAML file and th
 
 #### Language metadata (lang-metadata.yml)
 
+The matadata YAML files containts the following information about the language: 
 
+- Language name
+- ISO 639-3 code
+- Glottolog code
+- Consultant demographics
+- Elicitation dates
 
 #### The examples table (lang-examples.csv)
 
