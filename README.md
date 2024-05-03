@@ -59,6 +59,8 @@ corresponds to the translation of the example. For the purpose of this dataset, 
 
 #### The evidence table (lang-evidence.csv)
 
+The evidence table records the acceptability and felicity judgments of the examples given a certain context in `modals-questionnaire.csv`. For example, in the following sample table from Akan, the initial row indicates that example `aka-modal-1` in the example table is felicitous in context `epi-nec-1` in `modals-questionnaire.csv`. This piece of evidence then has the unique reference `aka-modal-evid1`. The `premise` column is provided to record judgments about inference patterns if necessary. 
+
 | ref | context	| premise	| example	| judgment	| comment	|
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | 
 | aka-modal-evid1 |	epi-nec-1 | na	| aka-modal-1	| felicitous	|
@@ -66,6 +68,8 @@ corresponds to the translation of the example. For the purpose of this dataset, 
 | aka-modal-evid2	| epi-nec-2	| na	| aka-modal-2	| felicitous |
 
 #### The summary table  (lang-summary.csv)
+
+The summary table records the properties of each modal expression in the language, given the evidence available in the evidence table. 
 
 | expression | force | flavor | can_express	| evidence	| polarity	| syntactically_negated	| full_form	| notes	|
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | 
