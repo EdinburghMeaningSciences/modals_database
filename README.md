@@ -7,6 +7,7 @@ This repository stores data in the Cross-linguistic dataset of force-flavor comb
 
 - README.md
 - language-data
+    - modals-questionnaire.csv 
     - lang1
         - lang1-metadata.yml
         - lang1-examples.csv
@@ -30,11 +31,13 @@ This repository stores data in the Cross-linguistic dataset of force-flavor comb
 
 ## Format of the CSV tables
 
-The CSV format of the data consists of four files: the metadata YAML file and three CSV tables: **the examples table**, **the evidence table**, and **the summary table**. In a nutshell, **the examples table** lists all relevant example sentences while **the evidence table** records felicity judgements regarding the examples in **the example table**. **The summary table** summarizes the modal inventory, with information about relevant morpho-syntactic and semantic properties of each modal element in the language. 
+The CSV format of the data for each language consists of four files: the metadata YAML file and three CSV tables: **the examples table**, **the evidence table**, and **the summary table**. In a nutshell, **the examples table** lists all relevant example sentences while **the evidence table** records felicity judgements regarding the examples in **the example table**. **The summary table** summarizes the modal inventory, with information about relevant morpho-syntactic and semantic properties of each modal element in the language. In addition, the `language-data` contains `modals-questionnaire.csv` which contains the contexts (based on Vander Klok 2022[^1]) used in the elicitation sessions to obtain the felicity of examples sentences. 
+
+[^1]: Vander Klok, Jozina. 2022. Discourse contexts targeting modality in fieldwork: A revised modal questionnaire. In J. Vander Klok, N. Rech and S. Guesser (eds.) _Studying modality in underdescribed languages: Methods and insights._ (Trends in Linguistics series). Berlin: Mouton de Gruyter.
 
 #### Language metadata (lang-metadata.yml)
 
-The matadata YAML files containts the following information about the language: 
+The matadata YAML files containts the following information about the language: _
 
 - Language name
 - ISO 639-3 code
