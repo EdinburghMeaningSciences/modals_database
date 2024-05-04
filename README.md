@@ -1,7 +1,7 @@
 # Cross-linguistic Dataset of Force-Flavor Combinations in Modal Elements
 
 This repository stores data in the **Cross-linguistic Dataset of Force-Flavor Combinations in Modal Elements**
-(Uegaki, Mucha, Engels, Hannon & Whibley. to appear. Cross-linguistic dataset of force-flavor combinations in modal elements. _Linguistic Variation_). The dataset contains the data in a machine-readable CSV format (in the `language-data` directory) and in a PDF format (in the `language-questionnaires` directory). Please refer to Uegaki et al. (to appear) for the description of the data in the PDF format as well as the data collection methodology. To a large extent, the data in the CSV format and the PDF format are equivalent, but the PDF data also contains ancillary comments that are not recorded in the CSV format. Details of the CSV format are described in the section [Format of the CSV tables](#Format-of-the-CSV-tables) below.
+(Uegaki, Mucha, Engels, Hannon & Whibley. to appear. _Linguistic Variation_). The dataset contains the data in a machine-readable CSV format (in the `language-data` directory) and in a PDF format (in the `language-questionnaires` directory). Please refer to Uegaki et al. (to appear) for the description of the data in the PDF format as well as the data collection methodology. To a large extent, the data in the CSV format and the PDF format are equivalent, but the PDF data also contains ancillary comments that are not recorded in the CSV format. Details of the CSV format are described in the section [Format of the CSV tables](#Format-of-the-CSV-tables) below.
 
 ## Basic repository structure
 
