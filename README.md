@@ -37,7 +37,7 @@ The CSV format of the data for each language consists of four files: the metadat
 
 #### Language metadata (lang-metadata.yml)
 
-The matadata YAML files containts the following information about the language:
+The matadata YAML file containts the following information about the language:
 
 - Language name
 - ISO 639-3 code
