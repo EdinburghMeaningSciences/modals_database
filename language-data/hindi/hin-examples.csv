@@ -1,0 +1,50 @@
+ref,context,words,gloss,translation,comment
+hin-modal-1,epi-nec-1,Ben	zaroor		swim	kar	rahaa			hoga,Ben        definitely        swim        do        continuous.Masc.SG    be.FUT.M.SG,Ben MUST be swimming (right now). ,zaroor is an adverbial element; Zaroor can be used as a stand alone answer particle.
+hin-modal-1b,epi-nec-1,Ben	swim	hi		kar	rahaa			hoga,Ben        swim        emphatic        do       continuous.M.SG    be.FUT.M.SG,Ben MUST be swimming (right now). ,hi is an adverbial element
+hin-modal-1c,epi-nec-1,Ben	swim	kar	raha			hoga.,Ben        swim        do        continuous.Masc.SG        be.FUT.M.SG,Ben is probably swimming.,weaker than what context suggests
+hin-modal-2,epi-nec-2,John	zaroor		school	mein	hoga,John	definitely	school	inside	be.FUT.M.SG,John MUST be at school.,
+hin-modal-3,epi-nec-3,Ye 	ball 	zaroor 		C 	mein 	hogi,These	ball	definitely	C	inside	be.FUT.F.SG,The ball must be in C.,
+hin-modal-4,epi-wn-1,Ann         lake         pe         hi                 hogi ,Ann        lake        at        emphatic        be.FUT.F.SG ,Ann SHOULD be at the lake right now. ,
+hin-modal-4b,epi-wn-1,Ann         lake         pe         hi                 hogi                         zaroor,Ann        lake        at        emphatic        be.FUT.F.SG  definitely,Ann SHOULD be at the lake right now. ,hi is slightly weaker than zaroor. 
+hin-modal-4c,epi-wn-1,#Ann 	lake	pe 	hi 		hei/ha,Ann	lake	at	emphatic	be.PRES,Ann must be at the lake right now. ,Expresses certainty.
+hin-modal-5,epi-wn-2,Goa         mei         barish         ho         hi                 rahi                         hogi,Goa        in        rain.F        be        emphatic        continuous.Masc.SG        be.FUT.F.SG, it SHOULD be raining now in Goa.,
+hin-modal-5b,epi-wn-2,Goa         mei         barish         ho         hi                 rahi                         hogi                 zaroor,Goa        in        rain.F        be        emphatic        continuous.Masc.SG        be.FUT.F.SG        definitely, it SHOULD be raining now in Goa.,
+hin-modal-6,epi-pos-1,Teacher 	school	aa 		sakta 		hai,teacher		school	come.INF 	can.3SG.M 	be.3SG,He MIGHT be coming to school today.,
+hin-modal-6b,epi-pos-1,Teacher         shayad school         aa-yega,Teacher		maybe  	school 	come-3SG.M.FUT,He MIGHT be coming to school today.,
+hin-modal-7,epi-pos-2,Shayad Grace	ki 	necklace 	kho.gayi 	hai,Maybe	Grace	of	necklace	lost		be.3SG,Grace’s necklace MIGHT be lost.,
+hin-modal-7b,epi-pos-2,ho         sakta                 hai         ki         Grace         ki         necklace  kho.gayi        hai,be	can.M.3SG	be.3SG	of	Grace	of	necklace  lost		be.3SG,Grace’s necklace MIGHT be lost.,
+hin-modal-7c,epi-pos-2,Shayad       ho         sakta                 hai         ki         Grace         ki         necklace  kho.gayi        hai,(maybe)	be	can.M.3SG	be.3SG	of	Grace	of	necklace  lost		be.3SG,Grace’s necklace MIGHT be lost.,
+hin-modal-8,epi-pos-3,Billi         andar         ho         sakti                 hai    Billi 	andar 	nahi 	bhi 		ho 	sakti 		hai,Cat         inside         be-INF can.3SG.F         be.3SG.F  Cat 	inside 	NEG 	and/also 	be-INF 	can.3SG.F 	be.3SG.F,The cat MAY be inside. The cat MAY also be outside.,
+hin-modal-9,epi-nnec-1,Mary-ko         ghar         mein         ho-na                chahiye  par	voh	nahi	bhi	ho	sakti	hai,Mary=DAT        home         inside        be-FUT                can             but	COMP	NEG	also	be	can	PRES.3SG,"Mary should be at home, but she could also not be.",
+hin-modal-10,epi-imp-1,Ben 	ghar-mein 	nahi    	ho	sakta 	hai,Ben	home-inside	NEG	be	can	PRES.3SG,Ben CAN’T be at home. ,
+hin-modal-11,deo-nec-1,Tum-he		helmet		pehen-na		hi		hoga,You-DAT 	helmet 		wear-FUT.mandatory 	emphasis 	will.have.3SG.M,You MUST wear a helmet.,(best fit)
+hin-modal-11b,deo-nec-1,(Indonesia 	me) 	voh 	helmet 	pehen-te 	hain,Indonesia 	in  	they 	helmet 	wear-3PL 	be.3PL,You MUST wear a helmet.,(More habitually/culturally they wear helmets in Indonesia; as a rule)
+hin-modal-12,deo-nec-2,Dekhne 	valon-ko 	chhe 	baje 	tak 	jana 	hoga ,See 		people-DAT 	six	o’clcok 	by 	go 	will.have.3PL,Visitors MUST leave by 6pm.,"Two different interpretations of hoga; 
+hoga expresses certainty/obligation if the sentence describes a future event; it means speculation/uncertainty if the sentence describes a non-future event. "
+hin-modal-13,deo-wn-2,Non-employees=ko	haath	dho-na		chahiye,Non-employees=DAT 	hands 	wash-FUT 	ought to,Non-employees OUGHT TO wash their hands too!,
+hin-modal-14,deo-pos-2,Tum 	fir 		bhi 	andar 	aa 	sakte 	ho,You 	despite.this 	also	inside 	come 	can 	be,You MAY enter.,
+hin-modal-15,deo-pos-3,Tum	sari	raat 	rah 	bhi 		sakte 	ho 	ghar 	bhi 	ja 	sakte 	ho ,You 	all 	night 	stay 	also/and 	can 	be.FUT	home 	also 	go 	can 	be.FUT,You can stay overnight. You can also go home.,
+hin-modal-16,deo-pos-5,Beth 	tair 	sakti 		hai 		par 	use 	tairna 	nahi 	aata,Beth	swim	can.F.3SG	be.F.3SG.	but	he	swim	neg	habitual,"Beth COULD go swimming, but she can’t swim.",
+hin-modal-16b,deo-pos-5,Beth=ko 	swim 	kar-na 	allowed 	hai,Beth=DAT	swim	do-INF	allowed		be.F.3SG,Beth is ALLOWED/PERMITTED to go swimming,
+hin-modal-17,deo-nnec-1,"mujhe        formal        kapde                pahain-nein        chahiye,        par        main        pahain  nahi	bhi	sakta	hoon",wear        formal        clothes                                can                but        I        NEG        also        can        3PL,"I ought to wear formal clothes to the party, but I DON’T HAVE TO / NEEDN’T wear formal clothes.",
+hin-modal-18,deo-imp-1,Tum 	helmet-ke 	bina 		bike 	nahi 	chala 	sakte 	ho,You	helmet-Case	without		bike	NEG	run	can	PRES.2SG,You MUST NOT ride a motor bike without a helmet. ,
+hin-modal-19,tel-nec-1,Tumhe		yah-i 		rastaa 	le-na 		hoga,you.DAT 	this-very 	road 	take-FUT 	will.have,you HAVE TO take this road.,
+hin-modal-20,tel-nec-2,Team	A- ko 	Team	B-ko	hara-na		hi 		hoga,Team 	A-DAT	Team	B-DAT	beat-FUT	emphasis 	will.have,Team A HAS TO beat Team B.,
+hin-modal-21,tel-wn-1,Tum-he		bus	le-na 		chahiye,You-DAT 	bus 	take-FUT 	should/ought.to,you SHOULD take the bus.,
+hin-modal-22,tel-wn-2,Tum-he		chote 	raston-se 	ja-na 		chahiye,You-DAT 	small 	road.PL-INST 	go-FUT 	should/ought.to,you SHOULD go via the smaller roads.,
+hin-modal-23,tel-pos-1,Tum	Way	1 	le 	sakte 		ho,You 	Way 	1 	take 	can.M.SG 	be.2SG,You CAN take way 1.,
+hin-modal-23b,tel-pos-1,Tum	Way	1 	lo-ge,You 	Way 	1 	take-FUT,You CAN take way 1.,
+hin-modal-23c,tel-pos-1,Tum-he		Way	1	le-na 		tha,You-DAT 	Way	1 	take-FUT 	be/do.PST,You CAN take way 1.,
+hin-modal-24,tel-pos-3,Tum	boutique	jaa 	sakti 		ho,You 	boutique 	go 	can.2.F.SG 	be.2SG,You CAN go to this boutique.,
+hin-modal-25,tel-nnec-1,Tum-he                bus        le-na                chahiye                par         tum        nahi         bhi        le        sakte        ho,You-DAT        bus        take-FUT        can                but        you        NEG        also        take        can        3SG,"You should take the bus, but you DON’T NEED TO do so.",
+hin-modal-26,tel-imp-2,Team	A	Team 	B-se		har	nahi	sakti	hai,Team	A	Team	B-ABL		lose	NEG	can	3SG,Team A CAN’T lose to Team B.,
+hin-modal-27,cir-nec-1,Mujh-e		bathroom	ja-na 		hi 		hoga,Me.DAT         bathroom         go-FUT  emphasis be.FUT.SG,I HAVE to pee!,
+hin-modal-28,cir-nec-4,Dharti		chaand	aur	sooraj 	aligned 	hi 		ho-nge,The.Earth	moon	and 	sun 	aligned 	emphasis 	be-FUT.F.PL,"the Earth, the moon, and the sun HAVE to be aligning with each other.",
+hin-modal-29,cir-nec-3,Paani-ko	daine 	output-se 	hi 		aa-na 		ho-ga,Water-DAT	right 	output-ABL 	emphasis 	come-FUT 	be-FUT.F.SG,the water must come out from the right output. ,
+hin-modal-30,cir-pos-1,Duku	ped 	idhar 	ug 	sakte 		hain,Duku         trees         here         grow   can.M.PL   be.FUT.3PL,duku trees CAN grow here.,
+hin-modal-30b,cir-pos-1,#Duku 	ped 	idhar 	ug-te 		hain,#Duku         trees         here    grow-HAB     be.PRES.PL,,
+hin-modal-31,cir-pos-2,Amy pasta ba-na 	sakti 		hai,Amy pasta make-FUT         can.F.SG   be.FUT.3SG,Amy CAN make traditional Italian pasta ,
+hin-modal-32,cir-nnec-1,Is        volcano-ke        fatne                ke        chances        high        hain                lekin  voh	fat		nahi	bhi	sakta	hai,this        volcano-of        eruption        of        chances        high        be.FUT.3.PL        but that       eruption        NEG        also        can        3SG,it is LIKELY BUT NOT CERTAIN that it will erupt in the next 5 years. ,
+hin-modal-33,cir-imp-2,Pani	baine	output-se	nahi	aa	sakta	hai,water	left	output-ABL	NEG	come	can	PRES.3SG,the water CAN’T come out from the left output. ,
+hin-modal-34,bou-nec-1,Mujh-e	voh 	handbag 	khareed-na 	hi 		ho-ga,I	that	handbag	buy-FUT	emphasis	be-3SG,I WANT/NEED TO buy it.,
+hin-modal-34b,bou-nec-1,Mujh-e	voh	handbag 	khareed-na 	hi 		hai,I	that	handbag	buy-FUT	emphasis	PRES.3SG,I WANT/NEED TO buy it.,
