@@ -1,0 +1,121 @@
+expression,force,flavor,can_express,evidence,polarity,syntactically_negated,full_form,notes
+ga-v-riri,strong,epistemic,1,"ibo-modal-evid1, ibo-modal-evid1b, ibo-modal-evid2, ibo-modal-evid3, ibo-modal-evid4c",positive,no,ga-v-riri,"Riri seems to have a different ordering source to ga by itself. ""We propose that -riri indicates that the worlds in the modal base are ordered with respect to consid- erations beyond normality"" - Mucha et al. 2023. It can appear independently, but tends to be in the form ga-v-RIRI"
+ga-v-riri,weak necessity,epistemic,?,,positive,no,ga-v-riri,"Riri seems to have a different ordering source to ga by itself. ""We propose that -riri indicates that the worlds in the modal base are ordered with respect to consid- erations beyond normality"" - Mucha et al. 2023. It can appear independently, but tends to be in the form ga-v-RIRI"
+ga-v-riri,weak,epistemic,?,,positive,no,ga-v-riri,"Riri seems to have a different ordering source to ga by itself. ""We propose that -riri indicates that the worlds in the modal base are ordered with respect to consid- erations beyond normality"" - Mucha et al. 2023. It can appear independently, but tends to be in the form ga-v-RIRI"
+ga-v-riri,strong,deontic,1,"ibo-modal-evid15, ibo-modal-evid16",positive,no,ga-v-riri,"Riri seems to have a different ordering source to ga by itself. ""We propose that -riri indicates that the worlds in the modal base are ordered with respect to consid- erations beyond normality"" - Mucha et al. 2023. It can appear independently, but tends to be in the form ga-v-RIRI"
+ga-v-riri,weak necessity,deontic,?,,positive,no,ga-v-riri,"Riri seems to have a different ordering source to ga by itself. ""We propose that -riri indicates that the worlds in the modal base are ordered with respect to consid- erations beyond normality"" - Mucha et al. 2023. It can appear independently, but tends to be in the form ga-v-RIRI"
+ga-v-riri,weak,deontic,?,,positive,no,ga-v-riri,"Riri seems to have a different ordering source to ga by itself. ""We propose that -riri indicates that the worlds in the modal base are ordered with respect to consid- erations beyond normality"" - Mucha et al. 2023. It can appear independently, but tends to be in the form ga-v-RIRI"
+ga-v-riri,strong,teleological,1,"ibo-modal-evid29, ibo-modal-evid31",positive,no,ga-v-riri,"Riri seems to have a different ordering source to ga by itself. ""We propose that -riri indicates that the worlds in the modal base are ordered with respect to consid- erations beyond normality"" - Mucha et al. 2023. It can appear independently, but tends to be in the form ga-v-RIRI"
+ga-v-riri,weak necessity,teleological,1,ibo-modal-evid35b,positive,no,ga-v-riri,"Riri seems to have a different ordering source to ga by itself. ""We propose that -riri indicates that the worlds in the modal base are ordered with respect to consid- erations beyond normality"" - Mucha et al. 2023. It can appear independently, but tends to be in the form ga-v-RIRI"
+ga-v-riri,weak,teleological,?,,positive,no,ga-v-riri,"Riri seems to have a different ordering source to ga by itself. ""We propose that -riri indicates that the worlds in the modal base are ordered with respect to consid- erations beyond normality"" - Mucha et al. 2023. It can appear independently, but tends to be in the form ga-v-RIRI"
+ga-v-riri,strong,circumstantial,1,"ibo-modal-evid43, ibo-modal-evid44",positive,no,ga-v-riri,"Riri seems to have a different ordering source to ga by itself. ""We propose that -riri indicates that the worlds in the modal base are ordered with respect to consid- erations beyond normality"" - Mucha et al. 2023. It can appear independently, but tends to be in the form ga-v-RIRI"
+ga-v-riri,weak,circumstantial,?,,positive,no,ga-v-riri,"Riri seems to have a different ordering source to ga by itself. ""We propose that -riri indicates that the worlds in the modal base are ordered with respect to consid- erations beyond normality"" - Mucha et al. 2023. It can appear independently, but tends to be in the form ga-v-RIRI"
+ga-v-riri,strong,bouletic,1,"ibo-modal-evid55, ibo-modal-evid56",positive,no,ga-v-riri,"Riri seems to have a different ordering source to ga by itself. ""We propose that -riri indicates that the worlds in the modal base are ordered with respect to consid- erations beyond normality"" - Mucha et al. 2023. It can appear independently, but tends to be in the form ga-v-RIRI"
+(e)kwesiri,strong,epistemic,?,,positive,no,(e)kwesiri,Occasional (e) epenthesis
+(e)kwesiri,weak necessity,epistemic,1,"ibo-modal-evid5, ibo-modal-evid6, ibo-modal-evid7",positive,no,(e)kwesiri,Occasional (e) epenthesis
+(e)kwesiri,weak,epistemic,?,,positive,no,(e)kwesiri,Occasional (e) epenthesis
+(e)kwesiri,strong,deontic,?,,positive,no,(e)kwesiri,Occasional (e) epenthesis
+(e)kwesiri,weak necessity,deontic,1,"ibo-modal-evid17, ibo-modal-evid17b, ibo-modal-evid18, ibo-modal-evid19, ibo-modal-evid19b",positive,no,(e)kwesiri,Occasional (e) epenthesis
+(e)kwesiri,weak,deontic,?,,positive,no,(e)kwesiri,Occasional (e) epenthesis
+(e)kwesiri,strong,teleological,?,,positive,no,(e)kwesiri,Occasional (e) epenthesis
+(e)kwesiri,weak necessity,teleological,1,"ibo-modal-evid33, ibo-modal-evid34b, ibo-modal-evid35",positive,no,(e)kwesiri,Occasional (e) epenthesis
+(e)kwesiri,weak,teleological,?,,positive,no,(e)kwesiri,Occasional (e) epenthesis
+(e)kwesiri,strong,circumstantial,1,"ibo-modal-evid42, ibo-modal-evid44b",positive,no,(e)kwesiri,Occasional (e) epenthesis
+(e)kwesiri,weak,circumstantial,?,,positive,no,(e)kwesiri,Occasional (e) epenthesis
+(e)kwesiri,strong,bouletic,?,,positive,no,(e)kwesiri,Occasional (e) epenthesis
+Nwe-rV ike,strong,epistemic,?,,positive,no,nwe-re ike,"Literally means ""Have strength"" - but is lexicalised into a modal expressing possibility. rV is used because the vowel is dependent on the environment; vowel harmony. "
+Nwe-rV ike,weak necessity,epistemic,?,,positive,no,nwe-re ike,"Literally means ""Have strength"" - but is lexicalised into a modal expressing possibility. rV is used because the vowel is dependent on the environment; vowel harmony. "
+Nwe-rV ike,weak,epistemic,1,"ibo-modal-evid8, ibo-modal-evid9, ibo-modal-evid10, ibo-modal-evid11",positive,no,nwe-re ike,"Literally means ""Have strength"" - but is lexicalised into a modal expressing possibility. rV is used because the vowel is dependent on the environment; vowel harmony. "
+Nwe-rV ike,strong,deontic,?,,positive,no,nwe-re ike,"Literally means ""Have strength"" - but is lexicalised into a modal expressing possibility. rV is used because the vowel is dependent on the environment; vowel harmony. "
+Nwe-rV ike,weak necessity,deontic,?,,positive,no,nwe-re ike,"Literally means ""Have strength"" - but is lexicalised into a modal expressing possibility. rV is used because the vowel is dependent on the environment; vowel harmony. "
+Nwe-rV ike,weak,deontic,1,"ibo-modal-evid20, ibo-modal-evid21, ibo-modal-evid22, ibo-modal-evid22b, ibo-modal-evid23, ibo-modal-evid24",positive,no,nwe-re ike,"Literally means ""Have strength"" - but is lexicalised into a modal expressing possibility. rV is used because the vowel is dependent on the environment; vowel harmony. "
+Nwe-rV ike,strong,teleological,?,,positive,no,nwe-re ike,"Literally means ""Have strength"" - but is lexicalised into a modal expressing possibility. rV is used because the vowel is dependent on the environment; vowel harmony. "
+Nwe-rV ike,weak necessity,teleological,?,,positive,no,nwe-re ike,"Literally means ""Have strength"" - but is lexicalised into a modal expressing possibility. rV is used because the vowel is dependent on the environment; vowel harmony. "
+Nwe-rV ike,weak,teleological,1,"ibo-modal-evid36, ibo-modal-evid37, ibo-modal-evid38",positive,no,nwe-re ike,"Literally means ""Have strength"" - but is lexicalised into a modal expressing possibility. rV is used because the vowel is dependent on the environment; vowel harmony. "
+Nwe-rV ike,strong,circumstantial,?,,positive,no,nwe-re ike,"Literally means ""Have strength"" - but is lexicalised into a modal expressing possibility. rV is used because the vowel is dependent on the environment; vowel harmony. "
+Nwe-rV ike,weak,circumstantial,1,"ibo-modal-evid45, ibo-modal-evid46, ibo-modal-evid47b, ibo-modal-evid48, ibo-modal-evid49c",positive,no,nwe-re ike,"Literally means ""Have strength"" - but is lexicalised into a modal expressing possibility. rV is used because the vowel is dependent on the environment; vowel harmony. "
+Nwe-rV ike,strong,bouletic,?,,positive,no,nwe-re ike,"Literally means ""Have strength"" - but is lexicalised into a modal expressing possibility. rV is used because the vowel is dependent on the environment; vowel harmony. "
+ga-v-ni,strong,epistemic,?,,positive,no,ga-v-ni,"""We propose that -ni has a meaning similar to the predicate ABLE proposed in Bhatt (2006). Accord- ing to Bhatt, ABLE gives rise to actuality entailments since it has implicative meaning. Only when ABLE combines with a modal operator (which is covert in English), a modal meaning of ability attribution arises. We propose that ga is an overt instantiation of this modal operator in Igbo."" - Mucha et al. 2023"
+ga-v-ni,weak necessity,epistemic,?,,positive,no,ga-v-ni,"""We propose that -ni has a meaning similar to the predicate ABLE proposed in Bhatt (2006). Accord- ing to Bhatt, ABLE gives rise to actuality entailments since it has implicative meaning. Only when ABLE combines with a modal operator (which is covert in English), a modal meaning of ability attribution arises. We propose that ga is an overt instantiation of this modal operator in Igbo."" - Mucha et al. 2023"
+ga-v-ni,weak,epistemic,0,ibo-modal-evid11b,positive,no,ga-v-ni,"""We propose that -ni has a meaning similar to the predicate ABLE proposed in Bhatt (2006). Accord- ing to Bhatt, ABLE gives rise to actuality entailments since it has implicative meaning. Only when ABLE combines with a modal operator (which is covert in English), a modal meaning of ability attribution arises. We propose that ga is an overt instantiation of this modal operator in Igbo."" - Mucha et al. 2023"
+ga-v-ni,strong,deontic,?,,positive,no,ga-v-ni,"""We propose that -ni has a meaning similar to the predicate ABLE proposed in Bhatt (2006). Accord- ing to Bhatt, ABLE gives rise to actuality entailments since it has implicative meaning. Only when ABLE combines with a modal operator (which is covert in English), a modal meaning of ability attribution arises. We propose that ga is an overt instantiation of this modal operator in Igbo."" - Mucha et al. 2023"
+ga-v-ni,weak necessity,deontic,?,,positive,no,ga-v-ni,"""We propose that -ni has a meaning similar to the predicate ABLE proposed in Bhatt (2006). Accord- ing to Bhatt, ABLE gives rise to actuality entailments since it has implicative meaning. Only when ABLE combines with a modal operator (which is covert in English), a modal meaning of ability attribution arises. We propose that ga is an overt instantiation of this modal operator in Igbo."" - Mucha et al. 2023"
+ga-v-ni,weak,deontic,0,,positive,no,ga-v-ni,"""We propose that -ni has a meaning similar to the predicate ABLE proposed in Bhatt (2006). Accord- ing to Bhatt, ABLE gives rise to actuality entailments since it has implicative meaning. Only when ABLE combines with a modal operator (which is covert in English), a modal meaning of ability attribution arises. We propose that ga is an overt instantiation of this modal operator in Igbo."" - Mucha et al. 2023"
+ga-v-ni,strong,teleological,?,,positive,no,ga-v-ni,"""We propose that -ni has a meaning similar to the predicate ABLE proposed in Bhatt (2006). Accord- ing to Bhatt, ABLE gives rise to actuality entailments since it has implicative meaning. Only when ABLE combines with a modal operator (which is covert in English), a modal meaning of ability attribution arises. We propose that ga is an overt instantiation of this modal operator in Igbo."" - Mucha et al. 2023"
+ga-v-ni,weak necessity,teleological,?,,positive,no,ga-v-ni,"""We propose that -ni has a meaning similar to the predicate ABLE proposed in Bhatt (2006). Accord- ing to Bhatt, ABLE gives rise to actuality entailments since it has implicative meaning. Only when ABLE combines with a modal operator (which is covert in English), a modal meaning of ability attribution arises. We propose that ga is an overt instantiation of this modal operator in Igbo."" - Mucha et al. 2023"
+ga-v-ni,weak,teleological,0,,positive,no,ga-v-ni,"""We propose that -ni has a meaning similar to the predicate ABLE proposed in Bhatt (2006). Accord- ing to Bhatt, ABLE gives rise to actuality entailments since it has implicative meaning. Only when ABLE combines with a modal operator (which is covert in English), a modal meaning of ability attribution arises. We propose that ga is an overt instantiation of this modal operator in Igbo."" - Mucha et al. 2023"
+ga-v-ni,strong,circumstantial,?,,positive,no,ga-v-ni,"""We propose that -ni has a meaning similar to the predicate ABLE proposed in Bhatt (2006). Accord- ing to Bhatt, ABLE gives rise to actuality entailments since it has implicative meaning. Only when ABLE combines with a modal operator (which is covert in English), a modal meaning of ability attribution arises. We propose that ga is an overt instantiation of this modal operator in Igbo."" - Mucha et al. 2023"
+ga-v-ni,weak,circumstantial,1,"ibo-modal-evid45b, ibo-modal-evid46b, ibo-modal-evid47, ibo-modal-evid48b, ibo-modal-evid49",positive,no,ga-v-ni,"""We propose that -ni has a meaning similar to the predicate ABLE proposed in Bhatt (2006). Accord- ing to Bhatt, ABLE gives rise to actuality entailments since it has implicative meaning. Only when ABLE combines with a modal operator (which is covert in English), a modal meaning of ability attribution arises. We propose that ga is an overt instantiation of this modal operator in Igbo."" - Mucha et al. 2023"
+ga-v-ni,strong,bouletic,?,,positive,no,ga-v-ni,"""We propose that -ni has a meaning similar to the predicate ABLE proposed in Bhatt (2006). Accord- ing to Bhatt, ABLE gives rise to actuality entailments since it has implicative meaning. Only when ABLE combines with a modal operator (which is covert in English), a modal meaning of ability attribution arises. We propose that ga is an overt instantiation of this modal operator in Igbo."" - Mucha et al. 2023"
+Kwesi-riri,strong,epistemic,?,,positive,no,Kwesi-riri,Modal doubling
+Kwesi-riri,weak necessity,epistemic,?,,positive,no,Kwesi-riri,Modal doubling
+Kwesi-riri,weak,epistemic,?,,positive,no,Kwesi-riri,Modal doubling
+Kwesi-riri,strong,deontic,?,,positive,no,Kwesi-riri,Modal doubling
+Kwesi-riri,weak necessity,deontic,?,,positive,no,Kwesi-riri,Modal doubling
+Kwesi-riri,weak,deontic,?,,positive,no,Kwesi-riri,Modal doubling
+Kwesi-riri,strong,teleological,1,"ibo-modal-evid30, ibo-modal-evid31b",positive,no,Kwesi-riri,Modal doubling
+Kwesi-riri,weak necessity,teleological,0,ibo-modal-evid35c,positive,no,Kwesi-riri,Modal doubling
+Kwesi-riri,weak,teleological,?,,positive,no,Kwesi-riri,Modal doubling
+Kwesi-riri,strong,circumstantial,?,,positive,no,Kwesi-riri,Modal doubling
+Kwesi-riri,weak,circumstantial,?,,positive,no,Kwesi-riri,Modal doubling
+Kwesi-riri,strong,bouletic,?,,positive,no,Kwesi-riri,Modal doubling
+Kwesi-riri,strong,epistemic,?,,negative,,,Modal doubling
+Kwesi-riri,weak necessity,epistemic,?,,negative,,,Modal doubling
+Kwesi-riri,weak,epistemic,?,,negative,,,Modal doubling
+Kwesi-riri,strong,deontic,?,,negative,,,Modal doubling
+Kwesi-riri,weak necessity,deontic,?,,negative,,,Modal doubling
+Kwesi-riri,weak,deontic,?,,negative,,,Modal doubling
+Kwesi-riri,strong,teleological,0,ibo-modal-evid39c,negative,,,Modal doubling
+Kwesi-riri,weak necessity,teleological,?,,negative,,,Modal doubling
+Kwesi-riri,weak,teleological,?,,negative,,,Modal doubling
+Kwesi-riri,strong,circumstantial,?,,negative,,,Modal doubling
+Kwesi-riri,weak,circumstantial,?,,negative,,,Modal doubling
+Kwesi-riri,strong,bouletic,?,,negative,,,Modal doubling
+ga,strong,epistemic,?,,negative,low,(a)ga-ghi,ghi = negative marker. Occasional (a) epenthesis 
+ga,weak necessity,epistemic,?,,negative,low,(a)ga-ghi,ghi = negative marker. Occasional (a) epenthesis 
+ga,weak,epistemic,1,"ibo-modal-evid13, ibo-modal-evid14",negative,low,(a)ga-ghi,ghi = negative marker. Occasional (a) epenthesis 
+ga,strong,deontic,?,,negative,low,(a)ga-ghi,ghi = negative marker. Occasional (a) epenthesis 
+ga,weak necessity,deontic,?,,negative,low,(a)ga-ghi,ghi = negative marker. Occasional (a) epenthesis 
+ga,weak,deontic,?,,negative,low,(a)ga-ghi,ghi = negative marker. Occasional (a) epenthesis 
+ga,strong,teleological,?,,negative,low,(a)ga-ghi,ghi = negative marker. Occasional (a) epenthesis 
+ga,weak necessity,teleological,?,,negative,low,(a)ga-ghi,ghi = negative marker. Occasional (a) epenthesis 
+ga,weak,teleological,?,,negative,low,(a)ga-ghi,ghi = negative marker. Occasional (a) epenthesis 
+ga,strong,circumstantial,?,,negative,low,(a)ga-ghi,ghi = negative marker. Occasional (a) epenthesis 
+ga,weak,circumstantial,1,"ibo-modal-evid52, ibo-modal-evid53, ibo-modal-evid53b, ibo-modal-evid54",negative,low,(a)ga-ghi,ghi = negative marker. Occasional (a) epenthesis 
+ga,strong,bouletic,?,,negative,low,(a)ga-ghi,ghi = negative marker. Occasional (a) epenthesis 
+Nwe-rV ike,strong,epistemic,1,ibo-modal-evid12,negative,low,Nwe-rV ike v-ghi,ghi = negative marker. Occasional (e) epenthesis 
+Nwe-rV ike,weak necessity,epistemic,?,,negative,high,(e)nwe-ghi ike,ghi = negative marker. Occasional (e) epenthesis 
+Nwe-rV ike,weak,epistemic,1,ibo-modal-evid14b,negative,high,(e)nwe-ghi ike,ghi = negative marker. Occasional (e) epenthesis 
+Nwe-rV ike,strong,deontic,?,,negative,high,(e)nwe-ghi ike,ghi = negative marker. Occasional (e) epenthesis 
+Nwe-rV ike,weak necessity,deontic,?,,negative,high,(e)nwe-ghi ike,ghi = negative marker. Occasional (e) epenthesis 
+Nwe-rV ike,weak,deontic,?,,negative,high,(e)nwe-ghi ike,ghi = negative marker. Occasional (e) epenthesis 
+Nwe-rV ike,strong,teleological,?,,negative,high,(e)nwe-ghi ike,ghi = negative marker. Occasional (e) epenthesis 
+Nwe-rV ike,weak necessity,teleological,?,,negative,high,(e)nwe-ghi ike,ghi = negative marker. Occasional (e) epenthesis 
+Nwe-rV ike,weak,teleological,1,ibo-modal-evid40,negative,high,(e)nwe-ghi ike,ghi = negative marker. Occasional (e) epenthesis 
+Nwe-rV ike,strong,circumstantial,?,,negative,high,(e)nwe-ghi ike,ghi = negative marker. Occasional (e) epenthesis 
+Nwe-rV ike,weak,circumstantial,1,ibo-modal-evid52b,negative,high,(e)nwe-ghi ike,ghi = negative marker. Occasional (e) epenthesis 
+Nwe-rV ike,strong,bouletic,?,,negative,high,(e)nwe-ghi ike,ghi = negative marker. Occasional (e) epenthesis 
+kwesiri,strong,epistemic,?,,negative,low,(e)kwesi-ghi,ghi = negative marker. Occasional (e) epenthesis 
+kwesiri,weak necessity,epistemic,?,,negative,low,(e)kwesi-ghi,ghi = negative marker. Occasional (e) epenthesis 
+kwesiri,weak,epistemic,?,,negative,low,(e)kwesi-ghi,ghi = negative marker. Occasional (e) epenthesis 
+kwesiri,strong,deontic,?,,negative,low,(e)kwesi-ghi,ghi = negative marker. Occasional (e) epenthesis 
+kwesiri,weak necessity,deontic,?,,negative,low,(e)kwesi-ghi,ghi = negative marker. Occasional (e) epenthesis 
+kwesiri,weak,deontic,1,"ibo-modal-evid27, ibo-modal-evid28",negative,low,(e)kwesi-ghi,ghi = negative marker. Occasional (e) epenthesis 
+kwesiri,strong,teleological,?,,negative,low,(e)kwesi-ghi,ghi = negative marker. Occasional (e) epenthesis 
+kwesiri,weak necessity,teleological,?,,negative,low,(e)kwesi-ghi,ghi = negative marker. Occasional (e) epenthesis 
+kwesiri,weak,teleological,1,ibo-modal-evid41,negative,low,(e)kwesi-ghi,ghi = negative marker. Occasional (e) epenthesis 
+kwesiri,strong,circumstantial,?,,negative,low,(e)kwesi-ghi,ghi = negative marker. Occasional (e) epenthesis 
+kwesiri,weak,circumstantial,0,ibo-modal-evid50,negative,low,(e)kwesi-ghi,ghi = negative marker. Occasional (e) epenthesis 
+kwesiri,strong,bouletic,?,,negative,low,(e)kwesi-ghi,ghi = negative marker. Occasional (e) epenthesis 
+o bu-ghi iwu na ... ga-v,strong,epistemic,?,,negative,high,o bu-ghi iwu na ... ga-v,"periphrastic construction used to express the meaning ""it is not the law that..."""
+o bu-ghi iwu na ... ga-v,weak necessity,epistemic,?,,negative,high,o bu-ghi iwu na ... ga-v,"periphrastic construction used to express the meaning ""it is not the law that..."""
+o bu-ghi iwu na ... ga-v,weak,epistemic,?,,negative,high,o bu-ghi iwu na ... ga-v,"periphrastic construction used to express the meaning ""it is not the law that..."""
+o bu-ghi iwu na ... ga-v,strong,deontic,1,"ibo-modal-evid25, ibo-modal-evid25b, ibo-modal-evid26",negative,high,o bu-ghi iwu na ... ga-v,"periphrastic construction used to express the meaning ""it is not the law that..."""
+o bu-ghi iwu na ... ga-v,weak necessity,deontic,?,,negative,high,o bu-ghi iwu na ... ga-v,"periphrastic construction used to express the meaning ""it is not the law that..."""
+o bu-ghi iwu na ... ga-v,weak,deontic,?,,negative,high,o bu-ghi iwu na ... ga-v,"periphrastic construction used to express the meaning ""it is not the law that..."""
+o bu-ghi iwu na ... ga-v,strong,teleological,1,ibo-modal-evid39,negative,high,o bu-ghi iwu na ... ga-v,"periphrastic construction used to express the meaning ""it is not the law that..."""
+o bu-ghi iwu na ... ga-v,weak necessity,teleological,?,,negative,high,o bu-ghi iwu na ... ga-v,"periphrastic construction used to express the meaning ""it is not the law that..."""
+o bu-ghi iwu na ... ga-v,weak,teleological,?,,negative,high,o bu-ghi iwu na ... ga-v,"periphrastic construction used to express the meaning ""it is not the law that..."""
+o bu-ghi iwu na ... ga-v,strong,circumstantial,?,,negative,high,o bu-ghi iwu na ... ga-v,"periphrastic construction used to express the meaning ""it is not the law that..."""
+o bu-ghi iwu na ... ga-v,weak,circumstantial,?,,negative,high,o bu-ghi iwu na ... ga-v,"periphrastic construction used to express the meaning ""it is not the law that..."""
+o bu-ghi iwu na ... ga-v,strong,bouletic,?,,negative,high,o bu-ghi iwu na ... ga-v,"periphrastic construction used to express the meaning ""it is not the law that..."""

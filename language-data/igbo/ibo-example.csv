@@ -1,5 +1,5 @@
 ref,context,words,gloss,translation,comment
-ibo-modal-1,epi-nec-1,Ben  ga  na - egwu mmiri  (ugbua).,Ben        MOD         hab - swim    water         now,Ben must be swimming (right now). ,ga is the future marker which presumably has a modal meaning and is therefore glossed as MOD
+ibo-modal-1,epi-nec-1,Ben  ga  na - egwu mmiri  (ugbua).,Ben        MOD         hab - swim    water         now,Ben must be swimming (right now). ,"ga is the future marker which presumably has a modal meaning and is therefore glossed as MOD. ga is the future marker which presumably has a modal meaning and is therefore glossed as MOD, ga and riri both seem to contribute to the necessity meaning."
 ibo-modal-1b,epi-nec-1,Ben  ga  na - egwu  riri mmiri  (ugbua).,Ben        MOD         hab - swim     MOD   water         now,Ben must be swimming (right now). ,"riri optional, but preferred"
 ibo-modal-2,epi-nec-2,John         ga - ano        riri    n’uloakwukwo.,John 	MOD - be.loc 	   MOD prep.house.book(school),John must be at school.,riri not optional here
 ibo-modal-2b,epi-nec-2,* John         ga - ano          n’uloakwukwo.,John         MOD - be.loc       prep.house.book(school),John must be at school.,
@@ -43,3 +43,64 @@ ibo-modal-25b,deo-nnec-1,O         bu - ghi  iwu         na         m         ga
 ibo-modal-25c,deo-nnec-1,# M kwesiri i-yi akwa mara mma mana ekwesiri m i-yi akwa mara mma.,,,
 ibo-modal-25d,deo-nnec-1,* M kwesiri i-yi akwa mara mma mana ekwesiri  riri m i-yi akwa mara mma.,,,
 ibo-modal-26,deo-nnec-2,O 	bu - ghi iwu 	na 	m 	ga - eyi    	(riri)   	ihe      kpochie 	ihu   m.,3sg 	be - neg law 	that 	1sg 	MOD -	wear 	MOD 	thing  	cover   	face my,I don’t have to / needn’t wear a face covering.,
+ibo-modal-27,deo-imp-1,I          kwesi - ghi 	i - nya    	machine      na     ekpu - ghi           	helmeti.,2sg     MOD - neg  	inf - ride   	motor.bike   NA  wear.on.head - neg       helmet,You shouldn’t ride a motor bike without a helmet. ,"This is ""You shouldn't ..."", more like a recommendation. Not easy to come up with a stronger version."
+ibo-modal-27b,deo-imp-1,Anya-la 	machine 	na 	ekpughi 	helmeti.,ride-neg.imp 	motor.bike 	NA 	wear.on.head 	helmet,Don’t ride a motorbike without a helmet.,"This is a negative imperative (elicited, not volunteered in the context)"
+ibo-modal-28,deo-imp-2,Ndi    	obia      ekwesi - ghi 	i - no            karia     elekere    asato.,people  visitor   MOD - neg 	inf - be.loc   exceed  o'clock    eight,Visitors shouldn't stay after 6pm,"Again, this means ""shouldn't ..."" rather than “mustn’t”"
+ibo-modal-28b,deo-imp-2,Ndi        obia      ano -  kari - la                          elekere    asato.,people  visitor   be.loc - exceed - neg.imp	o’clock     eight,Visitors shouldn't stay after 6pm,It’s an instruction 
+ibo-modal-28c,deo-imp-2,Ndi 	obia 	aga - ghi 	ano 	karia	elekere 	asato.,people 	visitor  MOD - neg 	be.loc	exceed  o’clock 	eight,Visitors will not stay after 8 pm.,
+ibo-modal-29,tel-nec-1,I       ga - eso - riri 		uzo 	a.,2sg  MOD - follow - MOD 	road 	this,you have to take this road.,
+ibo-modal-30,tel-nec-2,Team A 	kwesi - riri 	i - meri 		Team 	B.,Team A MOD - MOD          inf - win         team         B,Team A has to beat Team B.,
+ibo-modal-30b,tel-nec-2,?? Team A kwesiri   	i -  meri    	Team B.,Team A MOD  	inf - win  	Team B.,Team A  should have won Team B.,"not really appropriate in the context, means sth. like ""Team A should have won"" (e.g. because they played better)"
+ibo-modal-30c,tel-nec-2,* Team A riri i-meri Team B.,Team A MOD inf-win Team B,,riri has to attach to a verb
+ibo-modal-31,tel-nec-3,Anyi 	ga 	azu - riri 	na 	nke 	Gino.,1pl  	MOD 	buy - MOD 	prep 	? 	Gino,We have to order from Gino’s,
+ibo-modal-31b,tel-nec-3,Anyi 	kwesi - riri   	i - zu    		na	nke    	Gino.,1pl 	MOD - MOD  	inf - buy  	at	?	Gino,We have to order from Gino’s,may be slightly preferred
+ibo-modal-32,tel-wn-1,Were bus gaa.,,Take the bus.,
+ibo-modal-33,tel-wn-1,I 	kwesiri i-ji 		bus gaa.,2sg 	MOD 	inf - take 	bus go,you should take the bus.,
+ibo-modal-34,tel-wn-2,Siri 	umu 	obere 	uzo gaa.,go.via 	children small 	road go,Take the smaller roads.,conveys direct advice 
+ibo-modal-34b,tel-wn-2,I 	kwesiri i-si 		umu 	obere uzo gaa.,2sg         MOD         inf-go.via         children small road go,you should go via the smaller roads.,
+ibo-modal-35,tel-wn-3,I 	kwesiri i-ga 	na 	shop m.,2sg 	MOD 	inf - go prep 	shop my,You should go to my shop.,
+ibo-modal-35b,tel-wn-3,I 	ga 	aga-riri 	na 	shop m.,2sg 	MOD  	go-MOD 	prep 	shop my,You must go to my shop.,"Judged as felicitous in the context, but translated as “must”"
+ibo-modal-35c,tel-wn-3,# kwesiri-riri,MOD-MOD,,
+ibo-modal-36,tel-pos-1,I 	nwere 	ike 	  i - so 		way 	1.,2sg 	have 	strength inf - follow 	way 	1,You can take way 1.,
+ibo-modal-37,tel-pos-2,Anyi 	nwere 	ike  	  i -  ga 		SP 	di 	na 	odida 	anyawu.,1pl 	have 	strength inf - go 	SP	prep 	prep 	falling 	sun,We can go to the swimming pool to the west.,
+ibo-modal-38,tel-pos-3,I 	nwere 	ike 	   i - ga 		na 	boutique a.,2sg         have         strength  inf - go         prep         boutique this,You can go to this boutique.,
+ibo-modal-39,tel-nnec-1,… mana o         bu-ghi  iwu         na         i         ga-eji                 bus.,but         3sg         be-neg law         that         2sg         MOD-take         bus,You don’t need to / needn’t take the bus.,
+ibo-modal-39b,tel-nnec-1,# mana         o         bu-ghi-riri         iwu        na         i         ga-eji                 bus., but 		3sg 	be-neg-MOD  	law 	that 	2sg 	MOD-take 	bus,,
+ibo-modal-39c,tel-nnec-1,# kwesiri-riri,MOD-MOD,,
+ibo-modal-40,tel-imp-1,I 	nwe-ghi ike 		i-so 		uzo 	ozo.,2sg 	have-neg strength 	inf-follow 	road 	another,you can’t take another road.,
+ibo-modal-41,tel-imp-2,Team A ekwesi-ghi 	ka 	ha 	kwe 	ka 	team B merie 	ha.,Team A MOD-neg 	comp 	3pl 	agree 	that 	team B win 	them,Team A can’t lose to Team B.,
+ibo-modal-41b,tel-imp-2,# Team A enwe-ghi ike i-kwe ka team B merie ha.,Team A have-neg     strength     inf-agree     comp      team B  win         them,,"They can’t allow the other team to beat them
+It’s not in their power to allow team B to beat them - because they’re too strong?  "
+ibo-modal-42,cir-nec-1,M 	kwesiri    i - nyu 	mamiri 	ozogbo 	ozogbo.,1sg 	MOD 	   inf - go 	urine 	immediate.reduplication,I have to pee so badly!,
+ibo-modal-42b,cir-nec-1,# M ga nyu-riri mamiri (ugbua). ,,,
+ibo-modal-43,cir-nec-2,M 	ga - eze 	uzere.,1sg 	MOD -sneeze 	sneeze, I have to sneeze.,
+ibo-modal-44,cir-nec-3,Mmiri 	ahu 	ga - esi - riri 	  	na 	nke 	aka 	nri 	puta.,water 	det 	MOD -	follow - MOD   prep 	? 	hand 	food 	come.out,the water must come out from the right output. ,This means there really is no other option.
+ibo-modal-44b,cir-nec-3,Mmiri 	ahu 	kwesiri i - si 		aka 	nri 	puta.,water 	det 	MOD 	inf - follow 	hand 	food 	come.out,the water must come out from the right output. ,
+ibo-modal-45,cir-pos-1,Osisi 	duku 	nwe - re 	ike 	  i -   to 		ebe 	a.,tree 	duku 	have - rV 	strength  inf - grow 	place 	this, duku trees can grow here.,
+ibo-modal-45b,cir-pos-1,Osisi 	duku 	ga - eto - ni 		ebe 	a.,tree         duku         MOD -        grow - MOD        place         this, duku trees can grow here.,
+ibo-modal-45c,cir-pos-1,# Osisi 	duku 	to-ro-ni 	ebe 	a.,tree 	duku 	grow-rV-MOD place 	this,,This means the trees have already grown here before 
+ibo-modal-46,cir-pos-2,Amy 	nwe - re 	ike 		i - me 	pasta 	odinaala 	ndi 	Italy.,Amy 	have - rV 	strength 	inf - do 	pasta 	traditional 	people 	Italy,Amy can make traditional Italian pasta,
+ibo-modal-46b,cir-pos-2,Amy 	ga - eme - ni 		pasta 	odinaala 	ndi 	Italy.,Amy 	MOD -	do - MOD 	pasta 	traditional 	people 	Italy,Amy can make traditional Italian pasta,"Without ni “she will make pasta”. With ni, she has the ability to make pasta. "
+ibo-modal-47,cir-pos-3,Ben         ga - aga - ni         ije         ugbua.,Ben 	MOD -	go - NI 	walk 	now.,Ben can walk now.,Used in a context where a child starts walking or when sb. pretends not to be able to walk but you know that they can.
+ibo-modal-47b,cir-pos-3,Ben nwe - re 	ike 		i  - ga 	ije 	ugbua.,Ben have - rV         strength                inf - go         walk         now,Ben can walk now.,Could be used where the person has regained the ability to walk
+ibo-modal-48,cir-pos-4,Paul 	nwe - re  ike 	  	i - bu 		okute 	ahu.,Paul 	have - rV strength  	inf - carry 	stone 	det,Paul can lift that rock.,
+ibo-modal-48b,cir-pos-4,Paul ga -  ebu - ni          okute         ahu.,Paul MOD -lift - MOD         stone         det,Paul can lift that rock.,
+ibo-modal-48c,cir-pos-4,Paul         bu - ru -ni                okute         ahu.,Paul 	carry - rV - MOD 	stone 	DET,Paul can lift that rock.,"This means that the action has been performed before, so he would be able to carry it "
+ibo-modal-48d,cir-pos-4,* Paul         bu - ru           okute         ahu.,Paul         carry - rV         stone         DET,,
+ibo-modal-49,cir-pos-5,Ugbo 	  ga - ebu - ni    		mmadu  20.,vehicle   MOD - carry - MOD   people    20,Travel vans is able to fit 20 people.,
+ibo-modal-49b,cir-pos-5,Ugbo   bu - ru - ni   mmadu  20.,vehicle	   carry - rV - MOD	people  20 ,Travel vans can fit 20 people.,"The travel vans have fit 20 people already, “has the ability to do something again” [Researcher comment: This might be a pragmatic inference]"
+ibo-modal-49c,cir-pos-5,Ugbo 	nwe - re   ike 	    `i - bu 	mmadu 	20.,vehicle have - rV strength  inf - carry 	people 	20 ,Travel vans can fit 20 people.,
+ibo-modal-50,cir-nnec-3,# M kwesiri i-nyu mamiri ozogbo ozogbo.,,,Negated version wouldn’t be used to express this context 
+ibo-modal-51,cir-nnec-4,"# Nsogbu adighi, Ana-ghi m eze-zi uzere","Problem be.NEG, HAB-NEG 1SG sneeze-ZI sneeze",,"doesn't quite fit this context. Complex sentence such as “I wanted to, but now I don’t want to” would be used to express this sort of thing"
+ibo-modal-52,cir-imp-3,Ben 	aga - ghi 	aga - ni 	ije.,Ben 	MOD -	neg 	go - MOD 	walk,Ben can’t walk.,
+ibo-modal-52b,cir-imp-3,Ben   enwe - ghi   ike 	  	i - ga 	ije.,Ben have - neg strength  inf - go  walk,Ben can’t walk.,
+ibo-modal-53,cir-imp-2,Mmiri 	aga - ghi 	esi -  ni    		aka 	ekpe 	puta.,water 	MOD - neg 	come.from - MOD    	hand 	left 	come.out,the water can’t come out from the left output. ,Aga-ghi esi-ni -> “the water has not got the ability to come out the left”
+ibo-modal-53b,cir-imp-2,Mmiri         aga - ghi         esi                   aka         ekpe         puta.,water         MOD - neg         come.from   hand         left         come.out,the water can’t come out from the left output. ,"“it will not come from the left, because that’s not an option. E.g., it doesn’t exist”"
+ibo-modal-54,cir-imp-4,Osisi 	duku 	aga - ghi 	eto - ni 		ebe 	a.,tree 	duku 	MOD - neg	grow - MOD 	place 	this,duku trees can’t grow here.,
+ibo-modal-54b,cir-imp-4,?? Osisi duku eto-ghi ni ebe a.,tree         duku         grow - neg     MOD place     this,duku trees can’t grow here.,Not natural.
+ibo-modal-55,bou-nec-1,M 	ga     -   azu   -   riri 	ya.,1SG 	FUT -   buy   -   RIRI 	it,I must buy it.,
+ibo-modal-56,bou-nec-2, M 	ga     -     aga    -    riri 	cinema.,1SG 	FUT - 	  go      -   RIRI 	cinema,I must to go to the cinema.,
+ibo-modal-56b,bou-nec-2,?M ga-riri cinema ,,I must to go to the cinema.,
+ibo-modal-57,bou-nec-3,Enyi         m         cho    -   ro         i       -    bia          leta         m.,Friend         my         want  -   rV         INF -     come         visit         me,My friend wants to come visit me.,
+ibo-modal-57b,bou-nec-3,?Enyi m cho-riri i-bia leta m,,My friend wants to come visit me.,
+ibo-modal-57c,bou-nec-3,# bia-riri,come-MOD,,
