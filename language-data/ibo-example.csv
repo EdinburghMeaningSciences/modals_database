@@ -1,0 +1,45 @@
+ref,context,words,gloss,translation,comment
+ibo-modal-1,epi-nec-1,Ben  ga  na - egwu mmiri  (ugbua).,Ben        MOD         hab - swim    water         now,Ben must be swimming (right now). ,ga is the future marker which presumably has a modal meaning and is therefore glossed as MOD
+ibo-modal-1b,epi-nec-1,Ben  ga  na - egwu  riri mmiri  (ugbua).,Ben        MOD         hab - swim     MOD   water         now,Ben must be swimming (right now). ,"riri optional, but preferred"
+ibo-modal-2,epi-nec-2,John         ga - ano        riri    n’uloakwukwo.,John 	MOD - be.loc 	   MOD prep.house.book(school),John must be at school.,riri not optional here
+ibo-modal-2b,epi-nec-2,* John         ga - ano          n’uloakwukwo.,John         MOD - be.loc       prep.house.book(school),John must be at school.,
+ibo-modal-2c,epi-nec-2,* John no-riri n'uloakwukwo.,John be.loc-MOD prep.house,,ga is also not optional
+ibo-modal-3,epi-nec-3,O         ga-adi         riri  n’akpati C.,3sg 	MOD-be MOD	prep.box C,it must be in C.,
+ibo-modal-3b,epi-nec-3,* O         ga-adi      n’akpati C.,3sg         MOD-be prep.box C,it must be in C.,
+ibo-modal-3c,epi-nec-3,?? O di-riri n'akpati C.,3sg be-MOD prep.box C,it must be in C.,Sounds weird without ga
+ibo-modal-4,epi-nec-4,Nkita         ahu         ano -        ghi    n’ulo.,dog         det         be.loc -        neg   prep.house ,the dog is not in the house.,
+ibo-modal-4b,epi-nec-4,* Nkita         ahu         ano -        ghi   riri       n’ulo.,dog 	det 	be.loc -	neg  MOD	prep.house ,,Sentence sounds degraded with riri
+ibo-modal-4c,epi-nec-4,Nkita         ahu         aga - ghi         ano       riri        n’ulo.,dog 	det 	MOD -	neg 	be.loc    MOD	prep.house,the dog must not be in the house.,
+ibo-modal-4d,epi-nec-4,* Nkita         ahu         aga - ghi         ano        n’ulo.,dog         det         MOD -        neg         be.loc   prep.house,the dog must not be in the house.,This is closer to the target in the context of searching
+ibo-modal-5,epi-wn-1,Ann 	kwesiri i - no 	 	na 	lake 	ugbua.,Ann  	MOD 	inf - be.loc 	prep 	lake 	now,Ann should be at the lake right now. ,
+ibo-modal-6,epi-wn-2,E 	kwesiri na 	mmiri 	ga 	na - ezo 	na 	Goa.,imp         MOD         that         water         MOD         ipfv - rain         prep        Goa,it should be raining now in Goa.,
+ibo-modal-7,epi-wn-3,Mary 	kwesiri i - no 	  	n’ulo.,Mary	MOD 	inf - be.loc	prep.house,Mary should be at home. ,
+ibo-modal-7b,epi-wn-3,# Mary ga-ano riri n’ulo.,Mary MOD-be.loc MOD prep.house,Mary should be at home. ,stronger induction. Really sure (not much room for doubt) 
+ibo-modal-8,epi-pos-1,O 	nwere 	ike 	   i - bia 	uloakwukwo 	taa.,3sg 	have 	strength  inf - come 	school 		today,He might be coming to school today.,"Idiomatic, fixed expression “have strength” for possibility"
+ibo-modal-9,epi-pos-2,Iheolu 		Grace 	nwere 	ike 	     na 	o 	fuola.,necklace 	Grace 	have 	strength    that 	it 	lost.pfv,Grace’s necklace might be lost.,
+ibo-modal-10,epi-pos-3,Busu         ahu         nwere         ike           i - no            n’ime                 ulo … Busu ahu         nwe -kwa - ra         ike              i - no         n’iro.,cat           det           have         strength inf - be.loc         prep.inside         house… cat         det         have- add - rV  strength   inf - be.loc    prep.outside,The cat may be inside. The cat may also be outside.,"Nwe-kwa-ra -> with the additive morpheme kwa,  -ra takes the vowel of the internal morpheme, so it’s a different form of the unit nwere"
+ibo-modal-11,epi-pos-4,Daniel 	 nwere 	ike 	  i -  ga 	New York.,Daniel	 have 	strength inf -go N.Y.,Daniel might go to New York.,
+ibo-modal-11b,epi-pos-4,# Daniel ga-aga-ni N.Y.,Daniel MOD-go-MOD N.Y.,Daniel might go to New York.,ni morpheme not used here 
+ibo-modal-12,epi-nnec-1,Mary         nwere         ike           na         o         no - ghi         n’ulo.,Mary        have         strength that         3sg         be.loc - neg         prep.house,Mary may not be at home.,"
+"
+ibo-modal-13,epi-imp-1,Ben 	aga - ghi 	ano 	n’ulo.,Ben	MOD - neg 	be.loc  	prep.house,Ben can’t be at home. ,
+ibo-modal-14,epi-imp-2,O 	ga - ghi 	adi 	na 	C.,3sg 	MOD - neg 	be.pred prep	C,it can’t be in C. ,
+ibo-modal-14b,epi-imp-2,O 	nwe - ghi 	ike 	   i - di 	    	na C.,3sg 	have - neg 	strength  inf - be.pred  	prep C,it can’t be in C. ,This seems stronger in terms of (absolute) impossibility.
+ibo-modal-15,deo-nec-1,I 	ga - eyi 		riri 	helmet.,2sg 	MOD -	wear 	MOD 	helmet,You must wear a helmet.,
+ibo-modal-16,deo-nec-2,Ndi 	obia 	ga - apu 	riri 	n’elekere 	isi.,people 	visitor 	MOD - leave 	MOD 	prep.o’clock 	six,Visitors must leave by 6pm.,
+ibo-modal-17,deo-wn-1,Ekwesiri 	m 	i - yi 		akwa 	mara 	        mma.,MOD 		1sg 	inf - wear 	cloth 	be.beautiful  beauty,I ought to wear formal clothes to the party.,"When the first person pronoun comes after kwesiri, epenthetic E is added to it. No difference in meaning "
+ibo-modal-17b,deo-wn-1,M 	kwesiri i - yi 		akwa 	mara 		mma.,1sg  	MOD 	inf - wear 	cloth 	be.beautiful 	beauty ,I ought to wear formal clothes to the party.,
+ibo-modal-18,deo-wn-2,Ndi         na - abu  - ghi  ndi         oru         kwesi - kwa - ra i -  kwo           aka     ha.,people  ipfv - be - neg  people  work 	MOD - add - rV  inf - wash  	hand   their,Non-employees ought to wash their hands too!,
+ibo-modal-19,deo-wn-3,Ekwesiri     m - i - yi 		ihe 	kpochie ihu 	m.,MOD 	      1sg - inf - wear	thing	cover	face	my,I ought to wear a face covering.,
+ibo-modal-19b,deo-wn-3,M 	kwesiri i - yi 		ihe 	kpochie ihu 	m.,1sg 	MOD 	inf - wear 	thing 	cover 	face 	my ,I ought to wear a face covering.,
+ibo-modal-20,deo-pos-1,Martin 	nwe - re 	ike 	  i - nya   	ugbo.,Marin	have - rV 	strength inf - ride 	vehicle ,Martin may ride the ferris wheel.,
+ibo-modal-21,deo-pos-2,I 	nwe - re 	ike 	    i - ba.,2sg 	have - rV 	strength   inf - enter,You may enter.,
+ibo-modal-22,deo-pos-3,I      nwe - re         ike             i - rahu         ma         o         bu          i         nwe - re   ike                 la.,2sg have - rV 	strength   inf - sleep 	comp 	3sg 	be 	2sg 	have - rV strength go.home,You can stay overnight or You can also go home.,
+ibo-modal-22b,deo-pos-3,I 	nwe - re   ike 	    	i - rahu.   	I 	nwe - kwa -  ra   ike 	         	i - la.,2sg 	have - rV strength   	inf - sleep.  	2sg 	have - add-  rV  strength 	inf -  go.home,You can stay overnight. You can also go home.,
+ibo-modal-23,deo-pos-4,Alice	 nwe - re ike 	    	i - kuli 		nwa 	ya.,Alice          have - rV strength          inf - lift         child        her,Alice can lift her baby.,
+ibo-modal-24,deo-pos-5,Beth 	nwe -  re ike 	    	i - ga 	gwo 	mmiri.,Beth	have - rV strength  	inf - go 	swim 	water,Beth can go swimming.,
+ibo-modal-25,deo-nnec-1,O         bu - ghi  iwu         na         m         ga - eyi         riri    akwa            mara               mma.,3sg 	be - neg law 	that 	1sg 	MOD - wear 	MOD 	clothes   	be.beautiful beauty,I don’t have to / needn’t wear formal clothes.,
+ibo-modal-25b,deo-nnec-1,O         bu - ghi  iwu         na         m         ga - eyi  akwa            mara               mma.,3sg         be - neg law         that         1sg         MOD - wear      clothes           be.beautiful beauty,I don’t have to / needn’t wear formal clothes.,Preferable without riri. Not degraded with it.
+ibo-modal-25c,deo-nnec-1,# M kwesiri i-yi akwa mara mma mana ekwesiri m i-yi akwa mara mma.,,,
+ibo-modal-25d,deo-nnec-1,* M kwesiri i-yi akwa mara mma mana ekwesiri  riri m i-yi akwa mara mma.,,,
+ibo-modal-26,deo-nnec-2,O 	bu - ghi iwu 	na 	m 	ga - eyi    	(riri)   	ihe      kpochie 	ihu   m.,3sg 	be - neg law 	that 	1sg 	MOD -	wear 	MOD 	thing  	cover   	face my,I don’t have to / needn’t wear a face covering.,
