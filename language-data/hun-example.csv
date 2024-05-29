@@ -1,0 +1,107 @@
+ref,context,words,gloss,translation,comment
+hun-modal-1,epi-nec-1,"Úgy 	gondolom,	 hogy 	Ben 	most 	úszik.",so         think.npst.1sg          that         Ben         now         swim.npst.3sg,Ben must be swimming (right now). ,reported to be too weak by the reviewer
+hun-modal-1b,epi-nec-1,Ben 	most 	biztos(an) 	úszik.,Ben 	now 	surely 		swim.npst.3sg,Ben is surely swimming now.',Alternative provided by the reviewer
+hun-modal-2,epi-nec-2,Jánosnak 	iskolában 	kell 	lenni-e/lenni.,Janos.dat 	school.in 	MOD 	be.inf-3sg/be.inf,John must be at school.,
+hun-modal-2b,epi-nec-2,"Úgy	gondolom, 	János 	iskolában 	van.","so         think.npst.1sg,         jános         school.in         be.3sg",John must be at school.,reported to be too weak by the reviewer
+hun-modal-2c,epi-nec-2,János	most	biztos(an) (az) 	iskolában 	van.,János 	now 	surely 	    the 	school.in 	be.npst.3sg,John must be at school.,Alternative provided by the reviewer
+hun-modal-3,epi-nec-3,A 	C-ben 	kell 	lennie.,The	c-in 	MOD 	be.inf.3sg,it must be in C.,
+hun-modal-4,epi-nec-4,A 	kutya 	nem 	lehet 	a 	házban.,The 	dog 	NEG 	MOD 	the 	house.in,the dog must not be in the house.,
+hun-modal-4b,epi-nec-4,"A 	kutya 	biztos, 	hogy 	nincs 		a házban.",the 	dog 	surely 	that 	neg.be.npst.3sg the house.in,the dog must not be in the house.,volunteered and preferred by the reviewer
+hun-modal-5,epi-wn-1,Anna 	most 	valószínűleg 	a 	tónál 	van. ,Anna 	now 	MOD	 	the 	lake.by 	be.3sg,Ann is probably at the lake right now. ,Valószínűleg means “probably” 
+hun-modal-5b,epi-wn-1,Valószínűleg 	Anna 	most 	a 	tónál 	van. ,MOD	 	Anna 	now 	the 	lake.by 	be.3sg,Ann should be at the lake right now. ,
+hun-modal-5c,epi-wn-1,"Arra 		tippelek, 	hogy 	Ann 	a 	tónál 	van.",that.onto 	guess.1sg 	that 	Ann 	the 	lake.at 	be.npst.3sg,Ann should be at the lake right now. ,suggested by the reviewer
+hun-modal-6,epi-wn-2,Most 	valószínűleg 	esik 		Goá-ban.,Now 	MOD	 	rain.3sg	 	Goa-in,it should be raining now in Goa.,
+hun-modal-7,epi-wn-3,Mari 	valószínűleg 	otthon 	van.,Mary 	MOD	 	home 	be.3sg,Mary should be at home. ,
+hun-modal-8,epi-pos-1,"A 	tanár 	lehet, 	(hogy) 	jön 	    ma 	   iskolába (de lehet, hogy nem). ","The 	teacher 	MOD, 	(that) 	come.3sg  today   school-to",The teacher might be coming to school today.,Consultant: hogy makes lehet explicitly epistemic 
+hun-modal-8b,epi-pos-1,#A tanár jöhet ma iskolába.,#The teacher come today school-to,“The teacher is allowed to come” ,The consultant feels this sentence has the strong sense of deontic flavor
+hun-modal-8c,epi-pos-1,# Úgy gondolom ,# so         think.npst.1sg,,
+hun-modal-9,epi-pos-2,"Grace 	nyaklánca 	lehet, 	hogy 	elveszett.","Grace 	necklace 	MOD, 	that 	prt.lose.past.3sg",Grace’s necklace might be lost.,
+hun-modal-9b,epi-pos-2,Grace 	nyaklánca 	elvesz-het-ett.,Grace 	necklace 	prt.lose-MOD-past.3sg,Grace’s necklace might be lost.,-het- is a possibility modal affix
+hun-modal-10,epi-pos-3,"A 	macska 	lehet, 	hogy 	bent 	van, 	lehet, 	hogy 	kint 	van.",The 	cat 	MOD 	that 	inside 	be.3sg 	MOD 	that 	outside 	be.3sg,The cat may be inside. The cat may also be outside.,
+hun-modal-10b,epi-pos-3,"Az 	is 	lehet, 	hogy 	kint 	van",that 	too 	MOD 	that 	outside be.npst.3sg,The cat may also be outside.,Reviewer’s suggestion for the second sentence
+hun-modal-11,epi-pos-4,Daniel 	New 	Yorkba 	  me-het.,Daniel 	New 	York.to 	  go-MOD,Daniel might go to New York.,
+hun-modal-11b,epi-pos-4,"Daniel 	lehet, 	hogy 	New 	Yorkba 	megy.",Daniel 	MOD	that 	New 	York.to 	go.3sg,Daniel might go to New York.,
+hun-modal-12,epi-nnec-1,"Mary 	lehet, 	hogy 	nincs 	otthon.","Mary 	MOD, 	that 	not.be 	home",Mary may not be at home.,
+hun-modal-13,epi-imp-1,Ben 	nem 	lehet 	otthon.,Ben 	NEG 	MOD 	home,Ben can’t be at home. ,
+hun-modal-13b,epi-imp-1,"Ben	biztos, 	hogy 	nincs 	otthon.",Ben 	MOD 	that 	not.be 	home,Ben can’t be at home. ,
+hun-modal-13c,epi-imp-1,# tilos,,,
+hun-modal-14,epi-imp-2,Nem 	lehet 	a 	C-ben.,NEG	MOD 	the 	c-in,it can’t be in C.,
+hun-modal-14b,epi-imp-2,"Biztos, 	hogy 	nincs 	a 	C-ben.",MOD 	that 	no.be 	the 	c-in,it can’t be in C. ,
+hun-modal-15,deo-nec-1,Bukósisakot 	kell 	viselni.,Helmet.acc 	MOD 	wear.inf,You must wear a helmet.,
+hun-modal-15b,deo-nec-1,Muszáj 	bukósisakot 	viselni.,MOD 	helmet.acc 	wear.inf,You must wear a helmet.,Muszáj is infelicitous in epistemic contexts. It is a loan from German. 
+hun-modal-16,deo-nec-2,A 	látogatóknak 	el 	kell 	hagyniuk 	a 	kórházat 	este 	   6-ig.,The 	visitors.pl.dat 	prt 	MOD 	leave.inf.3pl 	the 	hospital-acc 	evening    6-until,,
+hun-modal-16b,deo-nec-2,# Muszáj ,# MOD,,inappropriate because of politeness reasons
+hun-modal-17,deo-wn-1,Ünneplő 	ruhát 		kellene 		viselnem 	a 	buliba.,Formal 		clothes-acc 	MOD.cond 	wear.inf.1sg 	the 	party-to ,I ought to wear formal clothes to the party.,
+hun-modal-17b,deo-wn-1,# Muszáj,MOD,,
+hun-modal-17c,deo-wn-1,# kell,MOD,,
+hun-modal-18,deo-wn-2,"Azoknak,         akik         nem         alkalmazottak         is         meg         kellene         mosniuk … mosni         a         kezüket.",Those-.dat 	who.pl 	not 	employee.pl 	too 	prt 	MOD.cond   wash.inf.3pl … wash.inf 	the 	hand.pl.acc,Non-employees ought to wash their hands too!,
+hun-modal-18b,deo-wn-2,"Azoknak is meg kellene mosni/mosniuk a kezüket, akik nem alkalmazottak.",Those-.dat too prt MOD.cond the hand.pl.acc who.pl not employee.pl,Non-employees ought to wash their hands too!,A more standard word order version provided by the reviewer.
+hun-modal-19,deo-wn-3,Maszkot 		kellene 		viselnem.,Face.covering.acc 	MOD.cond 	wear.inf.1sg,I ought to wear a face covering.,
+hun-modal-20,deo-pos-1,Martin 	felül-het 	az 	óriáskerékre.,Martin 	prt.sit-MOD 	the 	ferris.wheel.to,Martin may ride the ferris wheel.,
+hun-modal-21,deo-pos-2,Bejöhet.,prt.come.MOD,You may enter.,
+hun-modal-22,deo-pos-3,"Itt 	is	 marad	- hat - sz, 	de 	haza 	is 	me-het - sz.",Here	 too 	 stay - MOD - 2sg 	but 	home 	too 	go- MOD - 2sg,You can stay overnight. You can also go home.,
+hun-modal-23,deo-pos-4,Alice 	felemel-het-i 	 	a 	babáját.,Alice 	prt.lift-MOD-3sg  	the 	baby.poss.3sg.acc,Alice can lift her baby.,
+hun-modal-23b,deo-pos-4,Alicnek 	fel 	szabad 	emelni 	a 	babáját.,"Alice 	prt 	MOD 	lift.inf 	the 	baby.poss,3sg.acc",Alice can lift her baby.,
+hun-modal-24,deo-pos-5,Beth 	úsz    - hat.,Beth 	swim- MOD,Beth can go swimming.,
+hun-modal-24b,deo-pos-5,Bethnek szabad (lesz) 	úszni.,Beth.dat MOD 	be.fut 	swim.inf,Beth can go swimming.,
+hun-modal-25,deo-nnec-1,Nem 	muszáj  ünneplő 	ruhát 		viselnem.,NEG	MOD 	 formal 		clothes.acc 	wear.inf.1sg,I don’t have to / needn’t wear formal clothes.,preferred by the consultant
+hun-modal-25b,deo-nnec-1,Nem 	kell 	ünneplő 	ruhát 		viselnem.,NEG         MOD         formal                 clothes.acc         wear.inf.1sg,I don’t have to / needn’t wear formal clothes.,
+hun-modal-26,deo-nnec-2,Nem	kell 	maszkot 	viselni.,NEG 	MOD 	face.mask.acc 	wear.inf,I don’t have to / needn’t wear a face covering.,
+hun-modal-26b,deo-nnec-2,Nem 	muszáj maszkot 	viselni.,NEG 	MOD 	face.mask.acc 	wear.inf,I don’t have to / needn’t wear a face covering.,
+hun-modal-27,deo-imp-1,Tilos 	bukósisak 	nélkül 	 motorozni.,MOD        helmet                 without  ride.a.motor.bike.inf,You mustn’t ride a motor bike without a helmet. ,
+hun-modal-27b,deo-imp-1,(Senkinek)	nem 	szabad 	bukósisak 	nélkül 	motorozni.,Nobody.dat	not 	MOD 	helmet 		without ride.a.motor.bike.inf,You mustn’t ride a motor bike without a helmet. ,suggested by the reviewer
+hun-modal-27c,deo-imp-1,Peter-nek tilos bukósisak nélül motorozni.,Peter MOD helmet without ride.a.motor.bike.inf,"For Peter, it's forbidden to ride a motor bike without a helmet.",tilos = “forbidden/prohibited” 
+hun-modal-28,deo-imp-2,Nem 	lehet 	itt 	tartózkodni 	este 	  6 	után.,NEG 	MOD 	here 	stay.inf 		evening  6 	after,Visitors mustn’t stay after 6pm.,
+hun-modal-28b,deo-imp-2,Nem        szabad         itt         tartózkodni         este           6         után.,NEG 	MOD 	here 	stay.inf 		evening  6 	after,Visitors mustn’t stay after 6pm.,Alternative suggested by the reviewer
+hun-modal-28c,deo-imp-2,Tilos 		itt	 tartózkodni 	este 	  	6 	után.,MOD 		here 	stay.inf 		evening    	6 	after,Visitors mustn’t stay after 6pm.,
+hun-modal-29,tel-nec-1,Csak	 erre 		lehet 	 menni.,Only 	this.way 	MOD	 go.inf,you have to take this road.,
+hun-modal-29b,tel-nec-1,Csak 	erre/ezen 	az 	úton 	   me-het-sz.,Only 	this.on	 	the 	street.on  go-MOD-2sg,You can only take this road.,
+hun-modal-29c,tel-nec-1,Ezen 	az 	úton 	   kell 		menni.,This.on the 	street.on  MOD 	go.inf,you have to take this road.,
+hun-modal-30,tel-nec-2,Az 	A 	csapatnak 	le 	kell 	győznie 	a 	B-t.,The 	A 	group.dat 	prt 	MOD	beat.inf.3sg 	the 	B-acc,Team A has to beat Team B.,
+hun-modal-30b,tel-nec-2,Az A csapatnak muszáj legyőznie a B-t.,The A group.dat MOD prt.beat.inf.3sg the B-acc,Team A has to beat Team B.,
+hun-modal-31,tel-nec-3,Gino-tól 	kell 	rendelni/rendelned. ,Gino-from	MOD 	order.inf//order.inf.2sg, We have to order from Gino’s,
+hun-modal-32,tel-wn-1,A 	bevásárló 	központba 	busszal 		kellene 		menned.,The 	shopping 	center-to 	bus.instr 	MOD.cond 	go.inf.2sg,"To get to the shopping centre, you should take the bus.",
+hun-modal-32b,tel-wn-1,"A         bevásárló         központba         az         lenne         a         legjobb,         ha   busszal         ….… mennél",The         shopping         center.to         the         be.inf         the         best                 if    bus.instr         …… go.inf.2sg,"To get to the shopping centre, you should take the bus.",
+hun-modal-33,tel-wn-2,A 	kisebb 	utakon	/ mellékutakon		kellene 		menned.,The 	smaller 	road.pl.on / side.road.pl.on	MOD.cond 	go.inf.2sg,you should go via the smaller roads.,
+hun-modal-34,tel-wn-3,El         kell         jönnöd                 a         boltomba         új         inget         venni.,Prt         MOD       come.inf.2sg         the         shop.to         new         shirt.acc buy.inf,You should go to my shop to buy a new shirt.,"With kell, it seems to be pushy, indicates that this is a once in a lifetime opportunity"
+hun-modal-34b,tel-wn-3,El         kellene                 jönnöd                 a         boltomba         új         inget         venni.,Prt         MOD.cond         come.inf.2sg         the         shop.to         new         shirt.acc buy.inf,You should go to my shop to buy a new shirt.,
+hun-modal-34c,tel-wn-3,Az         én         boltomba         kellene                 eljönnöd                 új         inget         venni.,the 	I 	shop.my.into 	MOD.cond	prt.come.inf.2sg		new	shirt.acc buy.inf,You should go to my shop to buy a new shirt.,Alternative suggested and preferred by the reviewer
+hun-modal-35,tel-pos-1,Me-het-sz 	az 	első 	úton.,Go-MOD-2sg 	the 	first 	road.on,You can take way 1.,
+hun-modal-36,tel-pos-2,Me-het-ünk 	a 	nyugati 		uszodába.,Go-MOD-2sg   the 	western 	swimming-to,We can go to the swimming pool to the west.,
+hun-modal-36b,tel-pos-2,Tudunk 		menni 	a 	nyugati 		uszodába.,MOD.2pl 	go.inf 	the 	western 	swimming.pool-to,We can go to the swimming pool to the west.,
+hun-modal-37,tel-pos-3,Me-het-sz         ebbe         a         ruhaboltba.,Go-MOD-2sg         this.to         the         boutique.to,You can go to this boutique.,
+hun-modal-37b,tel-pos-3,Tudsz,MOD,,
+hun-modal-37c,tel-pos-3,El-me-het-sz      ebbe         a         ruhaboltba.,vm-go-MOD-2sg     this.to         the         boutique.to,You can go to this boutique.,
+hun-modal-38,tel-nnec-1,Nem 	kell 	busszal 		menned.,NEG	MOD 	bus-inst 	go.inf.2sg,you don’t need to take the bus.,
+hun-modal-38b,tel-nnec-1,Nem	 szükséges 	busszal 		menned.,NEG 	 MOD 		bus.inst 	go.inf.2sg,you don’t need to take the bus.,
+hun-modal-39,tel-imp-1,Nem 	tudsz 		más 	úton 		menni.,NEG 	MOD.2sg 	other 	road.on 	go.inf,you can’t take another road.,
+hun-modal-39b,tel-imp-1,Nem 	lehet 	más 	úton 	menni.,NEG 	MOD 	other 	road 	go.inf,you can’t take another road.,
+hun-modal-39c,tel-imp-1,# tilos ,,you can’t take another road.,"If tilos is used, it indicates that there is in principle another possibility, which is forbidden"
+hun-modal-40,tel-imp-2,Az 	A 	csapat 	nem 	veszít-het-Ø 	 B-vel 	szemben.,The 	A	team 	not	lose-MOD-3sg	 B-with against-with,Team A can’t lose to Team B.,
+hun-modal-41,cir-nec-1,Nagyon pisilnem 	kell.,Very         pee.inf.1sg         MOD,I have to pee so badly!,
+hun-modal-41b,cir-nec-1,Nagyon kell pisilnem.,Very    MOD     pee.inf.1sg ,I have to pee so badly!,Alternative word order (preferred by the reviewer)
+hun-modal-41c,cir-nec-1,Muszáj 	pisilnem.,MOD 	pee.inf.1sg,I have to pee so badly!,Reviewer’s intuition: Would only be appropriate if I indeed had the opportunity to pee.
+hun-modal-42,cir-nec-2,Hapciznom 	kell.,Sneeze.inf.1sg 	MOD,I have to sneeze.,Hapciznom is an expression from child language
+hun-modal-42b,cir-nec-2,Tüsszentenem 	kell.,Sneeze.inf.1sg 	MOD,I have to sneeze.,A more standard version provided by the reviewer
+hun-modal-42c,cir-nec-2,Muszáj 	hapciznom.,MOD	 sneeze.inf.1sg,I have to sneeze.,
+hun-modal-43,cir-nec-3,A 	víznek 		a 	jobb 	oldalon kell 	  kifolynia.,The 	water.dat 	the	right 	side.on 	MOD 	  prt.come.inf.3sg,the water must come out from the right output. ,
+hun-modal-44,cir-pos-1,Duku 	fák 	tudnának 	itt 	nőni.,Duku 	tree.pl 	MOD.cond.3pl 	here 	grow.inf,duku trees can grow here.,"tudnak is fine if there is evidence that the tree was in the island in the past.
+It also depends on the speaker’s knowledge/qualification of asserting the relevant possibility claim. If the speaker has the relevant qualifications, they may use tudnak."
+hun-modal-45,cir-pos-2,Amy 	képes		hagyományos 	olasz 	tésztát 		készíteni.,Amy  MOD   traditional Italian  pasta.acc  make.inf,Amy can make traditional Italian pasta,
+hun-modal-45b,cir-pos-2,"Amy tud-na-Ø 		hagyományos 	olasz 	tésztát 	készíteni,   de nincsenek 	hozzávalói.",Amy MOD-cond-3sg 	traditional	Italian 	pasta.acc make.inf but not.exist.npst.3pl ingredients.her,Amy can make traditional Italian pasta,
+hun-modal-46,cir-pos-3,Ben 	már 	tud 	sétálni.,Ben 	already 	MOD 	walk.inf,Ben can walk now.,
+hun-modal-46b,cir-pos-3,Ben 	már 	képes 	sétálni.,Ben 	already 	MOD 	walk.inf,Ben can walk now.,
+hun-modal-47,cir-pos-4,Pál 	fel 	tudja 		emelni 	a 	követ.,Paul        prt         MOD.3sg         lift.inf         the         rock.acc,Paul can lift that rock.,
+hun-modal-47b,cir-pos-4,Pál képes fel-emelni …,Paul  MOD  prt-lift.inf ...,Paul can lift that rock. ,
+hun-modal-48,cir-pos-5,A         kisbuszban         el         tud         férni         20         ember         is.,The         small.bus.in         prt         MOD         fit.inf         20          person         too,The travel vans can fit 20 people.,
+hun-modal-48b,cir-pos-5,A 	kisbuszban 	elfér 		20 ember is,the 	small.bus.in 	vm.fit.npst.3sg  20 person too,The travel vans can fit 20 people.,More standard version provided by the reviewer
+hun-modal-49,cir-nnec-1,A         vulkán          nem         feltétlenül                 fog         kitörni.,The 	volcano  not 	without.condition 	will 	prt.break.inf,The volcano doesn’t have to erupt.,
+hun-modal-49b,cir-nnec-1,"A 	vulkán 	nem 	biztos,	 hogy 	ki 	fog 	törni.",The 	vulcano NEG 	MOD	 that 	prt 	will 	break.inf,The volcano doesn’t have to erupt.,
+hun-modal-50,cir-imp-3,Ben         nem         képes     sétálni    / menni.,Ben        NEG         MOD     walk.inf / go.inf,Ben can’t walk.,
+hun-modal-50b,cir-imp-3,Ben    nem tud         sétálni    / menni.,Ben       NEG MOD          walk.inf / go.inf,Ben can’t walk.,
+hun-modal-51,cir-imp-2,A 	víz 	nem 	tud 	jönni 	    a 	bal 	oldali 	csapból.,The	water 	NEG 	MOD 	come.inf  the 	left 	side 	pipe-from,the water can’t come out from the left output. ,
+hun-modal-52,cir-imp-4,Duku 	fák 	nem	tud.(ná).nak 		itt 	nőni.,Duku 	tree.pl 	not 	MOD.(cond).3pl 	here 	grow.inf,duku trees can’t grow here.,
+hun-modal-53,bou-nec-1,Ezt 	   meg 	kell 	vennem.,This.acc  prt 	MOD 	buy.inf.1sg,I must buy it.,
+hun-modal-53b,bou-nec-1,Ezt 	  muszáj   megvennem.,This.acc MOD 	    prt.buy.inf.1sg,I must buy it.,
+hun-modal-54,bou-nec-2,El 	kell 	mennem 	a 	moziba.,Prt	MOD 	go.inf.1sg 	the 	cinema-to.,I must go to the cinema.,
+hun-modal-55,bou-nec-3,A 	barátom 	el 	akar 		jönni 		meglátogatni.,The 	friend.poss.1sg 	prt 	want.3sg 	come.inf 	prt.visit.inf,My friend wants to come visit me.,
