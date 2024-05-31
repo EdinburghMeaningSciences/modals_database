@@ -1,0 +1,277 @@
+expression,force,flavor,can_express,evidence,polarity,syntactically_negated,full_form,notes
+hazu,strong,epistemic,1,"jpn-modal-evid1, jpn-modal-evid2",positive,no,hazu,
+hazu,weak necessity,epistemic,1,jpn-modal-evid4,positive,no,hazu,
+hazu,weak,epistemic,?,,positive,no,hazu,
+hazu,strong,deontic,?,,positive,no,hazu,
+hazu,weak necessity,deontic,?,,positive,no,hazu,
+hazu,weak,deontic,?,,positive,no,hazu,
+hazu,strong,teleological,?,,positive,no,hazu,
+hazu,weak necessity,teleological,?,,positive,no,hazu,
+hazu,weak,teleological,?,,positive,no,hazu,
+hazu,strong,circumstantial,1,jpn-modal-evid26,positive,no,hazu,
+hazu,weak,circumstantial,1,jpn-modal-evid27,positive,no,hazu,
+hazu,strong,bouletic,?,,positive,no,hazu,hazu with pure circumstantial possibility readings
+hazu,strong,epistemic,1,jpn-modal-evid8,negative,low,hazu-(ga) + negation,
+hazu,weak necessity,epistemic,?,,negative,low,hazu-(ga) + negation,
+hazu,weak,epistemic,?,,negative,low,hazu-(ga) + negation,
+hazu,strong,deontic,?,,negative,low,hazu-(ga) + negation,
+hazu,weak necessity,deontic,?,,negative,low,hazu-(ga) + negation,
+hazu,weak,deontic,?,,negative,low,hazu-(ga) + negation,
+hazu,strong,teleological,?,,negative,low,hazu-(ga) + negation,
+hazu,weak necessity,teleological,?,,negative,low,hazu-(ga) + negation,
+hazu,weak,teleological,?,,negative,low,hazu-(ga) + negation,
+hazu,strong,circumstantial,1,jpn-modal-evid33,negative,low,hazu-(ga) + negation,
+hazu,weak,circumstantial,?,,negative,low,hazu-(ga) + negation,
+hazu,strong,bouletic,?,,negative,low,hazu-(ga) + negation,
+ni chigai nai,strong,epistemic,1,"jpn-modal-evid1b, jpn-modal-evid2b",positive,no,ni chigai nai,slightly stronger than hazu
+ni chigai nai,weak necessity,epistemic,?,,positive,no,ni chigai nai,slightly stronger than hazu
+ni chigai nai,weak,epistemic,?,,positive,no,ni chigai nai,slightly stronger than hazu
+ni chigai nai,strong,deontic,?,,positive,no,ni chigai nai,slightly stronger than hazu
+ni chigai nai,weak necessity,deontic,?,,positive,no,ni chigai nai,slightly stronger than hazu
+ni chigai nai,weak,deontic,?,,positive,no,ni chigai nai,slightly stronger than hazu
+ni chigai nai,strong,teleological,?,,positive,no,ni chigai nai,slightly stronger than hazu
+ni chigai nai,weak necessity,teleological,?,,positive,no,ni chigai nai,slightly stronger than hazu
+ni chigai nai,weak,teleological,?,,positive,no,ni chigai nai,slightly stronger than hazu
+ni chigai nai,strong,circumstantial,?,,positive,no,ni chigai nai,slightly stronger than hazu
+ni chigai nai,weak,circumstantial,?,,positive,no,ni chigai nai,slightly stronger than hazu
+ni chigai nai,strong,bouletic,?,,positive,no,ni chigai nai,slightly stronger than hazu
+ni chigai nai,strong,epistemic,1,jpn-modal-evid7b,negative,low,nichigainai + negation,slightly odd
+ni chigai nai,weak necessity,epistemic,?,,negative,low,nichigainai + negation,slightly odd
+ni chigai nai,weak,epistemic,?,,negative,low,nichigainai + negation,slightly odd
+ni chigai nai,strong,deontic,?,,negative,low,nichigainai + negation,slightly odd
+ni chigai nai,weak necessity,deontic,?,,negative,low,nichigainai + negation,slightly odd
+ni chigai nai,weak,deontic,?,,negative,low,nichigainai + negation,slightly odd
+ni chigai nai,strong,teleological,?,,negative,low,nichigainai + negation,slightly odd
+ni chigai nai,weak necessity,teleological,?,,negative,low,nichigainai + negation,slightly odd
+ni chigai nai,weak,teleological,?,,negative,low,nichigainai + negation,slightly odd
+ni chigai nai,strong,circumstantial,?,,negative,low,nichigainai + negation,slightly odd
+ni chigai nai,weak,circumstantial,?,,negative,low,nichigainai + negation,slightly odd
+ni chigai nai,strong,bouletic,?,,negative,low,nichigainai + negation,slightly odd
+(a)nakerebanaranai,strong,epistemic,?,,positive,no,(a)nakerebanaranai,this is double negation that means similarly 'not possible if not happening'
+(a)nakerebanaranai,weak necessity,epistemic,?,,positive,no,(a)nakerebanaranai,
+(a)nakerebanaranai,weak,epistemic,?,,positive,no,(a)nakerebanaranai,
+(a)nakerebanaranai,strong,deontic,1,"jpn-modal-evid9, jpn-modal-evid10",positive,no,(a)nakerebanaranai,
+(a)nakerebanaranai,weak necessity,deontic,?,,positive,no,(a)nakerebanaranai,seemingly only with first person subjects
+(a)nakerebanaranai,weak,deontic,?,,positive,no,(a)nakerebanaranai,
+(a)nakerebanaranai,strong,teleological,1,"jpn-modal-evid16, jpn-modal-evid17",positive,no,(a)nakerebanaranai,
+(a)nakerebanaranai,weak necessity,teleological,?,,positive,no,(a)nakerebanaranai,
+(a)nakerebanaranai,weak,teleological,?,,positive,no,(a)nakerebanaranai,
+(a)nakerebanaranai,strong,circumstantial,?,,positive,no,(a)nakerebanaranai,
+(a)nakerebanaranai,weak,circumstantial,?,,positive,no,(a)nakerebanaranai,
+(a)nakerebanaranai,strong,bouletic,1,jpn-modal-evid34b,positive,no,(a)nakerebanaranai,
+daroo,strong,epistemic,?,,positive,no,daroo,
+daroo,weak necessity,epistemic,1,"jpn-modal-evid3, jpn-modal-evid4b",positive,no,daroo,
+daroo,weak,epistemic,?,,positive,no,daroo,
+daroo,strong,deontic,?,,positive,no,daroo,
+daroo,weak necessity,deontic,?,,positive,no,daroo,
+daroo,weak,deontic,?,,positive,no,daroo,
+daroo,strong,teleological,?,,positive,no,daroo,
+daroo,weak necessity,teleological,?,,positive,no,daroo,
+daroo,weak,teleological,?,,positive,no,daroo,
+daroo,strong,circumstantial,?,,positive,no,daroo,
+daroo,weak,circumstantial,?,,positive,no,daroo,
+daroo,strong,bouletic,?,,positive,no,daroo,
+hou-ga ii,strong,epistemic,?,,positive,no,hou-ga ii,
+hou-ga ii,weak necessity,epistemic,?,,positive,no,hou-ga ii,
+hou-ga ii,weak,epistemic,?,,positive,no,hou-ga ii,
+hou-ga ii,strong,deontic,?,,positive,no,hou-ga ii,
+hou-ga ii,weak necessity,deontic,1,jpn-modal-evid11,positive,no,hou-ga ii,
+hou-ga ii,weak,deontic,?,,positive,no,hou-ga ii,
+hou-ga ii,strong,teleological,?,,positive,no,hou-ga ii,
+hou-ga ii,weak necessity,teleological,1,jpn-modal-evid18b,positive,no,hou-ga ii,
+hou-ga ii,weak,teleological,?,,positive,no,hou-ga ii,
+hou-ga ii,strong,circumstantial,?,,positive,no,hou-ga ii,
+hou-ga ii,weak,circumstantial,?,,positive,no,hou-ga ii,
+hou-ga ii,strong,bouletic,?,,positive,no,hou-ga ii,
+beki,strong,epistemic,?,,positive,no,beki,
+beki,weak necessity,epistemic,?,,positive,no,beki,
+beki,weak,epistemic,?,,positive,no,beki,
+beki,strong,deontic,?,,positive,no,beki,
+beki,weak necessity,deontic,1,jpn-modal-evid11b,positive,no,beki,
+beki,weak,deontic,?,,positive,no,beki,
+beki,strong,teleological,1,jpn-modal-evid17b,positive,no,beki,beki is slightly less natural in teleological contexts as opposed to deontic contexts
+beki,weak necessity,teleological,1,"jpn-modal-evid18, jpn-modal-evid19",positive,no,beki,
+beki,weak,teleological,?,,positive,no,beki,
+beki,strong,circumstantial,?,,positive,no,beki,
+beki,weak,circumstantial,?,,positive,no,beki,
+beki,strong,bouletic,?,,positive,no,beki,
+beki,strong,epistemic,?,,negative,low,beki + negation,
+beki,weak necessity,epistemic,?,,negative,low,beki + negation,
+beki,weak,epistemic,?,,negative,low,beki + negation,
+beki,strong,deontic,?,,negative,low,beki + negation,
+beki,weak necessity,deontic,?,,negative,low,beki + negation,
+beki,weak,deontic,1,jpn-modal-evid15c,negative,low,beki + negation,
+beki,strong,teleological,?,,negative,low,beki + negation,
+beki,weak necessity,teleological,?,,negative,low,beki + negation,
+beki,weak,teleological,?,,negative,low,beki + negation,
+beki,strong,circumstantial,?,,negative,low,beki + negation,
+beki,weak,circumstantial,?,,negative,low,beki + negation,
+beki,strong,bouletic,?,,negative,low,beki + negation,
+kamoshirenai,strong,epistemic,?,,positive,no,kamoshirenai,
+kamoshirenai,weak necessity,epistemic,?,,positive,no,kamoshirenai,
+kamoshirenai,weak,epistemic,1,"jpn-modal-evid5, jpn-modal-evid6",positive,no,kamoshirenai,"As long as there is a possibility, kamoshirenai can be used."
+kamoshirenai,strong,deontic,?,,positive,no,kamoshirenai,
+kamoshirenai,weak necessity,deontic,?,,positive,no,kamoshirenai,
+kamoshirenai,weak,deontic,?,,positive,no,kamoshirenai,
+kamoshirenai,strong,teleological,?,,positive,no,kamoshirenai,
+kamoshirenai,weak necessity,teleological,?,,positive,no,kamoshirenai,
+kamoshirenai,weak,teleological,?,,positive,no,kamoshirenai,
+kamoshirenai,strong,circumstantial,?,,positive,no,kamoshirenai,
+kamoshirenai,weak,circumstantial,?,,positive,no,kamoshirenai,
+kamoshirenai,strong,bouletic,?,,positive,no,kamoshirenai,
+temo ii,strong,epistemic,?,,positive,no,temo ii,
+temo ii,weak necessity,epistemic,?,,positive,no,temo ii,
+temo ii,weak,epistemic,?,,positive,no,temo ii,
+temo ii,strong,deontic,?,,positive,no,temo ii,
+temo ii,weak necessity,deontic,?,,positive,no,temo ii,
+temo ii,weak,deontic,1,"jpn-modal-evid12, jpn-modal-evid13",positive,no,temo ii,
+temo ii,strong,teleological,?,,positive,no,temo ii,
+temo ii,weak necessity,teleological,?,,positive,no,temo ii,
+temo ii,weak,teleological,1,"jpn-modal-evid20, jpn-modal-evid21",positive,no,temo ii,
+temo ii,strong,circumstantial,?,,positive,no,temo ii,
+temo ii,weak,circumstantial,?,,positive,no,temo ii,
+temo ii,strong,bouletic,?,,positive,no,temo ii,
+temo ii,strong,epistemic,?,,negative,high,negation + temo ii,
+temo ii,weak necessity,epistemic,?,,negative,high,negation + temo ii,
+temo ii,weak,epistemic,?,,negative,high,negation + temo ii,
+temo ii,strong,deontic,?,,negative,high,negation + temo ii,
+temo ii,weak necessity,deontic,?,,negative,high,negation + temo ii,
+temo ii,weak,deontic,1,jpn-modal-evid14,negative,high,negation + temo ii,
+temo ii,strong,teleological,?,,negative,high,negation + temo ii,
+temo ii,weak necessity,teleological,?,,negative,high,negation + temo ii,
+temo ii,weak,teleological,1,jpn-modal-evid22,negative,high,negation + temo ii,
+temo ii,strong,circumstantial,?,,negative,high,negation + temo ii,
+temo ii,weak,circumstantial,?,,negative,high,negation + temo ii,
+temo ii,strong,bouletic,?,,negative,high,negation + temo ii,
+koto-ga deki,strong,epistemic,?,,positive,no,koto-ga deki,
+koto-ga deki,weak necessity,epistemic,?,,positive,no,koto-ga deki,
+koto-ga deki,weak,epistemic,?,,positive,no,koto-ga deki,
+koto-ga deki,strong,deontic,?,,positive,no,koto-ga deki,
+koto-ga deki,weak necessity,deontic,?,,positive,no,koto-ga deki,
+koto-ga deki,weak,deontic,1,jpn-modal-evid12b,positive,no,koto-ga deki,
+koto-ga deki,strong,teleological,?,,positive,no,koto-ga deki,
+koto-ga deki,weak necessity,teleological,?,,positive,no,koto-ga deki,
+koto-ga deki,weak,teleological,1,jpn-modal-evid20b,positive,no,koto-ga deki,
+koto-ga deki,strong,circumstantial,?,,positive,no,koto-ga deki,
+koto-ga deki,weak,circumstantial,?,,positive,no,koto-ga deki,
+koto-ga deki,strong,bouletic,?,,positive,no,koto-ga deki,
+koto-ga deki,strong,epistemic,?,,negative,low,koto-ga deki + negation,
+koto-ga deki,weak necessity,epistemic,?,,negative,low,koto-ga deki + negation,
+koto-ga deki,weak,epistemic,?,,negative,low,koto-ga deki + negation,
+koto-ga deki,strong,deontic,?,,negative,low,koto-ga deki + negation,
+koto-ga deki,weak necessity,deontic,?,,negative,low,koto-ga deki + negation,
+koto-ga deki,weak,deontic,1,jpn-modal-evid15b,negative,low,koto-ga deki + negation,
+koto-ga deki,strong,teleological,?,,negative,low,koto-ga deki + negation,
+koto-ga deki,weak necessity,teleological,?,,negative,low,koto-ga deki + negation,
+koto-ga deki,weak,teleological,?,,negative,low,koto-ga deki + negation,
+koto-ga deki,strong,circumstantial,?,,negative,low,koto-ga deki + negation,
+koto-ga deki,weak,circumstantial,1,"jpn-modal-evid32b, jpn-modal-evid33b",negative,low,koto-ga deki + negation,
+koto-ga deki,strong,bouletic,?,,negative,low,koto-ga deki + negation,
+e,strong,epistemic,?,,positive,no,(ar)e with ability readings,
+e,weak necessity,epistemic,?,,positive,no,(ar)e with ability readings,
+e,weak,epistemic,?,,positive,no,(ar)e with ability readings,
+e,strong,deontic,?,,positive,no,(ar)e with ability readings,
+e,weak necessity,deontic,?,,positive,no,(ar)e with ability readings,
+e,weak,deontic,?,,positive,no,(ar)e with ability readings,
+e,strong,teleological,?,,positive,no,(ar)e with ability readings,
+e,weak necessity,teleological,?,,positive,no,(ar)e with ability readings,
+e,weak,teleological,?,,positive,no,(ar)e with ability readings,
+e,strong,circumstantial,?,,positive,no,(ar)e with ability readings,
+e,weak,circumstantial,1,"jpn-modal-evid28, jpn-modal-evid29, jpn-modal-evid30",positive,no,(ar)e with ability readings,
+e,strong,bouletic,?,,positive,no,(ar)e with ability readings,
+e,strong,epistemic,?,,negative,low,(ar)e + negation,
+e,weak necessity,epistemic,?,,negative,low,(ar)e + negation,
+e,weak,epistemic,?,,negative,low,(ar)e + negation,
+e,strong,deontic,?,,negative,low,(ar)e + negation,
+e,weak necessity,deontic,?,,negative,low,(ar)e + negation,
+e,weak,deontic,?,,negative,low,(ar)e + negation,
+e,strong,teleological,1,"jpn-modal-evid23, jpn-modal-evid24",negative,low,(ar)e + negation,
+e,weak necessity,teleological,?,,negative,low,(ar)e + negation,
+e,weak,teleological,?,,negative,low,(ar)e + negation,
+e,strong,circumstantial,?,,negative,low,(ar)e + negation,
+e,weak,circumstantial,1,jpn-modal-evid32,negative,low,(ar)e + negation,
+e,strong,bouletic,?,,negative,low,(ar)e + negation,
+koto-ga dekiru,strong,epistemic,?,,positive,no,koto-ga dekiru,
+koto-ga dekiru,weak necessity,epistemic,?,,positive,no,koto-ga dekiru,
+koto-ga dekiru,weak,epistemic,?,,positive,no,koto-ga dekiru,
+koto-ga dekiru,strong,deontic,?,,positive,no,koto-ga dekiru,
+koto-ga dekiru,weak necessity,deontic,?,,positive,no,koto-ga dekiru,
+koto-ga dekiru,weak,deontic,?,,positive,no,koto-ga dekiru,
+koto-ga dekiru,strong,teleological,?,,positive,no,koto-ga dekiru,
+koto-ga dekiru,weak necessity,teleological,?,,positive,no,koto-ga dekiru,
+koto-ga dekiru,weak,teleological,?,,positive,no,koto-ga dekiru,
+koto-ga dekiru,strong,circumstantial,?,,positive,no,koto-ga dekiru,
+koto-ga dekiru,weak,circumstantial,1,"jpn-modal-evid28b, jpn-modal-evid30b",positive,no,koto-ga dekiru,
+koto-ga dekiru,strong,bouletic,?,,positive,no,koto-ga dekiru,
+koto-ga dekiru,strong,epistemic,?,,negative,low,koto-ga dekiru + negation,
+koto-ga dekiru,weak necessity,epistemic,?,,negative,low,koto-ga dekiru + negation,
+koto-ga dekiru,weak,epistemic,?,,negative,low,koto-ga dekiru + negation,
+koto-ga dekiru,strong,deontic,?,,negative,low,koto-ga dekiru + negation,
+koto-ga dekiru,weak necessity,deontic,?,,negative,low,koto-ga dekiru + negation,
+koto-ga dekiru,weak,deontic,?,,negative,low,koto-ga dekiru + negation,
+koto-ga dekiru,strong,teleological,1,jpn-modal-evid23b,negative,low,koto-ga dekiru + negation,
+koto-ga dekiru,weak necessity,teleological,?,,negative,low,koto-ga dekiru + negation,
+koto-ga dekiru,weak,teleological,?,,negative,low,koto-ga dekiru + negation,
+koto-ga dekiru,strong,circumstantial,?,,negative,low,koto-ga dekiru + negation,
+koto-ga dekiru,weak,circumstantial,?,,negative,low,koto-ga dekiru + negation,
+koto-ga dekiru,strong,bouletic,?,,negative,low,koto-ga dekiru + negation,
+tashika,strong,epistemic,1,jpn-modal-evid7,negative,low,tashika + negation,tashika(certain)
+tashika,weak necessity,epistemic,?,,negative,low,tashika + negation,tashika(certain)
+tashika,weak,epistemic,?,,negative,low,tashika + negation,tashika(certain)
+tashika,strong,deontic,?,,negative,low,tashika + negation,tashika(certain)
+tashika,weak necessity,deontic,?,,negative,low,tashika + negation,tashika(certain)
+tashika,weak,deontic,?,,negative,low,tashika + negation,tashika(certain)
+tashika,strong,teleological,?,,negative,low,tashika + negation,tashika(certain)
+tashika,weak necessity,teleological,?,,negative,low,tashika + negation,tashika(certain)
+tashika,weak,teleological,?,,negative,low,tashika + negation,tashika(certain)
+tashika,strong,circumstantial,?,,negative,low,tashika + negation,tashika(certain)
+tashika,weak,circumstantial,?,,negative,low,tashika + negation,tashika(certain)
+tashika,strong,bouletic,?,,negative,low,tashika + negation,tashika(certain)
+kagira-nai,strong,epistemic,?,,negative,no,kagira-nai,limit-neg
+kagira-nai,weak necessity,epistemic,?,,negative,no,kagira-nai,limit-neg
+kagira-nai,weak,epistemic,?,,negative,no,kagira-nai,limit-neg
+kagira-nai,strong,deontic,?,,negative,no,kagira-nai,limit-neg
+kagira-nai,weak necessity,deontic,?,,negative,no,kagira-nai,limit-neg
+kagira-nai,weak,deontic,?,,negative,no,kagira-nai,limit-neg
+kagira-nai,strong,teleological,?,,negative,no,kagira-nai,limit-neg
+kagira-nai,weak necessity,teleological,?,,negative,no,kagira-nai,limit-neg
+kagira-nai,weak,teleological,?,,negative,no,kagira-nai,limit-neg
+kagira-nai,strong,circumstantial,1,jpn-modal-evid31,negative,no,kagira-nai,limit-neg
+kagira-nai,weak,circumstantial,?,,negative,no,kagira-nai,limit-neg
+kagira-nai,strong,bouletic,?,,negative,no,kagira-nai,limit-neg
+wake,strong,epistemic,1,jpn-modal-evid8b,negative,low,wake-(ga) + negation,"wake-(ga) + negation, reason and nominaliser"
+wake,weak necessity,epistemic,?,,negative,low,wake-(ga) + negation,"wake-(ga) + negation, reason and nominaliser"
+wake,weak,epistemic,?,,negative,low,wake-(ga) + negation,"wake-(ga) + negation, reason and nominaliser"
+wake,strong,deontic,?,,negative,low,wake-(ga) + negation,"wake-(ga) + negation, reason and nominaliser"
+wake,weak necessity,deontic,?,,negative,low,wake-(ga) + negation,"wake-(ga) + negation, reason and nominaliser"
+wake,weak,deontic,?,,negative,low,wake-(ga) + negation,"wake-(ga) + negation, reason and nominaliser"
+wake,strong,teleological,?,,negative,low,wake-(ga) + negation,"wake-(ga) + negation, reason and nominaliser"
+wake,weak necessity,teleological,?,,negative,low,wake-(ga) + negation,"wake-(ga) + negation, reason and nominaliser"
+wake,weak,teleological,?,,negative,low,wake-(ga) + negation,"wake-(ga) + negation, reason and nominaliser"
+wake,strong,circumstantial,?,,negative,low,wake-(ga) + negation,"wake-(ga) + negation, reason and nominaliser"
+wake,weak,circumstantial,?,,negative,low,wake-(ga) + negation,"wake-(ga) + negation, reason and nominaliser"
+wake,strong,bouletic,?,,negative,low,wake-(ga) + negation,"wake-(ga) + negation, reason and nominaliser"
+naranai,strong,epistemic,?,,negative,yes,naranai,nai itself is a negation word
+naranai,weak necessity,epistemic,?,,negative,yes,naranai,
+naranai,weak,epistemic,?,,negative,yes,naranai,
+naranai,strong,deontic,?,,negative,yes,naranai,
+naranai,weak necessity,deontic,?,,negative,yes,naranai,
+naranai,weak,deontic,1,jpn-modal-evid15,negative,yes,naranai,
+naranai,strong,teleological,?,,negative,yes,naranai,
+naranai,weak necessity,teleological,?,,negative,yes,naranai,
+naranai,weak,teleological,?,,negative,yes,naranai,
+naranai,strong,circumstantial,?,,negative,yes,naranai,
+naranai,weak,circumstantial,?,,negative,yes,naranai,
+naranai,strong,bouletic,?,,negative,yes,naranai,
+ana-kya,strong,epistemic,?,,positive,no,ana-kya,
+ana-kya,weak necessity,epistemic,?,,positive,no,ana-kya,
+ana-kya,weak,epistemic,?,,positive,no,ana-kya,
+ana-kya,strong,deontic,?,,positive,no,ana-kya,
+ana-kya,weak necessity,deontic,?,,positive,no,ana-kya,
+ana-kya,weak,deontic,?,,positive,no,ana-kya,
+ana-kya,strong,teleological,?,,positive,no,ana-kya,
+ana-kya,weak necessity,teleological,?,,positive,no,ana-kya,
+ana-kya,weak,teleological,?,,positive,no,ana-kya,
+ana-kya,strong,circumstantial,?,,positive,no,ana-kya,
+ana-kya,weak,circumstantial,?,,positive,no,ana-kya,
+ana-kya,strong,bouletic,1,jpn-modal-evid34,positive,no,ana-kya,seemingly only with first person subjects

@@ -1,0 +1,56 @@
+ref,context,words,gloss,translation,comment
+jpn-modal-1,epi-nec-1,Ben-wa 	oyoi-deiru 		hazu 	da,Ben-Top         swim-Asp(prog)         MOD         Cop,Ben MUST be swimming,Hazu = reading where there is not actually entailment.
+jpn-modal-1b,epi-nec-1,Ben-wa 	oyoi-deiru 	ni-chigai-nai,Ben-Top         swim-Asp         MOD,Ben MUST be swimming,Nichigainai slightly stronger => has to be the case based on what you know.
+jpn-modal-2,epi-nec-3,Booru-wa 	C 	ni 	aru 	hazu 	da,Ball-Top         C         Loc         exist         MOD         Cop , it MUST be in C,
+jpn-modal-2b,epi-nec-3,Booru-wa 	C 	ni 	aru 	ni-chigai-nai,Ball-Top        C        Loc        exist       MOD,it MUST be in C,
+jpn-modal-3,epi-wn-1,An-wa 		mizuumi-ni 	iru-daroo,Ann-Top         lake-Loc        exist-MOD ,Ann SHOULD be at the lake right now.,
+jpn-modal-4,epi-wn-3,"Meari-wa         ie-ni                 iru         hazu-da         ga,         tashika-de-wa                 nai",Mary-Top         house-Loc         exist         MOD-Cop         but         certain-Cop-Top         Neg,"Mary SHOULD be at home, but it’s not certain. ",
+jpn-modal-4b,epi-wn-3,Meari-wa 	ie-ni 		iru 	daroo.,Mary-Top         house-Loc         exist         MOD ,Mary SHOULD be at home,
+jpn-modal-5,epi-pos-1,Kare-wa 	kuru 	ka-mo-shire-nai. ,he-Top                 come         MOD,He MIGHT be coming to school today.,"‘It is not known whether…’ (lit.)
+As long as there is a possibility, kamoshirenai can be used."
+jpn-modal-6,epi-pos-3,Neko-wa         ie-no                 naka-ni         iru         kamoshirenai-shi                 i-nai         kamoshirenai,cat-Top         house-Gen         inside-Loc         exist         MOD-ConjunctiveParticle         exist-Neg  MOD,The cat may be inside. The cat may also be outside.,
+jpn-modal-7,epi-nnec-1,Meari-ga	ie-ni 		iru-ka-wa 	tashika 		de-wa-nai,Mary-Nom         house-Loc         exist-Q-Top         MOD                 Cop-Top-Neg,It is not certain whether Mary is at home.,
+jpn-modal-7b,epi-nnec-1,Meari-ga 	ie-ni 		iru-nichigainai 	wake-de-wa-nai,Mary-Nom 	house-Loc 	exist-MOD 	NMNL-Cop-Top-Neg,It is not certain whether Mary is at home.,grammatical but slightly odd
+jpn-modal-8,epi-imp-2,Booru-wa         C-ni         aru         hazu-ga         nai,Ball-Top 	C-Loc 	exist 	MOD-Nom 	Neg,it MUST NOT / CAN’T be in C.,
+jpn-modal-8b,epi-imp-2,Booru-wa 	C-ni 	aru 	wake-ga 	nai,Ball-Top 	C-Loc 	exist 	reason-Nom 	Neg,it MUST NOT / CAN’T be in C.,
+jpn-modal-9,deo-nec-1,Baiku-ni 	noru-toki-wa 	herumetto-o 	kabur-ana-kereba          nar-anai,bike-Dat 	ride-when-Top 	helmet-Acc 	wear-Neg-MOD 	Verb-Neg,You MUST wear a helmet.,"(lit.) if you don’t wear a helmet, then you’re not allowed (kind of). Meaning not transparent to native speakers => unit means deontic necessity."
+jpn-modal-10,deo-nec-2,Hoomonsha-wa         roku-ji         made         ni                 kaer-anakerebanaranai,visitors-Top 		6-hour 	by 	Particle 	return.home-MOD,Visitors MUST leave by 6pm.,
+jpn-modal-11,deo-wn-1,Reifuku-o 		kita-hou-ga 		ii,formal.clothes-Acc 	wear-direction-Nom 	good,It would be better to wear formal clothes,
+jpn-modal-11b,deo-wn-1,Reifuku-o 		kiru 	beki-da,formal.clothes-Acc         wear         MOD-Cop,It would be better to wear formal clothes,No specific one to one correspondence to Eng. ‘ought to’.
+jpn-modal-12,deo-pos-2,Hait-te-mo 			ii-desu-yo,enter-particle-Concessive 	good-Politeness-Particle,You MAY enter.,
+jpn-modal-12b,deo-pos-2,Hai-ru-koto-ga 			deki-masu-yo,enter-Nonpast-Nmnl-Nom 	be.able.to.do-Pol-Particle,You MAY enter.,
+jpn-modal-13,deo-pos-3,Tomat-temoii-shi 		kaet-temoii 	yo,Stay.overnight-MOD-and	go.home-MOD	particle,You can stay overnight and you can go home.,Yo not necessary to interpretation of deontic possibility; more of a marker of new information.
+jpn-modal-14,deo-nnec-1,Reifuku-o 		ki-naku-temoii,formal.clothes-Acc 	wear-Neg-MOD,I DON’T HAVE TO / NEEDN’T wear formal clothes.,
+jpn-modal-15,deo-imp-1,Herumetto-nashi-de-wa                 baiku-ni         notte-wa         nar-anai,helmet-no-Cop-Top 		bike-Dat 	ride-Top 	Verb-Neg,You are not allowed to ride a bike without a helmet,
+jpn-modal-15b,deo-imp-1,Herumetto-nashi-de-wa 		baiku-ni 	noru-koto-wa 	deki-nai,helmet-no-Cop-Top		bike-Dat 	ride-Nmnl-Top 	be.able.to.do-Neg,You are not allowed to ride a bike without a helmet,"Naranai has already appeared in deontic necessity; different way of using the verb nar. Up to linguist how to analyze this. If broken down into morphemes, then parallels can be seen between deontic necessity and deontic impossibility."
+jpn-modal-15c,deo-imp-1,Herumetto-nashi-de-wa                 baiku-ni         noru         beki         de-wa-nai,helmet-no-Cop-Top                 bike-Dat         ride         MOD         Cop-Top-Neg,You should not ride a bike without a helmet.,beki => can also be used to express deontic weak necessity.
+jpn-modal-16,tel-nec-1,Kono 	michi-o 	toor-anakerebanaranai ,This 	road-Acc 	go.through-MOD,you HAVE TO take this road.,
+jpn-modal-17,tel-nec-3,Gino’s-kara 	chuumon-shi-nakerebanaranai      yo,Gino’s-from 	order-LV-MOD 			   Particle ,We HAVE TO order from Gino’s ,[in principle possible but consultant finds it quite strong]
+jpn-modal-17b,tel-nec-3,Gino’s-kara	chuumon-suru-beki-da-yo,Gino’s-from 	order-LV-MOD-Cop-Particle,We HAVE TO order from Gino’s ,
+jpn-modal-18,tel-wn-1,Shoppingusentaa-ni 	iku-ni-wa 	basu-ni 		noru-beki-da 	yo,shopping.centre-Dat  go-?-Top  bus-Dat  ride-MOD-Cop Part,"To get to the shopping centre, you SHOULD take the bus.",feeling that beki is slightly less natural in teleological contexts as opposed to deontic contexts (more felicitous in deontic contexts). Beki more about rules than goals (intuition).
+jpn-modal-18b,tel-wn-1,Shoppingusentaa-ni 	iku-ni-wa 	basu-ni 		notta-hoo-ga 		ii 	yo,shopping.centre-Dat 	go-?-Top 	bus-Dat 	ride-direction-Nom 	good 	Part,"To get to the shopping centre, you SHOULD take the bus.",
+jpn-modal-19,tel-wn-3,atarashii        syatsu-o         kau-nara                 watashi-no        mise-ni  kuru-beki-da                 yo,ew                 shirt-Acc         buy-Conditional         1sg-Gen         shop-Dat  come-MOD-Cop	Particle,"If you are buying a new shirt, you should come to my shop.",
+jpn-modal-19b,tel-wn-3,#        atarashii        syatsu-o         kau-nara                 watashi-no        mise-ni    kita-hoo-ga-ii                        yo,new                 shirt-Acc         buy-Conditional         1sg-Gen        shop-Dat  come-Direction-Nom-good 	Particle,,Option with hooga ii seems a bit strange; felicitous only if there are other alternatives explicit in the context. Basically a comparative construction.
+jpn-modal-20,tel-pos-1,Kono	michi-o		tootte-mo			ii-yo,This 	road-Acc 	go.through-Concessive 		good-Particle,You CAN take way 1.,
+jpn-modal-20b,tel-pos-1,Kono	michi-o	 	tooru-koto-ga 		dekiru,This         road-Acc         go.through-Nmnl-Nom         be.able.to.do,You CAN take way 1.,
+jpn-modal-21,tel-pos-2,Nishi-no 	puuru-ni 	itte-mo 		ii-yo,west-Gen 	pool-Dat 	go-Concessive	good-Particle,We CAN go to the swimming pool to the west.,
+jpn-modal-22,tel-nnec-1,Basu-ni 	nor-anaku-te-mo 		ii-yo,bus-Dat 	ride-Neg-TE-Concessive 	good-Particle,you DON’T NEED TO / NEEDN’T do so.,
+jpn-modal-23,tel-imp-1,Betsu-no 	michi-wa 	toor-e-nai-yo,different-Gen         road-Top         go.through-MOD-Neg-Particle,you CAN’T take another road.,
+jpn-modal-23b,tel-imp-1,Betsu-no michi-wa tooru-koto-ga deki-nai-yo,different-Gen road-Top go.through-Nmnl-Nom be.able.to.do-Neg-Particle,you CAN’T take another road.,
+jpn-modal-24,tel-imp-2,A-wa	B-ni	maker-are-nai-yo,A-Top	B-Dat	lose-MOD-Neg-Particle,Team A CAN’T lose to Team B.,
+jpn-modal-25,cir-nec-2,Kushami-ga	deru,sneeze-Nom 	come.out,I HAVE to sneeze,
+jpn-modal-26,cir-nec-3,Mizu-wa	migi-no 	deguchi-kara 	deru-hazu-da,water-Top 	right-Gen 	output-from 	come.out-MOD-Cop,the water MUST come out from the right output.,Difference between inanimate subject and first-person subject case in terms of modals chosen. When you use hazu = observation of what logically follows from what you know about the situation/context (intuition)
+jpn-modal-27,cir-pos-1,Duku-no 	ki-wa 		koko-de 	sodatsu 	hazu-da,Duku-Gen         tree-Top         here-Loc        grow                 MOD-Cop,duku trees CAN grow here.,pure circumstantial possibility
+jpn-modal-27b,cir-pos-1,# koto-ga dekiru ,,,(incompatibility with verb itself)
+jpn-modal-28,cir-pos-2,Amy-wa 	pasuta-o 	tsukur-e-ru,Amy-Top 	pasta-Acc 	cook-CAN-Nonpast,Amy CAN make traditional Italian pasta ,ability
+jpn-modal-28b,cir-pos-2,Amy-wa 	pasuta-o 	tsukuru-koto-ga 	dekiru,Amy-Top 	pasta-Acc 	cook-Nmnl-Nom	be.able.to.do,Amy CAN make traditional Italian pasta ,
+jpn-modal-29,cir-pos-3,Ben-wa		aruk-e-ru,Ben-Top 	walk-MOD-Nonpast,Ben CAN walk now.,
+jpn-modal-30,cir-pos-5,Kuruma-wa 	nijuu-nin-o 		noser-are-ru,car-Top 	20-CL(person)-Acc 	carry-MOD-Nonpast,Travel vans CAN fit 20 people.,
+jpn-modal-30b,cir-pos-5,Kuruma-wa  	nijuu-nin-o 		noseru-koto-ga		dekiru,car-Top 	20-CL-Acc 		carry-Nmnl-Nom 	be.able.to.do,Travel vans CAN fit 20 people.,
+jpn-modal-31,cir-nnec-1,Kono	kazan-wa 	go-nen	inai-ni		hunka-suru	to-wa		kagira-nai,This 	volcano-Top 	5-years	within-in	eruption-LV	Comp-Top	limit-Neg,It is not guaranteed that this volcano will erupt in 5 years,
+jpn-modal-32,cir-imp-1,Kusyami-o	tomer-are-nai,sneeze-Acc 	stop-CAN-Neg,I CAN’T help sneezing! ,
+jpn-modal-32b,cir-imp-1,Kusyami-o	tomeru-koto-ga 		deki-nai,sneeze-Acc         stop-Nmnl-Nom         be.able.to.do-Neg,I CAN’T help sneezing! ,
+jpn-modal-33,cir-imp-2,Mizu-wa	hidari-no 	deguchi-kara 	deru-hazu-ga-nai,water-Top         left-Gen         output-from         come.out-MOD-Nom-Neg,the water CAN’T come out from the left output. ,
+jpn-modal-33b,cir-imp-2,Mizu-wa	hidari-no 	deguchi-kara 	deru-koto-ga 		deki-nai,water-Top 	left-Gen 	output-from 	come.out-Nmnl-Nom 	be.able.to.do-Neg,the water CAN’T come out from the left output. ,
+jpn-modal-34,bou-nec-1,Kono	baggu	kaw-ana-kya,This	bag 	buy-Neg-MOD,I WANT/NEED TO buy it.,
+jpn-modal-34b,bou-nec-1,Kono	baggu 	kaw-ana-kerebanaranai,This 	bag 	buy-Neg-MOD,I WANT/NEED TO buy it.,Can express bouletic sense with a modal only if SUBJ = 1st person (intuition).
