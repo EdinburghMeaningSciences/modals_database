@@ -1,0 +1,49 @@
+ref,context,words,gloss,translation,comment
+cmn-modal-1,epi-nec-1,Ben      xianzai yiding zai     youyong,Ben      now      MOD at     swim,Ben MUST be swimming (right now).,
+cmn-modal-2,epi-nec-2,Yuehan    yiding        zai      xuexiao,John       MOD    at       school ,John MUST be at school.,
+cmn-modal-3,epi-nec-3,Qiu      yiding               zai        C          limian,ball      MOD         at         C          in,The ball MUST be in C.,
+cmn-modal-4,epi-nec-4,Dimu   renwei na zhi              gou      yiding              buzai               fangzi              limian,Tim     think    that CL           dog      MOD        no more           house               in,Tim thinks/concludes that the dog MUST not be in the house.,
+cmn-modal-5,epi-wn-1,Anna   yinggai           xianzai            zai       hubian,Anna   MOD            now                 at        lakeside, Ann SHOULD be at the lake right now. ,
+cmn-modal-6,epi-wn-2,Didian C         xianzai            yinggai             zai       xiayu,place    C         now                 MOD            at         rain,it SHOULD be raining now in Location C.,
+cmn-modal-7,epi-wn-3,Mali    yinggai            zai       jia        buguo  bu        yiding,Mary   MOD            at         home   but       not       definitely,"Mary SHOULD be at home, but it’s not certain. ",
+cmn-modal-8,epi-pos-1,Ta      jintian     you          keneng         zai      xuexiao,He     today       have         MOD           at        school. ,He might be at school today.,suggested by the reviewer
+cmn-modal-9,epi-pos-2,Grace     de                 xianglian       keneng                         diao-le,Grace     possession    necklace        MOD                           lose-prf,Grace’s necklace might be lost.,suggested by the reviewer
+cmn-modal-10,epi-pos-3,Nazhi               mao    you  keneng zai        limain  ye         keneng zai        waimian,that.one             cat      have  MOD  at         inside   also      MOD at         outside,The cat MAY be inside. The cat MAY also be outside.,
+cmn-modal-11,epi-pos-4,Danier             keneng             qu        niuyue,Daniel             MOD           go        New York,Daniel MAY go to New York.,
+cmn-modal-12,deo-nec-1,Ni         bixu      yao       dai        toukui,you      MOD    MOD   wear    helmet,You MUST wear a helmet.,
+cmn-modal-13,deo-nec-2,Fangke    yiding            yao       zai   6dian       zhiqian          likai,visitors    MOD             MOD   at    6pm        before            leave,Visitors MUST leave by 6pm.,
+cmn-modal-14,deo-nec-3,Wo      bixu     yao      ba        shengxiade      mifan  baochi  zhishao      6tian,I          MOD  MOD   BA      leftover            rice      keep    at least   6days,,
+cmn-modal-15,deo-wn-1,Wo       yinggai yao       chuan  zhengshide       fuzhuang          qu        paidui,I          MOD   MOD    wear     formal              clothing            go        party,I OUGHT TO wear formal clothes to the party.,Modal concord between yinggai and yao
+cmn-modal-16,deo-wn-2,Fei        guyuan             ye         yinggai yao       xishou ,non-     employee          also      MOD MOD    handwashing,Non-employees OUGHT TO wash their hands too!,Modal concord between yinggai and yao
+cmn-modal-17,deo-wn-3,Wo       yinggai yao       dai        kouzhao,I           MOD MOD    wear     face.mask,I OUGHT TO wear a face covering.,
+cmn-modal-18,deo-pos-1,Mading keyi             zuo       motianlun,Martin  MOD    ride      ferris.wheel,Martin MAY ride the ferris wheel.,
+cmn-modal-19,deo-pos-2,Ni         keyi       jinru,you      MOD      enter,You MAY enter.,
+cmn-modal-20,deo-pos-3,Ni         keyi      guoye               huozhe  huijia,you      MOD      stay.over           or         go.home,You can stay overnight and you can go home.,
+cmn-modal-20b,deo-pos-3,Ni        keyi      guoye.              ni         ye           keyi      huijia.,you      MOD      stay.over           you      also    MOD       go.home,You can stay overnight. You can also go home.,
+cmn-modal-21,deo-pos-4,Ailisi    keyi          juqi      tade      baobao,Alice    MOD       lift       her       baby,Alice CAN lift her baby.,
+cmn-modal-22,deo-pos-5,Beisi   keyi       qu        youyong  ,Beth    MOD     go        swim,Beth COULD go swimming,
+cmn-modal-22b,deo-pos-5,Beisi   keyi         yunxu  qu        youyong,Beth   MOD      allow   go        swim,Beth COULD go swimming,Reviewer: this sentence sounds weird.
+cmn-modal-23,tel-nec-1,Ni         bixu      yao       zou       zhetiao lu,you      MOD    MOD    go        this       road,you HAVE TO take this road.,Modal concord between bixu and yao
+cmn-modal-24,tel-nec-2,A          dui       bixu      yao       daying  B          dui,A         team     MOD   MOD    win      B          team,Team A HAS TO beat Team B.,Modal concord between bixu and yao
+cmn-modal-25,tel-nec-3,Women bixu     yao       cong     jinuo     nali       xiadan              zuihaode           pisa,we        MOD   MOD    from     Gino     there     place.order        the.best             pizza,We HAVE TO order from Gino’s to eat the best pizzaa.,Modal concord between bixu and yao
+cmn-modal-26,tel-wn-1,Ni        yinggai yao       yong     jiaotong            Y          qu        daoda  X         didian,you     MOD  MOD    use       transportation    Y         go        get.to    X         place,"To get to Location X, you SHOULD take Y method of transport.",Modal concord between yinggai and yao
+cmn-modal-27,tel-wn-2,Ni        yinggai             zuo                   san       haoxian,you      MOD             travel.by           three     number.line,you SHOULD take way 3.,
+cmn-modal-28,tel-wn-3,Ni        yinggai   qu         wode    dianli    mai       xinde    qunzi,you      MOD     go        my       shop     buy      new      shirt,You SHOULD go to my shop to buy a new shirt.,
+cmn-modal-29,tel-pos-1,Ni        keyi         zuo                   yi         haoxian,you      MOD      travel.by           one       line.number, You CAN take way 1.,
+cmn-modal-30,tel-pos-2,Women             keyi         qu        xibiande           youyongchi,we                    MOD      go        west                 swimming.pool,We CAN go to the swimming pool to the west.,
+cmn-modal-31,tel-pos-3,Ni        keyi     qu        X de    jingpindian,you     MOD   go        X DE   boutique,You CAN go to X’s boutique.,
+cmn-modal-32,cir-nec-1,Wo       yiding               yao       qu        niaoniao,I           MOD      go        pee,I HAVE to pee so badly!,
+cmn-modal-32b,cir-nec-1,Wo      bixu      qu        niaoniao,I           MOD     go        pee,I HAVE to pee so badly!,judged to be more natural by the reviewer
+cmn-modal-32c,cir-nec-1,Wo     budebu      qu        niaoniao,I           MOD     go        pee,I HAVE to pee so badly!,judged to be more natural by the reviewer
+cmn-modal-33,cir-nec-2,Wo       budebu             dapenti,I          MOD             sneeze  ,I HAVE to sneeze.,
+cmn-modal-33b,cir-nec-2,Wo       dei             da.CL.penti,I           MOD            sneeze  ,I HAVE to sneeze.,
+cmn-modal-34,cir-pos-1,Duku   shu       keyi       zhong    zai      zheli,Duku   shu       keyi       zhong    zai      zheli,duku trees CAN grow here.,
+cmn-modal-35,cir-pos-2,X          keyi      zuo       Y,X         MOD      make    Y,X CAN make Y.,
+cmn-modal-36,cir-pos-3,B xianzai keyi  zoulu le,B          now      MOD      walk     SFP,B CAN walk now.,
+cmn-modal-37,cir-pos-4,P          keyi      juqi       nage     shitou,P          MOD      lift        that      rock,Paul CAN lift that rock.,
+cmn-modal-38,cir-pos-5,Lvyou  bashi   keyi      dazai    20         ren,Lvyou  bashi   keyi      dazai    20         ren,Travel vans CAN fit 20 people.,
+cmn-modal-39,bou-nec-1,Wo       xuyao   qu        mai       ta,I           MOD    go        buy      it,I WANT/NEED TO buy it.,
+cmn-modal-40,bou-nec-1,Wo       bixu             buy.arrive       ta    , I           MOD                buy      it,I WANT/NEED TO buy it.,
+cmn-modal-40b,bou-nec-1,Wo       bixu              buy.down       ta,I          MOD                 buy      it,I WANT/NEED TO buy it.,
+cmn-modal-41,bou-nec-2,Wo       xiang                qu        dianyingyuan,I           MOD              go        cinema,I WANT to go to the cinema.,
+cmn-modal-42,bou-nec-3,Wo      de        pengyou          xiang               lai        baifang            wo,I           DE       friend            MOD              come   visit                 me,My friend WANTS to come visit me.,
