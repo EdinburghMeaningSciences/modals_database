@@ -1,6 +1,6 @@
 expression,force,flavor,can_express,evidence,polarity,syntactically_negated,full_form,notes
 -napo-,strong,epistemic,1,kor-modal-evid1,positive,no,V + napo-ta,
--napo-,weak necessity,epistemic,1,"kor-modal-evid4b, kor-modal-evid6c",positive,no,V + napo-ta,
+-napo-,weak necessity,epistemic,1,kor-modal-evid4b,positive,no,V + napo-ta,
 -napo-,weak,epistemic,?,,positive,no,V + napo-ta,
 -napo-,strong,deontic,?,,positive,no,V + napo-ta,
 -napo-,weak necessity,deontic,?,,positive,no,V + napo-ta,
@@ -12,7 +12,7 @@ expression,force,flavor,can_express,evidence,polarity,syntactically_negated,full
 -napo-,weak,circumstantial,?,,positive,no,V + napo-ta,
 -napo-,strong,bouletic,?,,positive,no,V + napo-ta,
 -keyss-,strong,epistemic,1,"kor-modal-evid1b, kor-modal-evid2, kor-modal-evid3",positive,no,V + keyss-ta,likely to be an evidential
--keyss-,weak necessity,epistemic,1,kor-modal-evid6d,positive,no,V + keyss-ta,
+-keyss-,weak necessity,epistemic,0,kor-modal-evid6d,positive,no,V + keyss-ta,
 -keyss-,weak,epistemic,?,,positive,no,V + keyss-ta,
 -keyss-,strong,deontic,?,,positive,no,V + keyss-ta,
 -keyss-,weak necessity,deontic,1,"kor-modal-evid13b, kor-modal-evid15b",positive,no,V + keyss-ta,
