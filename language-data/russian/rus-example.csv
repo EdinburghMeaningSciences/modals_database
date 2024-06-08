@@ -1,0 +1,127 @@
+ref,context,words,gloss,translation,comment
+rus-modal-1,epi-nec-1,Ben 	navernoje 	plavaet,Ben      probably	swim,Ben must be swimming (right now). ,sounds more natural
+rus-modal-1b,epi-nec-1,Ben 	dolžno 		bɨt’ 	plavaet,Ben        MOD.neut   be.inf        swim,Ben must be swimming (right now). ,
+rus-modal-1c,epi-nec-1,#Ben prixoditsja,Ben MOD,,
+rus-modal-2,epi-nec-2,John 	dolžen 	bɨt’ 	v 	škole.,John 	MOD  	be.inf 	prep 	school,John must be at school.,preferred
+rus-modal-2b,epi-nec-2,John 	navernoje 	v 	škole.,John 	probably 	prep 	school,John must be at school.,
+rus-modal-3,epi-nec-3,Togda 	on 		dolžen 	bɨt 	v 	tretjej / C.,Then         he.nom                 MOD         be.inf         prep        third / c, it must be in C.,preferred
+rus-modal-3b,epi-nec-3,Togda         on                 navernoje         v         tretjej / C,Then 	he.nom 		probably	prep 	last    / C, it must be in C.,
+rus-modal-4,epi-nec-4,Sobaki 	    ne 	dolžno 	      bɨt’ 		v 	dome,Dog.gen   neg 	MOD.neut  be.inf 	prep	home,The dog must not be in the house.,"Neither are that usable in this context (would prefer an indicative statement without any modal element), but translation would use dolžno"
+rus-modal-4b,epi-nec-4, #navernoje ,MOD,,
+rus-modal-5,epi-wn-1,Ann 	dolžna 	        sejčas  	bɨt’ 	na 	ozere,Ann 	MOD.3rd.f     now 	be.inf 	on 	lake,Ann should be at the lake right now. ,
+rus-modal-5b,epi-wn-1,Ann      navernoje            sejčas           na         ozere,Ann         MOD   now      on         lake,Ann should be at the lake right now. ,"navernoje didn’t initially come to mind, but is felicitous "
+rus-modal-6,epi-wn-2,Sejčas         navernoje          idjot         dožd’         na         Goa.,Now     probably           go     	rain    	on 	Goa,It should be raining now in Goa.,
+rus-modal-6b,epi-wn-2,Sejčas 	dolžno 	bɨt 	idjot 	dožd’ 	na 	Goa.,Now  	MOD 	be.inf 	go 	rain 	on 	Goa ,It should be raining now in Goa.,
+rus-modal-7,epi-wn-3,Mary 	dolžna 		bɨt’ 	doma.,Mary  MOD.3rd.fem  be.inf  home,Mary should be at home. ,
+rus-modal-7b,epi-wn-3,Mary  navernoje  doma.,Mary 	probably 	home ,Mary should be at home.,
+rus-modal-7c,epi-wn-3,*byl by,,,
+rus-modal-8,epi-pos-1,On 	vozmožno 	prijdjot 	v 	školu 	segodnja,He         possibly            come         in         school         today,He might be coming to school today.,preferred
+rus-modal-8b,epi-pos-1,On 	možet 	prijti 	v 	školu 	segodnja,He  	MOD   come 	in	school	today,He might be coming to school today.,
+rus-modal-8c,epi-pos-1,# On navernoje prijdjot v skolu segodnja,He       MOD            come         in         school         today,He might be coming to school today.,"This means that it is probable that he’s coming, you’re pretty sure of it. "
+rus-modal-9,epi-pos-2,Grace 	vozmožno 	poterjala 	koltso.,Grace	possibly            lost  		ring,Grace’s necklace might  be lost.,more natural
+rus-modal-9b,epi-pos-2,Grace 	možet 	bɨt’ 	poterjala 	koltso.,Grace         MOD        be.inf        lost                ring,Grace’s necklace might  be lost.,
+rus-modal-10,epi-pos-3,"Kot   možet 	bɨt’ 	v 	dome, 	a 	možet 	i 	na 	ulitse.",Cat   MOD        be.inf    in         house         but         mod         and         on         street,The cat may be inside. The cat may also be outside.,
+rus-modal-10b,epi-pos-3,"Kot   vozmožno        v         dome,         a         možet         i         na         ulitse.",Cat   MOD       in         house         but         mod         and         on         street,The cat may be inside. The cat may also be outside.,
+rus-modal-11,epi-pos-4,Daniel     možet         poexat’                 v         New York.,Daniel	  MOD		go		to	New York,Daniel might go to New York.,
+rus-modal-11b,epi-pos-4,Daniel 	vozmožno 	poedet 	v 	New York.,Daniel 	possibly 	go.3rd 	to 	New York,Daniel might go to New York.,
+rus-modal-12,epi-nnec-1,Mary 	vozmožno 	net 	doma.,Mary         possibly         NEG         home,Mary may not be at home.,
+rus-modal-12b,epi-nnec-1,Mary 	možet 	ne  	bɨt’ 	doma.,Mary 	MOD	NEG	be.inf	home,Mary may not be at home.,
+rus-modal-12c,epi-nnec-1,#Mary dolzno bɨt’  net doma,Mary     MOD be.inf     NEG         home,,
+rus-modal-12d,epi-nnec-1,#Mary ne dolzno bɨt’ doma,Mary NEG MOD be.inf home,Mary mustn’t be at home,
+rus-modal-13,epi-imp-1,Ben 	ne 	možet 	bɨt’ 	doma.,Ben	NEG	MOD	be.inf	home,Ben can’t be at home. ,
+rus-modal-13b,epi-imp-1,#Ben ne dolžen  bɨt’ doma,Ben	NEG	MOD	be.inf	home,Ben shouldn't be at home.,
+rus-modal-13c,epi-imp-1,#Ben ne vozmožno doma,Ben        NEG        MOD        home,,
+rus-modal-13d,epi-imp-1,*nel’zja,,,
+rus-modal-14,epi-imp-2,ne možet,,,
+rus-modal-14b,epi-imp-2,*Nel’zja ,,,
+rus-modal-15,deo-nec-1,Vy         dolžny      nosit’         šlem.,You           MOD.2nd.pl     wear        helmet,You must wear a helmet.,
+rus-modal-15b,deo-nec-1,Vy        objazanɨ         nosit’         šlem.,You         required        wear        helmet,You must wear a helmet.,Objazan = required to
+rus-modal-16,deo-nec-2,Posetiteli 	dolžny 	  pokinut’	 bol’nitsu 	do	 6 	večera.,Visitors		mod.pl 	  leave 		 hospital 	until 	6 	evening,Visitors must leave by 6pm.,
+rus-modal-17,deo-wn-1,Mne 	sleduet 	 nadet’    narjadnuju 	odeždu 	na 	večerinku.,I.dat 	MOD 	 put.on 	  dressy 	clothes 	prep 	party,I ought to wear formal clothes to the party.,
+rus-modal-18,deo-wn-2,Ne 	sotrudniam 	tože 	sleduet 		mɨt’ 	ruki.,Neg 	employees.dat 	also 	MOD		wash 	hands,Non-employees ought to wash their hands too!,
+rus-modal-19,deo-wn-3,Mne 	sleduet 	   nadet’ 	masku.,I.dat         MOD            put.on         mask,I ought to wear a face covering.,
+rus-modal-19b,deo-wn-3,#mne dolzen byl nadet’ masku,I.dat  MOD MOD put.on mask,,"byl by indicates a past-tense obligation, not usable for present tense dwn"
+rus-modal-19c,deo-wn-3,#On dolzen byl nosit’ masku,?  MOD MOD put.on mask,,
+rus-modal-20,deo-pos-1,Martin 	možet 	prokatitsja 	na 	kolese 	obozrenija.,Marin  	MOD 	ride            	on 	ferris-wheel ,Martin may ride the ferris wheel.,"opportunity to ride it, up to him to take the opportunity [circumstantial]"
+rus-modal-20b,deo-pos-1,# Martin  vozmožno     prokatitsja         na         kolese         obozrenija.,Marin  	MOD 	ride            	on 	ferris-wheel ,,
+rus-modal-20c,deo-pos-1,# Martin navernoje    prokatitsja         na         kolese         obozrenija.,Marin  	MOD 	ride            	on 	ferris-wheel ,,
+rus-modal-21,deo-pos-2,Vy 	možete 	    vojti.,You.pl 	MOD	    enter,You may enter.,
+rus-modal-22,deo-pos-3,Ty 	možeš 	ostat’sja      nočevat’ 	a 	  možeš 		poexat’ 	    domoj.,You         MOD        stay               sleep.over         conj        MOD                go             home,You can stay overnight or you can go home.,
+rus-modal-23,deo-pos-4,Alice 	   možno 	   podnimat’ 	rebjonka.,Subj.dat   mod.3sg.neut    lift                 baby        ,Alice can lift her baby.,
+rus-modal-23b,deo-pos-4,# Alice   mozet          podnimat’         rebjonka.,Subj.dat   MOD    lift                 baby        ,,"would have the reading like “the doctor told Alice that she would be able to do (i.e., believes that she should be able to)”"
+rus-modal-24,deo-pos-5,Maria 	možet 	idti 	plavat’,Maria 	MOD 	go 	swim.inf,Maria can go swimming.,
+rus-modal-24b,deo-pos-5,# Maria.dat možno idti plavat’,Maria 	MOD 	go 	swim.inf,Maria can go swimming.,external/circumstantial (“Alice can go swimming when her pulse has gone down to an appropriate level after …”)
+rus-modal-25,deo-nnec-1,No 	mne 	ne 	nužno		nadevat’ 	narjadnuju 	odeždu.,But 	I.dat 	neg 	MOD		put.on 		dressy 		clothes,I don’t have to / needn’t wear formal clothes.,
+rus-modal-25b,deo-nnec-1,No 	mne 	ne 	nado 		nadevat’ 	narjadnuju 	odeždu.,But 	I.dat 	neg 	MOD		put.on 		dressy 		clothes,I don’t have to / needn’t wear formal clothes.,
+rus-modal-26,deo-nnec-2,Mne 	ne 	nužno 	nosit’ 	masku.,I.dat 	neg 	need 	wear 	mask,I don’t have to / needn’t wear a face covering.,
+rus-modal-26b,deo-nnec-2,Mne         ne         nado         nosit’         masku.,I.dat         neg         need         wear         mask,I don’t have to / needn’t wear a face covering.,
+rus-modal-27,deo-imp-1,Vy 	ne 	možete 		upravljat’ 	motociklom 	bez 	   šlema.,You.pl         neg         mod                 manage         motorbike         without    helmet,You mustn’t ride a motor bike without a helmet. ,
+rus-modal-27b,deo-imp-1,Vam                     nel’zya         upravljat’         motociklom         bez            šlema.,You.pl.dat           mod                 manage         motorbike         without    helmet,You mustn’t ride a motor bike without a helmet. ,
+rus-modal-28,deo-imp-2,Posetiteli         ne         mogut             ostavat’sja         posle         6.,Visitors 	NEG	MOD.pl   stay 		after 	6,Visitors mustn’t stay after 6pm.,
+rus-modal-28b,deo-imp-2,Posetitljam 	nel’zja 	ostavat’sja 	posle 	6.,Visitors.dat 	MOD   	stay 	 	after 	6 ,Visitors mustn’t stay after 6pm.,
+rus-modal-29,tel-nec-1,Vam 	   nužno 	poexat’ 		po 	etoj 	doroge.,You.dat    MOD 	go 		prep 	this 	road ,you have to take this road.,
+rus-modal-29b,tel-nec-1,Vam    dolžno        poexat’                 po         etoj         doroge.,You.dat    MOD 	go 		prep 	this 	road ,you have to take this road.,
+rus-modal-30,tel-nec-2,Komande 	A 	nužno 	pobedit’ 	komandu 	B.,Team 		A 	MOD 	win.perf 	team 		B,Team A has to beat Team B.,
+rus-modal-30b,tel-nec-2,Komanda 	A 	dolžna 	pobedit’ 	komandu 	B,Team                 A         MOD        win.perf        team                 B,Team A has to beat Team B.,
+rus-modal-31,tel-nec-3,"Esli   my  xotim  lučšuju   pizzu  v   gorode, to 	  nam 	    nado          zakazat’        u 	Gino.","If       we  want    best        pizza  in  town,    then   we.dat    MOD         order              at      Gino.",We have to order from Gino’s to eat the best pizza.,
+rus-modal-31b,tel-nec-3,"Esli   my  xotim  lučšuju   pizzu  v   gorode, to 	  nam 	    nužno        zakazat’        u 	Gino.","If       we  want    best        pizza  in  town,    then   we.dat    MOD         order  	    at      Gino.",We have to order from Gino’s to eat the best pizza.,
+rus-modal-31c,tel-nec-3,"Esli   my  xotim  lučšuju   pizzu  v   gorode, to           my               dolžnɨ          zakazat’         u         Gino.","If       we  want    best        pizza  in  town,    then   we.nom    MOD          order  	    	at      	Gino.",We have to order from Gino’s to eat the best pizza.,
+rus-modal-31d,tel-nec-3,"* Esli   my  xotim  lučšuju   pizzu  v   gorode, to           my           mozno       zakazat’         u         Gino.","If       we  want    best        pizza  in  town,    then   we.nom    MOD          order  	    	at      	Gino.",,
+rus-modal-32,tel-wn-1,Tebe 	  sleduet  	sest’ 	na 	avtobus.,You.dat MOD   sit  prep bus,You should take the bus.,Sleduet (equivalent to should)
+rus-modal-33,tel-wn-2,Tebe 	 sledujet 	exat’ 	prosjoločnymi 	dorogami 	na 	poberež’e.,You.dat  MOD		go 	country 	road 		prep	seaside,You should go via the smaller roads.,
+rus-modal-34,tel-wn-3,sledujet ,,,
+rus-modal-34b,tel-wn-3,#dolzen,MOD,,stronger order 
+rus-modal-34c,tel-wn-3,Mozno,,,“you may consider going to my shop”
+rus-modal-35,tel-pos-1,Vy 	  možete 	poexat’ 		po 	pervomy 	maršrutu.,You.pl	  MOD   	go 		prep 	first 		route ,You can take way 1.,
+rus-modal-36,tel-pos-2,My 	   možem 	pojti 	v 	bassejn 		  v 	škole,We.nom   MOD 	go 	prep 	swimming-pool   prep 	school,We can go to the swimming pool to the west.,
+rus-modal-37,tel-pos-3,Ty  možeš  poijti  v  etot  butik.,You.sg	MOD	go	prep	this	boutique,You can go to this boutique.,
+rus-modal-38,tel-nnec-1,Tebe                 ne         objazatel’no        exat’         na         avtobuse.,You.dat 	neg 	MOD		ride 	on 	bus,you don’t need to / needn’t take the bus.,more natural
+rus-modal-38b,tel-nnec-1,Tebe                 ne         nužno                 exat’         na         avtobuse.,You.dat 	neg 	MOD		ride 	on 	bus,you don’t need to / needn’t take the bus.,
+rus-modal-38c,tel-nnec-1,# Tebe                 ne        mozno                 exat’         na         avtobuse.,You.dat 	neg 	MOD		ride 	on 	bus,,you can’t take a bus because there is no bus 
+rus-modal-38d,tel-nnec-1,# Tebe                 ne      dolzen                exat’         na         avtobuse.,You.dat 	neg 	MOD		ride 	on 	bus,,"there is a bus, and you don’t have money so you shouldn’t take the bus "
+rus-modal-39,tel-imp-1,Vy 	ne 	možete 	    poexat’ 	po 	drugoj 	doroge.,You 	neg 	MOD 	    go 		on 	other 	road ,you can’t take another road.,
+rus-modal-39b,tel-imp-1,#Vam nel’zja poexat’ po drugoj doroge ,You.dat    MOD             go                 on         other         road ,,
+rus-modal-40,tel-imp-2,Komande 	A 	nel’zja 		proigrat 	komande 	B,Team	  	A 	MOD  		plat 		team 		B,Team A can’t lose to Team B.,
+rus-modal-41,cir-nec-1,Mne         očen’         nužno   v         tualet!,I.dat         very          mod        in         toilet,I have to pee so badly!,
+rus-modal-41b,cir-nec-1,Mne         očen’        nado         v         tualet!,I.dat         very          mod        in         toilet,I have to pee so badly!,
+rus-modal-41c,cir-nec-1,# Mne         očen’        dolzny       v         tualet!,I.dat         very          mod        in         toilet,,
+rus-modal-41d,cir-nec-1,# Mne         očen’        objazanɨ    v         tualet!,I.dat         very          mod        in         toilet,,
+rus-modal-42,cir-nec-2,Mne         nužno        čixnut’.,I.dat         mod         to.sneeze, I have to sneeze.,express some sort of physiological necessity 
+rus-modal-42b,cir-nec-2,Mne       nado         čixnut’.,I.dat         mod         to.sneeze, I have to sneeze.,express some sort of physiological necessity 
+rus-modal-43,cir-nec-5,Velosiped 	dolžen 	bɨt’ 	nalažen 	pered 	ispol’zovaniem.,Bicycle 	mod 	be.inf 	repaired 	before 	usage,The bike has to be repaired before use.,Checking with an inanimate subject. 
+rus-modal-43b,cir-nec-5,Velosiped         nado         naladit’         pered         ispol’zovaniem,Bicycle 	MOD 	repaired 	before 	usage ,The bike has to be repaired before use.,Checking with an inanimate subject. 
+rus-modal-44,cir-nec-3,Voda 	dolžna 	vyjti 	      s 	    pravoj    storonɨ.,Water 	mod 	come.out    from    right 	     side,the water must come out from the right output. ,
+rus-modal-44b,cir-nec-3,Voda 	objazana 	vyjti 	     s 	   pravoj 	storonɨ,Water         mod                 come.out   from    right                 side,the water must come out from the right output. ,
+rus-modal-44c,cir-nec-3,# Voda      nužno   vyjti              s            pravoj         storonɨ,Water         mod                 come.out   from    right                 side,,
+rus-modal-44d,cir-nec-3,# Voda      nado        vyjti              s            pravoj         storonɨ,Water         mod                 come.out   from    right                 side,,
+rus-modal-45,cir-pos-1,? Dervo         Duku         dolžno  zdes’         rasti.,Tree         duku         mod      here         grow,duku trees can grow here.,
+rus-modal-45b,cir-pos-1,Dervo         Duku        možet zdes’         rasti.,Tree         duku     mod          here         grow,duku trees can grow here.,
+rus-modal-45c,cir-pos-1,Dervo 	Duku 	vozmožno 	zdes’ 	rastjot,Tree 	duku 	mod		here 	grow,duku trees can grow here.,
+rus-modal-46,cir-pos-2,Maria 	možet 		prigotovit’ 	traditsionnye 	ital’anskie 	makarony.,Maria  mod.3sg  prepare.inf traditional  italian   pasta,Amy can make traditional Italian pasta,
+rus-modal-46b,cir-pos-2,vozmožno,MOD,Amy can make traditional Italian pasta,"in principle, if she gets the ingredients should get the pasta. "
+rus-modal-46c,cir-pos-2,#dolžno  ,MOD,,
+rus-modal-47,cir-pos-3,Ben 	možet 	sejčas 	xodit’,Ben   MOD         now         walk,Ben can walk now.,
+rus-modal-47b,cir-pos-3,# Ben  dolžen       sejčas         xodit’,Ben   MOD         now         walk,,
+rus-modal-47c,cir-pos-3,# Ben   vozmožno    sejčas         xodit’,Ben   MOD         now         walk,,
+rus-modal-48,cir-pos-4,Paul         mog         podnjat         tot         kamen’.,Paul 	MOD	lift 		that 	rock,,
+rus-modal-49,cir-pos-5,V 	mikroavtobusy 	možet 	pomestit’sja 	20	 čelovek.,In	minivans          	mod 	fit 		20 	 person,Travel vans can fit 20 people.,
+rus-modal-49b,cir-pos-5,V 	mikroavtobusy 	vozmožno 	vmestit’ 	20 	čelovek,In         minivans         MOD                fit                 20         people,Travel vans can fit 20 people.,
+rus-modal-50,cir-nnec-1,Vulkan                 ne         dolžen         objazatel’no         vzorvat’sja.,Volcano         NEG         MOD         obligatory         to.erupt  ,The volcano doesn’t have to erupt.,"Here, it’s just “not necessarily the case that it will erupt”"
+rus-modal-50b,cir-nnec-1,#Vulkan ne dolžen vzorvat’sja ,Volcano         NEG         MOD    to.erupt  ,,"Without objazatel’no (adverb), you’re saying that there is clear evidence that it won’t erupt."
+rus-modal-50c,cir-nnec-1,Vulkan 	  možet 		i 	ne 	vzorvat’sja.,Volcano  MOD 		foc 	neg 	to.erupt ,The volcano doesn’t have to erupt.,
+rus-modal-51,cir-imp-3,Ben 	ne 	možet 	xodit’,Ben         NEG         MOD         walk ,Ben can’t walk.,
+rus-modal-51b,cir-imp-3,#Benu nel’zja xodit’,Ben        MOD         walk ,,
+rus-modal-51c,cir-imp-3,#Ben ne dolžen xodit’,Ben         NEG         MOD         walk ,,
+rus-modal-52,cir-imp-2,Voda         ne         možet    vɨteč               s            levoj         storonɨ,Water   NEG         MOD  flow.out    from   left         side,the water can’t come out from the left output.,
+rus-modal-52b,cir-imp-2,Voda       ne          dolžna  vɨteč               s            levoj         storonɨ,Water   NEG         MOD     flow.out    from   left         side,the water can’t come out from the left output. ,"it shouldn’t be coming out from the right… because it’s blocked, etc. "
+rus-modal-53,cir-imp-4,Derevo                 Duku         ne   možet     zdes’         rosti,Tree                 duku     NEG MOD here         to.grow,duku trees can’t grow here.,
+rus-modal-53b,cir-imp-4,Derevo                 Duku        ne       dolžen         zdes’         rosti,Tree                 duku     NEG MOD        here         to.grow,duku trees can’t grow here.,
+rus-modal-53c,cir-imp-4,#Nel’zja ,MOD,,Only used in deontic impossibility. Doesn’t work here 
+rus-modal-54,bou-nec-1,Ja         dolžna         ejo         kupit’.,I         mod         her         buy.inf, I must buy it.,
+rus-modal-54b,bou-nec-1,Mne 	nado 	ejo 	kupit’,I.dat         mod         her         buy, I must buy it.,
+rus-modal-54c,bou-nec-1,#mozet ,MOD,,
+rus-modal-55,bou-nec-2,Ja 	dolžna 	sxodit’ 	v 	kinoteart.,, I must go to the cinema.,
+rus-modal-55b,bou-nec-2,?Mne nado sxodit’ v kinoteart,, I must go to the cinema.,Infelicitous if you don’t have the internal urge to do smth (you’d do this to catch up with some friends who are talking about the film or something)
+rus-modal-56,bou-nec-3,Moj 	drug 	xočet 	k 	nam 	prijti.,My 	friend 	wants 	to 	us 	come,My friend wants to come visit me.,
+rus-modal-56b,bou-nec-3,#Dolzen ,,,
+rus-modal-56c,bou-nec-3,#Nado,,,
