@@ -1,0 +1,86 @@
+ref,context,words,gloss,translation,comment
+spa-modal-1,epi-nec-1,Ben  debe-Ø 	(de) 	estar 	 nad-ando.,Ben  MOD-3sg 	 of	be.inf 	swim-PROG,Ben must be swimming (right now). ,"Deber + Inf 	 =	deontic;  epistemic (colloquial but probably for young people just normal)
+Deber + de + Inf =	only epistemic
+[Prescriptively at school: Deber + Inf =deontic;    Deber + de + Inf = epistemic]"
+spa-modal-2,epi-nec-2,John debe-Ø 	(de) 	estar 	en   la 	   escuela.,John MOD-3sg of         be.inf         in   DET  school,John must be at school.,
+spa-modal-3,epi-nec-3,… debe-Ø 	(de) 	estar 	en 	la	 caja	 C. ,… MOD-3sg 	of	be	in 	DET	 box 	 C,It must be in C.,
+spa-modal-4,epi-nec-4,El 	perro no     debe-Ø 	estar 	en   casa. ,DET 	dog   NEG MOD-3sg 	be.inf 	in    house,The dog must not be in the house.,
+spa-modal-5,epi-wn-1,Anna 	debe-ría 	(de) 	estar   en  el 	lago.,Anna         MOD-3sg.cond of         be.inf  in  DET        lake,Ann should be at the lake right now. ,
+spa-modal-6,epi-wn-2,Esta-rá                 llov - iendo    en Goa.,be-3sg.FUT 	rain - PROG  in  Goa,it should be raining now in Goa.,Presumptive future 
+spa-modal-6b,epi-wn-2,Debe - ría 	   (de) 	 estar 	llov - iendo   en  Goa.,MOD-3sg.COND of	be 	rain - PROG in  Goa,it should be raining now in Goa.,
+spa-modal-7,epi-wn-3,Mary         debe                  (de)         estar         en         casa.,Mary         MOD       of         be.inf         in         house,Mary should be at home. ,with debe it's stronger than with deberia
+spa-modal-7b,epi-wn-3,Mary         debería                  (de)         estar         en         casa.,Mary         MOD-3sg.(COND)         of         be.inf         in         house,Mary should be at home. ,
+spa-modal-8,epi-pos-1,Puede - Ø         que        ven    -  ga          a    clase (hoy).,MOD - 3sg 	COMP  come - sbjv.3sg  to   class today,He might be coming to school today.,
+spa-modal-9,epi-pos-2,Puede- Ø  que 	       el 		collar 		de 	Grace se haya 		perd-ido,MOD-3sg COMPL  DET 	necklace 	of 	Grace ref have.subj 	lose-PART,Grace’s necklace might be lost.,
+spa-modal-10,epi-pos-3,El 	gato 	puede-Ø  	esta-r	 fuera 	o 	dentro.,DET         cat         MOD-3sg         be-inf         outside or         inside,The cat may be inside or the cat may be outside.,
+spa-modal-10b,epi-pos-3,El 	gato 	puede-Ø    esta-r     fuera    pero   también   puede-Ø    esta-r 	dentro.,DET 	cat 	MOD-3sg  be-inf     outside   but     also       MOD-3sg  be-inf 	inside,The cat may be inside. The cat may also be outside.,"poder + Inf = epistemic or deontic (or circumstantial, etc)
+poder.3sg + que + finite clause = only epistemic"
+spa-modal-10c,epi-pos-3,*El gato debe estar fuera (o dentro).,DET         cat         MOD  be    outside  (or inside),,
+spa-modal-11,epi-pos-4,Puede - Ø    se - r       	que 	Daniel 	va - ya 		a  NY.,MOD - 3sg  be - inf        COMP         Daniel         go - sbjv.3sg           to NY,Daniel may go to New York.,
+spa-modal-12,epi-nnec-1,Puede-Ø    que 	     (Mary)  no 	  est - é 		en  casa.,MOD-3sg  COMP (Mary)  NEG  be - sbjv.3sg 	in  house,Mary may not be at home.,
+spa-modal-13,epi-imp-1,Ben 	no   	 puede-Ø  esta-r    en    casa.,Ben        NEG     MOD-3sg be-inf  in     house,Ben can’t be at home. ,
+spa-modal-14,epi-imp-2,No         puede-Ø    esta-r   en   la       caja    C.,NEG 	MOD-3sg  be-inf in    DET   box    C,It can’t be in C. ,
+spa-modal-15,deo-nec-1,Debe-s 		lleva-r 	    casco.,MOD-2sg 	wear-inf    helmet,You must wear a helmet.,
+spa-modal-16,deo-nec-2,Los visitantes    debe-n 	      irse 		 	 antes de  las 18:00.,DET visitors     MOD-3pl   go.away//go.refl         before of DET 6pm,Visitors must leave by 6pm.,
+spa-modal-17,deo-wn-1,Debe  - ría               llevar    ropa      formal.,MOD - COND.3sg  wear     clothes  formal,I ought to wear formal clothes.,
+spa-modal-18,deo-wn-2,Los    clientes      debe-rían 	      lava-r-se 	   las    manos  también.,DET  customers  MOD-COND.3pl  wash-inf-refl        DET  hands   also ,Customers ought to wash their hands too!,
+spa-modal-19,deo-wn-3,Debe-ría 	     pone   - r      - me 	una 	mascarilla.,MOD-COND.1sg  put.on - inf - refl  	DET 	mask,I ought to wear a face covering.,
+spa-modal-20,deo-pos-1,Martin puede - Ø     subi-r-se  	       a    la 	noria.,Martin MOD - 3sg   get.on-inf-refl   to   DET 	wheel.ride,Martin may ride the ferris wheel.,
+spa-modal-21,deo-pos-2,Puede-s      entra-r.,MOD-2sg   enter-inf,You may enter.,
+spa-modal-22,deo-pos-3,Puede-s       pasa-r      la    noche   aquí  o   (puede -s) 	irte 	   a 	casa.,MOD-2sg   pass-inf  DET  night    here  or  (MOD- 2sg) go.away  to 	home,You can stay overnight or you can go home.,
+spa-modal-22b,deo-pos-3,Puedes pasar la noche aquí pero también (puedes) irte a casa.,MOD-2sg   pass-inf  DET  night    here  also  (MOD- 2sg) go.away  to         home,You can stay overnight. You can also go home.,
+spa-modal-23,deo-pos-4,Alice 	puede-Ø        coge-r 	al 	bebé.,Alice         MOD-3sg     take-inf         to.DET baby,Alice can lift her baby.,
+spa-modal-24,deo-pos-5,Beth puede-Ø 	 ir 	a   nada-r.,Beth MOD-3sg  go.inf  to  swim-inf,Beth can go swimming.,
+spa-modal-25,deo-nnec-1,No         teng-o       que               llevar      ropa         formal.,NEG 	have-1sg  COMP   wear.inf  clothes 	formal,I don’t have to / needn’t wear formal clothes.,"Comments from a reviewer: Honestly, the standard weak-strong univ modal text from English is not awesome in Spanish: “…ought p …but not have to / need not p”. I suspect that in Egnl people accommodate “...I don’t (really) have to”. I need a paraphrase to add the feeling of “really”.
+… pero no es absolutamente necesario.
+     but not is  absolutely necessary
+‘…, but it is not absolutely necessary’"
+spa-modal-26,deo-nnec-2,No 	teng-o 	   que	     lleva-r 	   mascarilla.,NEG 	have-1sg  COMP  wear-inf  	   mask,I don’t have to / needn’t wear a face covering.,
+spa-modal-26b,deo-nnec-2,No 	teng-o 	   por qué	     lleva-r 	   mascarilla.,NEG 	have-1sg  why		    wear-inf  	   mask,I don’t have to / needn’t wear a face covering.,
+spa-modal-26c,deo-nnec-2,# No debo ,,,
+spa-modal-27,deo-imp-1,No         debe - s       ir                 en         moto               sin                 casco.,NEG 	MOD - 2sg   go.inf   on 	motorbike  without 	helmet,You must not ride a motorbike without a helmet. ,
+spa-modal-28,deo-imp-2,Visitantes 	no 	deben 	     quedarse después de las 6pm.,Visitors 	NEG 	MOD-3pl  stay.inf    after 	6pm,Visitors must not stay after 6pm.,deber is more felicitous in legal/prescriptive contexts
+spa-modal-28b,deo-imp-2,Los visitantes 	no 	deben 	     permanece-r (en el hospital)  pasadas las 18:00.,DET visitors 	NEG 	MOD-3pl  stay-inf    (in the hospital) 	after 	6pm,Visitors must not stay after 6pm.,deber is more felicitous in legal/prescriptive contexts
+spa-modal-29,tel-nec-1,Tiene-s      que              ir            por   esta  calle.,Have-2sg  COMP  go.inf  by    this   road,You have to take this road,
+spa-modal-29b,tel-nec-1,Debe-s       ir 	  por esta calle.,MOD-2sg go.inf by this road,You have to take this road,
+spa-modal-30,tel-nec-2,El 	equipo A debe-Ø      gana-r    al  equipo B.,DET 	team A    MOD-3sg win-inf  to.DET  team B,Team A has to beat Team B.,
+spa-modal-30b,tel-nec-2,El 	equipo A  tiene-Ø      que       	gana-r     al equipo B.,DET 	team    A  HAVE-3sg  COMP  	win-inf  to.DET  team B,Team A has to beat Team B.,
+spa-modal-30c,tel-nec-2,El 	equipo A necesita(-ría) 		gana-r 	al 	equipo B.,DET         team    A MOD(-COND.3sg)         win-inf         to.DET         team B,Team A has to beat Team B.,
+spa-modal-31,tel-nec-3,Tene-mos que 	   	ir 	a  la      pizzería Gino.,HAVE-1pl COMP         go.inf         to DET pizzeria Gino,We have to go to Gino to eat the best pizza.,
+spa-modal-31b,tel-nec-3,# necesitar,MOD,,
+spa-modal-32,tel-wn-1,Debe-rías 	    coge-r      el 		autobús.,MOD-COND.2sg  take-inf   DET 	bus,you should take the bus.,
+spa-modal-33,tel-wn-2,Debe-rías 	     ir 	   por  las     carreteras secundarias.,MOD-COND.2sg  go.inf  by   DET  backroads,you should go via the smaller roads.,
+spa-modal-34,tel-wn-3,Debe-rías 	     veni-r	 a   mi   tienda.,MOD-COND.2sg  come-inf 	to  my   shop,You should come to my shop to buy a new shirt.,preferred
+spa-modal-34b,tel-wn-3,Tiene-s                 que        venir             a mi tienda.,Have-2sg 	COMP  come.inf to my shop,You should come to my shop to buy a new shirt.,
+spa-modal-35,tel-pos-1,Puede-s      coge-r      la     primera  ruta.,MOD-2sg  take-inf   DET  first 	     route,You can take way 1.,
+spa-modal-36,tel-pos-2,Pode-mos   ir              a   la    piscina.,MOD-1pl   go.inf  to  the  pool,We can go to the swimming pool. ,
+spa-modal-37,tel-pos-3,Puede-s     ir 	    a   esta tienda.,MOD-2sg  go.inf  to  this  shop,You can go to this boutique.,
+spa-modal-38,tel-nnec-1,No     necesita-s   coger 		el       autobús.,NEG mod-2sg 	   take.inf 	DET  bus,you don’t need to / needn’t take the bus.,
+spa-modal-38b,tel-nnec-1,No 	tiene-s 		que 	coger       el         autobús.,NEG 	MOD-2sg 	COMP  take.inf   DET   bus,you don’t need to / needn’t take the bus.,
+spa-modal-39,tel-imp-1,No 	puede-s      ir          por  otra   calle.,NEG 	MOD-2sg  go.inf   by   other  road,you can’t take another road.,
+spa-modal-40,tel-imp-2,El 	equipo A  no 	puede-Ø    perde-r    ante 	el 	equipo B.,DET 	team    A  NEG MOD-3sg  lose-inf  before 	DET 	team    B,Team A can’t lose to Team B.,"Based on previous data, this example with puede elicits the teleological orientation more than with debe"
+spa-modal-40b,tel-imp-2,El 	equipo A no 	debe-Ø 		perde-r     ante      el 	equipo B.,DET 	team    A NEG 	MOD-3sg 	lose-inf    before  DET   team B,,
+spa-modal-41,cir-nec-1,Teng-o 	     que 	        mea-r.,Have-1sg  COMP    pee-inf,I have to pee so badly!,
+spa-modal-42,cir-nec-2,Teng-o              que               estornuda-r.,Have-1sg  COMP  sneeze-inf,I have to sneeze.,
+spa-modal-43,cir-nec-3,… que             el          agua         ten-ga                 que         salir            por         la         tubería         de   la         derecha.,… COMP  DET water         have-sbjv.3sg         COMP leave.inf  by         DET        pipe         of   the         right,the water must come out from the right output/pipe. ,"for pure circumstantial: “tener que” is much better than “deber”;
+If epi ingredients is added: ok “deber” / “tener que”"
+spa-modal-43b,cir-nec-3,El 	agua 	tiene-Ø	    que 	    sali-r        por    la 	tubería 	de   la 		derecha.,DET 	water 	have-3sg  COMP  leave-inf  by	   DET 	pipe 	of   DET 	right,the water must come out from the right output/pipe. ,Edited to avoid subjunctive subordination:
+spa-modal-43c,cir-nec-3,El         agua         debe-Ø            salir       por         la         tubería         de    la          derecha.,DET 	water 	MOD-3sg leave.inf  by 	the 	pipe 	of    the	 right,the water must come out from the right output/pipe. ,
+spa-modal-44,cir-pos-1,Los 	árboles 	duku 	puede-n 	crece-r 	  aquí.,DET 	trees	duku 	MOD-3pl	grow-inf  here,duku trees can grow here.,
+spa-modal-45,cir-pos-2,Amy         puede-Ø         hacer            pasta         tradicional.,Amy 	MOD-3sg 	make.inf  pasta 	traditional,Amy can make traditional pasta,A reviewer’s intuition about “podria” (can in conditional form: would can/be able to): signals a silent conditional sentence roughly meaning “if she had the right ingredients”.
+spa-modal-45b,cir-pos-2,Amy 	es capaz    de 	hacer 	    pasta  tradicional.,Amy 	is capable  of 	make.inf   pasta  traditional,Amy can make traditional pasta,
+spa-modal-46,cir-pos-3,Ben puede-Ø         anda-r.,Ben MOD-3sg 	walk-inf,Ben can walk now.,
+spa-modal-46b,cir-pos-3,Ben 	es  capaz  	de 	anda-r.,Ben         is  capable           of         walk-inf,Ben can walk now.,
+spa-modal-47,cir-pos-4,Paul puede-Ø 	levantar la 	roca.,Paul MOD-3sg         lift          DET         rock,Paul can lift that rock.,
+spa-modal-47b,cir-pos-4,Paul 	es 	capaz 		de 	levantar 	la 	roca.,Paul         is         capable         of         lift                 DET         rock,Paul can lift that rock.,
+spa-modal-48,cir-pos-5,Los 	minibuses 	puede-n 	acomodar 	a 	20 	personas.,DET	minibuses	MOD-3pl	accommodate 	prep	20	people,Travel vans can fit 20 people.,
+spa-modal-48b,cir-pos-5,Los minibuses son capaces de acomodar a 20 personas,DET        minibuses      ?  ?   of    accommodate         prep        20        people,Travel vans can fit 20 people.,
+spa-modal-49,cir-nnec-1,El 	volcán 	  no 	tiene-Ø     por.qué 	erupciona-r.,DET 	volcano  NEG 	have-3sg   why	 	erupt-inf,The volcano doesn’t have to erupt.,
+spa-modal-50,cir-imp-3,Ben no 		puede-Ø 	andar.,Ben NEG        MOD-3sg        walk,Ben can’t walk.,
+spa-modal-50b,cir-imp-3,Ben no es capaz de andar.,Ben NEG      is capable         walk,Ben can’t walk.,
+spa-modal-50c,cir-imp-2,El         agua         no         puede-Ø         salir         por         la        tubería         izquierda.,DET	water	NEG	MOD-3sg	exist	by	DET	pipe	left,the water can’t come out from the left output. ,
+spa-modal-51,cir-imp-4,Los 	árboles 	duku 	no 	puede-n  	crecer 	aquí.,DET	trees 	duku	NEG	MOD-3pl	 grow	here,duku trees can’t grow here.,
+spa-modal-52,bou-nec-1,Teng-o 	     que 		compra-r-lo.,Have-1sg  COMP         buy-inf-it,I must buy it.,
+spa-modal-52b,bou-nec-1,Deb-o 		comprar-lo.,MOD-1sg 	buy.inf-it,I must buy it.,
+spa-modal-53,bou-nec-2,Teng-o 		que  	ir	 al 	cine 	a 	ve-r-la.,Have-1sg 	COMP  go.inf  	to.DET 	cinema 	to 	see-inf-it,I must go to the cinema.,
+spa-modal-54,bou-nec-3,Mi 	amiga 	quiere-Ø 	veni-r 	   a 	ver-me.,My	friend	want-3sg 	come-inf  to 	see.inf-me,My friend wants to come visit me.,
