@@ -1,0 +1,112 @@
+ref,context,words,gloss,translation,comment
+tgl-modal-1,epi-nec-1,Malamang         lumalangoy (V) si         Ben (NP)         ngayon (Adv).,MOD 		swim 		DET 	Ben 		now. ,Ben must be swimming (right now).,
+tgl-modal-2,epi-nec-2,Malamang  nasa  eskwelahan  na  si  John.,MOD 		at 	at.school	already 	DET	John. ,John must be at school.,
+tgl-modal-3,epi-nec-3,Malamang 	nasa 	ikatlong 	kahon 	ito.,MOD 		at 	third 		box 	this,it (the ball) must be in third box.,
+tgl-modal-3b,epi-nec-3,Sigurado         na       nasa         ikatlong         kahon         ito.,MOD 		COMP	at 	third 		box 	this,it (the ball) must be in third box.,"Sigurado requires that the prejacent is a 100% objective certainty, it is infelicitous if it is merely a subjective certainty "
+tgl-modal-3c,epi-nec-3,$ Sigurado      ng        nasa         ikatlong         kahon         ito.,MOD 		COMP	at 	third 		box 	this,it (the ball) must be in third box.,preferred
+tgl-modal-4,epi-nec-4,Malamang 	wala 	  ang 	aso 	sa[.loob]	 ng 	bahay.,MOD 		neg.exis DET 	dog 	inside 		of 	the.house,the dog must not be in the house.,
+tgl-modal-5,epi-wn-1,Malamang 	nasa 	lawa 	na 	si 	Ann 	ngayon.,MOD 		at 	lake 	already DET 	Ann 	now. ,Ann should be at the lake right now. ,
+tgl-modal-6,epi-wn-2,Malamang 	umuulan 	sa 	Goa 	ngayon.,MOD 		rain.CONT 	at 	Goa 	now. ,it should be raining now in Goa.,
+tgl-modal-7,epi-wn-3,MOD 		at 	home 	DET 	Mary 	now. ,Malamang         nasa         bahay         si         Mary         ngayon. ,Mary should be at home. ,
+tgl-modal-8,epi-pos-1,Siguro 	papasok 	siya 	sa 	eskwelahan 	ngayong.araw.,MOD 	come 		3sg 	DET 	at.school 	today,He might be coming to school today.,"Reviewer: My sense is that ""siguro"" is biased toward the truth of the prejacent, rather than just conveying possibility. "
+tgl-modal-8b,epi-pos-1,Papasok 	siguro 	siya 	sa 	eskwelahan 	ngayong.araw.,come 		MOD 	3sg 	DET 	at.school 	today,He might be coming to school today.,
+tgl-modal-8c,epi-pos-1,Baka 	papasok 	siya 	sa 	eskwelahan 	ngayon.araw,MOD        come                3sg        DET        at.school        today,He might be coming to school today.,Alterntaive provided by the reviewer
+tgl-modal-9,epi-pos-2,Siguro         nawala         ang         kwintas         ni         Grace.,MOD                  lost                 DET         necklace         DET         Grace ,Grace’s necklace might be lost.,
+tgl-modal-9b,epi-pos-2,$Baka         nawala         ang         kwintas         ni         Grace.,MOD                  lost                 DET         necklace         DET         Grace ,Grace’s necklace might be lost.,preferred
+tgl-modal-9c,epi-pos-2,Nawala 	siguro 	ang 	kwintas 	ni 	Grace.,Lost 		MOD 	DET 	necklace 	DET 	Grace,Grace’s necklace might be lost.,
+tgl-modal-10,epi-pos-3,Siguro 	nasa.loob 	ang 	pusa 	o 	pwede 		ring 	nasa.labas.,MOD         inside                 DET         cat         or         [possibly?]         also         outside. ,The cat may be inside. The cat may also be outside.,"Pwede requires the presence of alternatives (which could be contextually explicit but linguistically implicit). In the presence of such alternatives, pwede becomes more felicitous than siguro. "
+tgl-modal-10b,epi-pos-3,Pwedeng nasa loob ang pusa o pwede ring nasa labas.,MOD inside ? DET cat or [possibly?] also outside,The cat may be inside. The cat may also be outside.,Alterntaive provided by the reviewer
+tgl-modal-10c,epi-pos-3,"Baka nasa loob ang pusa, o baka nasa labas.",MOD inside ? DET cat or MOD outside ?,The cat may be inside. The cat may also be outside.,Alterntaive provided by the reviewer
+tgl-modal-10d,epi-pos-3,"Maaaring nasa loob ang pusa, at maaaari ring nasa labas.",MOD inside ? DET cat and MOD also outside ? DET cat,The cat may be inside. The cat may also be outside.,Alterntaive provided by the reviewer
+tgl-modal-11,epi-pos-4,Siguro	pu-punta 	sa 	New 	York 	si 	Daniel.,MOD 	CONT-go 	to	New 	York 	DET 	Daniel,Daniel might go to New York.,
+tgl-modal-12,epi-nnec-1,Siguro       wala                 sa         bahay         si         Mary.,MOD 		neg.exis 	at	home 	DET 	Mary. ,Mary may not be at home.,
+tgl-modal-12b,epi-nnec-1,$Baka         wala                 sa         bahay         si         Mary.,MOD 		neg.exis 	at	home 	DET 	Mary. ,Mary may not be at home.,preferred
+tgl-modal-13,epi-imp-1,Sigurado         na         wala          sa         bahay         si         Ben.,MOD	 	COMP 	neg.exis at 	home 	DET 	Ben,Ben can’t be at home. ,
+tgl-modal-13b,epi-imp-1,$ Sigurado        ng         wala          sa         bahay         si         Ben.,MOD	 	COMP 	neg.exis at 	home 	DET 	Ben,Ben can’t be at home. ,preferred
+tgl-modal-13c,epi-imp-1,Malamang wala sa bahay si Ben. ,MOD neg.exis at home DET Ben,Ben can’t be at home. ,equally acceptable alternative provided by the reviewer
+tgl-modal-14,epi-imp-2,Sigurado-ng 	wala 	   ang 	bola 	sa 	ikatlong 	kahon.,MOD-COMP 	Neg.exis  DET 	ball 	in 	third 		box.  ,The ball cannot be in 3. ,
+tgl-modal-15,deo-nec-1,Dapat         mag-suot                 ka         ng         helmet.,MOD 	AG.VOICE-wear 	2sg 	DET 	helmet. ,You must wear a helmet.,"Reviewer:  ""dapat"" may be more appropriately classified as conveying deontic weak necessity."
+tgl-modal-15b,deo-nec-1,Dapat ka=ng mag-suot ng helmet,MOD  2sg=DET AG.VOICE-wear DET helmet,You must wear a helmet.,
+tgl-modal-15c,deo-nec-1,Kailangan mo=ng mag-suot ng helmet,MOD  2sg=DET AG.VOICE-wear DET helmet,You must wear a helmet.,"""kailangan"" feels stronger than ""dapat"""
+tgl-modal-15d,deo-nec-1,Kailangan(g) mag-suot ka ng helmet,MOD AG.VOICE-wear you DET helmet,You must wear a helmet.,"Here, the linker/complementizer might be optional. Note that the velar nasal linker =ng replaces the word final /n/ of the preceding word. Orthographically, the effect is just adding a ""g"" to the end of the wor"
+tgl-modal-16,deo-nec-2,Dapat         um-alis                 ang         mga         bisita         kapag         alas.sais         na.,MOD 	AG.V-leave 	DET 	PL 	visitor 	when 	6.o.clock 	already,Visitors must leave by 6pm.,
+tgl-modal-17,deo-wn-1,Kailangan 	ko-ng 	mag-suot 	   ng 	pormal 	na 	kasuotan 	sa 	party.,MOD 		I-LINK AG.VOICE-wear DET 	formal 	COMP 	clothes 		to 	party ,I ought to wear formal clothes to the party.,
+tgl-modal-17b,deo-wn-1,$Dapat ako=ng mag-suot ng pormal na kasuotan sa party.,MOD  2sg=DET AG.VOICE-wear DET 	formal 	COMP 	clothes 		to 	party ,I ought to wear formal clothes to the party.,preferred
+tgl-modal-17c,deo-wn-1,$Dapat mag-suot ako ng pormal na kasuotan sa party. ,MOD  AG.VOICE-wear 2sg DET         formal         COMP         clothes                 to         party ,I ought to wear formal clothes to the party.,preferred
+tgl-modal-18,deo-wn-2,Kailangan 	din 	ng	 mga 	customer 	na 	mag-hugas 	ng 	kamay.,MOD 		also 	DET 	PL 	customer 	COMP 	AG.V-wash 	DET 	hands,Customers ought to wash their hands too!,
+tgl-modal-18b,deo-wn-2,$Dapat,MOD,,"preferred; Dapat expresses requirement by law, rules"
+tgl-modal-19,deo-wn-3,# Kailangan 	ko-ng 	mag-face.mask.,MOD 		I-link 	AG.V-wear.a.mask,I ought to wear a mask.,"Kailangan expresses relational requirements between the agent and someone else or the society.
+Judged to be infelicitous by the reviewer"
+tgl-modal-19b,deo-wn-3,$$$Dapat,MOD,,strongly preferred
+tgl-modal-20,deo-pos-1,Pwede-ng 	s-um-akay 	si 	Martin 	sa 	ferris wheel.,MOD-LINK         ride-AG.V-ride         DET         Martin         DET         ferris wheel,Martin may ride the ferris wheel.,
+tgl-modal-20b,deo-pos-1,Maaari,MOD,,equally acceptable alternative provided by the reviewer
+tgl-modal-20c,deo-pos-2,Pwede 	ka-ng 		p-um-asok.,MOD 	you-LINK 	enter-AG.V-enter. ,You may enter.,
+tgl-modal-20d,deo-pos-2,Maaari,MOD,,equally acceptable alternative provided by the reviewer
+tgl-modal-21,deo-pos-3,Pwede 	ka-ng 		mag-overnight 	o 	um-uwi 	na.lang.,MOD 	you-LINK 	AG.V-stay.over or 	AG.V-go.home 	instead,You can stay overnight or go home.,
+tgl-modal-21b,deo-pos-3,Maaari,MOD,,equally acceptable alternative provided by the reviewer
+tgl-modal-21c,deo-pos-3,Pwede ka=ng mag-overnight. Pwede ka rin=g umuwi na lang.,,You can stay overnight. You can also go home.,
+tgl-modal-22,deo-pos-4,Pwede 	na-ng 		buhat-in 	ni 	Alice 	ang 	baby 	niya.,MOD 	already-LINK 	lift-PAT.V 	DET 	Alice 	DET 	baby 	3sg.poss,Alice can lift her baby.,
+tgl-modal-23,deo-pos-5,Pwede-ng 	lumangoy 	si 	Beth.,MOD-LINK 	swim 		DET 	Beth. ,Beth can go swimming.,
+tgl-modal-24,deo-nnec-1,Hindi 	ko 	kailangan-(n)g 	mag-formal.,NEG 	I 	MOD-LINK 	AG.V-wear.formal.clothes ,I don’t have to / needn’t wear formal clothes.,
+tgl-modal-25,deo-nnec-2,Hindi 	ko 	kailangan-(n)g 	mag-face.mask.,NEG 	I 	MOD-LINK 	AG.V-wear.mask,I don’t have to wear a face covering.,
+tgl-modal-26,deo-imp-1,Hindi	 ka 	dapat 	mag-motorbike 		na 	wala-ng 		helmet.,NEG         you         MOD         AG.V-ride.motorbike         COMP         neg.exist-LINK         helmet,You mustn’t ride a motorbike without a helmet. ,
+tgl-modal-27,deo-imp-2,Hindi 	dapat 	manatili 	ang 	mga 	bisita 	pagkatapos 	ng 	alas.sais.,NEG 	MOD 	stay 		DET 	PL 	visitor 	after 		DET 	six.pm,Visitors must not stay after 6pm,
+tgl-modal-28,tel-nec-1,Kailangan 	dito 	ka 	d-um-aan.,MOD 		here 	you 	AG.V-road,you have to take this road.,
+tgl-modal-29,tel-nec-2,Kailangan 	ma-talo 			ng 	UP 	ang 	Ateneo.,MOD                 VERBALIZER.ABILITY-lost    DET         U.P.        DET         Ateneo,Team A has to beat Team B.,The complex ma-talo means to beat
+tgl-modal-30,tel-nec-3,Kailangan	natin-(n)g 	mag-order 	sa 	restawran 	na 	iyon.,MOD 		our-LINK 	AG.V-order 	DET 	restaurant 	COMP 	that.,We have to order from that restaurant.,
+tgl-modal-31,tel-wn-1,Kailangan         mo-ng                 mag-bus.,MOD 			you-LINK 	AG.V-bus. ,you should take the bus.,
+tgl-modal-31b,tel-wn-1,$Dapat         mo-ng                 mag-bus.,MOD 			you-LINK 	AG.V-bus. ,you should take the bus.,preferred
+tgl-modal-31c,tel-wn-1,# Siguro pwede kang mag-bus kung gusto mong makatipid.,,Maybe you can take the bus if you want to save money.,
+tgl-modal-32,tel-wn-2,Kailangan        d-um-aan         ka         sa         makipot         na         daan.,MOD 			AG.V-ride 	you 	DET 	narrow 		COMP 	road,you should go via the smaller roads. ,
+tgl-modal-32b,tel-wn-2,$Dapat        d-um-aan         ka         sa         makipot         na         daan.,MOD 			AG.V-ride 	you 	DET 	narrow 		COMP 	road,you should go via the smaller roads. ,preferred
+tgl-modal-33,tel-wn-3,Kailangan      mo-ng                 p-um-unta         sa         tindahan         ko        .,MOD                         you-LINK         AG.V-come         DET         shop                 my,You should come to my shop,
+tgl-modal-33b,tel-wn-3,$Dapat        mo-ng                 p-um-unta         sa         tindahan         ko        .,MOD                         you-LINK         AG.V-come         DET         shop                 my,You should come to my shop,preferred
+tgl-modal-34,tel-pos-1,Pwede-ng 	sa 	una 	ka 	d-um-aan.,MOD-LINK 	DET 	first 	you 	AG.V-ride/go/pass.through/etc,You can take the first way.,
+tgl-modal-34b,tel-pos-1,maaari,MOD,,equally acceptable alternative provided by the reviewer
+tgl-modal-34c,tel-pos-1,Pwede kang d-um-aan sa una,MOD ? AG.V-ride/go/pass.through/etc DET first,You can take the first way.,Alternative provided by the reviewer
+tgl-modal-34d,tel-pos-1,Pwede ka sa una d-um-aan,MOD you DET first AG.V-ride/go/pass.through/etc,You can take the first way.,Alternative provided by the reviewer
+tgl-modal-34e,tel-pos-1,# Siguro sa una ka d-um-aan kung ayaw mo sa coast.,,You can take the first way if you don’t want the coast.,
+tgl-modal-35,tel-pos-2,Pwede         ka-ng                 p-um-unta         sa         swimming pool         sa         kanluran.,MOD 	you-LINK 	AG.V-go 	DET 	swimming pool DET 	West,You can go to the swimming pool to the west.,
+tgl-modal-35b,tel-pos-2,maaari,MOD,,equally acceptable alternative provided by the reviewer
+tgl-modal-36,tel-pos-3,Pwede 	ka-ng 		p-um-unta 	sa 	tindahan-(n)g 	ito.,MOD 	you-LINK 	AG.V-go 	DET 	shop-LINK 	this,You can go to this shop.,
+tgl-modal-36b,tel-pos-3,maaari,MOD,,equally acceptable alternative provided by the reviewer
+tgl-modal-37,tel-nnec-1,Pwede-ng	hindi 	ka 	mag-bus.,MOD-LINK         NEG         you         AG.V-bus,you don’t need to take the bus.,H.H. says this evaluates to ◇!(TAKE_BUS)
+tgl-modal-37b,tel-nnec-1,Hindi mo kailangan-ng mag-bus,NEG you MOD-LINK  AG.V-bus,you don’t need to take the bus.,preferred
+tgl-modal-38,tel-imp-1,Hindi  ka  pwede-ng  d-um-aan   sa  iba.,NEG 	you 	MOD-LINK 	AG.V-ride/go/etc 	DET another,you can’t take another road.,
+tgl-modal-39,tel-imp-2,Hindi 	pwede-ng 	ma-talo 	ang 	UP 	sa 	Ateneo.,NEG 	MOD-LINK 	“beat”	 	DET 	U.P. 	to 	Ateneo ,Team A can’t lose to Team B.,
+tgl-modal-40,cir-nec-1,Ihing-ihi 	na 	ako.,Pee                 NA         I,I have to pee so badly!,
+tgl-modal-40b,cir-nec-1,Kailangan ko na talagang umihi. ,,I have to pee so badly!,
+tgl-modal-41,cir-nec-2,Na-ba-bahing 		ako.,NA-(sneeze)-sneeze         I,I have to sneeze.,
+tgl-modal-42,cir-nec-3,Sa 	kanan 	maka~(ka)-labas 		ang 	tubig.,DET 	right 	ABIL-contemplative-go.out 	DET 	water,the water must come out from the right output.,
+tgl-modal-42b,cir-nec-3,Sa 	kanan 	lang 	makakalabas 	ang 	tubig,DET	right	only	<...>		DET	water,the water must come out from the right output. ,
+tgl-modal-43,cir-pos-1,Pwede-ng         t-um-ubo         ang         duku         rito,MOD-LK         AV-grow         DET         duku         here,duku trees can grow here.,The consultant initially offered pwedeng for inanimate subject.
+tgl-modal-43b,cir-pos-1,Kaya-ng 	tumubo 	ng 	duku 	rito,MOD-LK        AV-grow       duku         here,duku trees can grow here.,Kaya is more agentive.
+tgl-modal-43c,cir-pos-1,Makakatubo ang duku dito,MOD DET duku here,duku trees can grow here.,not as agentive as the example with “kaya” and maybe more natural than the example with “pwede”
+tgl-modal-43d,cir-pos-1,Mabubuhay ang duku dito,MOD DET duku here,duku trees can grow here.,
+tgl-modal-44,cir-pos-2,* Kaya         ni         Amy         na         mag-luto         ng         traditional         pasta,* MOD 	DET 	Amy 	COMP 	AV-cook 	DET 	traditional 	pasta ,Amy can make traditional pasta,
+tgl-modal-44b,cir-pos-2,Marunong si Amy magluto…,,Amy knows how to cook…,"probably more natural, but doesn’t have the modal"
+tgl-modal-45,cir-pos-3,Kaya 	na-ng 			mag-lakad 	ni 	Ben,MOD 	PRT.already-LKR 	AV-walk 	DET 	Ben,Ben can walk now.,
+tgl-modal-45b,cir-pos-3,* Kaya ni Ben na mag-lakad,MOD DET Ben PRT.already AV-walk,,
+tgl-modal-45c,cir-pos-3,Na-kaka-lakad na si Ben,PRT.already-MOD-walk PRT.already DET Ben,Ben can walk now.,general ability vs. pragmatically influenced by his injury
+tgl-modal-46,cir-pos-4,Kaya  pa 	ni 	Paul 	mag-buhat 	ng 	bato.,MOD PRT.still  DET 	Paul 	AV-carry 	DET 	rock,Paul can lift that rock.,
+tgl-modal-46b,cir-pos-4,$Kaya pa ni Paul buhat-in ang bato=ng iyon,,Paul can lift that rock.,preferred
+tgl-modal-46c,cir-pos-4,$Mabubuhat ni Paul ang bato=ng iyan,,Paul can lift that rock.,preferred
+tgl-modal-47,cir-pos-5,Kaya-ng 	pag-kasya-hin 	ang 	dalawampung 	tao 	sa 	van.,MOD-LKR 	??-V.fit 		DET 	20 		person 	DET 	van,Travel vans can fit 20 people.,
+tgl-modal-47b,cir-pos-5,Pwede,MOD,,equally acceptable alternative provided by the reviewer
+tgl-modal-47c,cir-pos-5,Kasya 	 ang 	dalawampung 	tao 	sa 	van.,ADJ.fit  DET  20   person  DET  van,Travel vans can fit 20 people.,
+tgl-modal-48,cir-nnec-1,"Pwede-ng         p-um-utok         ang         bulkan,                 pero         pwede         ring         hindi.","MOD-LKR         AV-erupt         DET         volcano,         but         MOD         PRT         NEG",The volcano doesn’t have to erupt.,
+tgl-modal-48b,cir-nnec-1,maaari-ng,MOD-LKR,The volcano doesn’t have to erupt.,equally acceptable alternative provided by the reviewer
+tgl-modal-48c,cir-nnec-1,Pwedeng hindi pumutok ang bulkan,MOD NEG AV-erupt  DET         volcano,The volcano doesn’t have to erupt.,equally acceptable alternative provided by the reviewer
+tgl-modal-48d,cir-nnec-1,maaaring hindi pumutok ang bulkan,MOD NEG AV-erupt  DET         volcano,The volcano doesn’t have to erupt.,equally acceptable alternative provided by the reviewer
+tgl-modal-49,cir-imp-1,Hindi 	kaya-ng 	mag-lakad 	ni 	Ben,NEG 	MOD-LKR 	AV-walk 	DET 	Ben,Ben can’t walk.,
+tgl-modal-49b,cir-imp-1,Hindi na-kaka-lakad si Ben ,NEG ?-MOD-walk DET Ben,Ben can’t walk.,
+tgl-modal-50,cir-imp-2,Hindi 	maka~ka-labas 	sa 	kaliwa 	ang 	tubig.,NEG 	AG.POT-go.out DET 	left 	DET 	water,the water can’t come out from the left output. ,
+tgl-modal-50b,cir-imp-2,Hindi kayang lumabas sa kaliwa ng tubig.,,the water can’t come out from the left output. ,
+tgl-modal-50c,cir-imp-2,*malabas,,,mailabas = to get something out 
+tgl-modal-51,cir-imp-3,Hindi         ma~bu-buhay         ang         duku         rito.,NEG 	(ABTV)-live 	DET 	duku 	here,duku trees can’t grow here.,
+tgl-modal-51b,cir-imp-3,Hindi         ma~bu-buhay         ang         duku         rito.,NEG         (ABTV)-live         DET         duku         here,duku trees can’t grow here.,Ma~bu-buhay = ma~ka-katubo
+tgl-modal-51c,cir-imp-3,Hindi kayang mabuhay ng duku rito.,,duku trees can’t grow here.,
+tgl-modal-51d,cir-imp-3,*ma~ka~buhay,,,
+tgl-modal-52,bou-nec-1,Kailangan 	kong 		bilhin 	ito.,MOD 		1SG-LKR 	buy-PV it,I must buy it.,
+tgl-modal-53,bou-nec-2,Kailangan 	ko-ng 		p-um-unta 	sa 	sinehan.,MOD 		1SG-LKR 	AV-go	 	DET 	cinema,I must go to the cinema.,
+tgl-modal-54,bou-nec-3,Gusto	akong 		bisita-hin 	ng 	kaibigan 	ko.,Want 	1SG-LKR 	visit-PV 	DET 	friend 		my,My friend wants to come visit me.,
