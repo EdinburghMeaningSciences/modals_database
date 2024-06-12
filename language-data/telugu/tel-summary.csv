@@ -1,0 +1,121 @@
+expression,force,flavor,can_express,evidence,polarity,syntactically_negated,full_form,notes
+tappakuNdaa,strong,epistemic,1,"tel-modal-evid1, tel-modal-evid2, tel-modal-evid3, tel-modal-evid4",positive,no,tappakuNdaa,Adverbial element
+tappakuNdaa,weak necessity,epistemic,?,,positive,no,tappakuNdaa,Adverbial element
+tappakuNdaa,weak,epistemic,?,,positive,no,tappakuNdaa,Adverbial element
+tappakuNdaa,strong,deontic,?,,positive,no,tappakuNdaa,Adverbial element
+tappakuNdaa,weak necessity,deontic,?,,positive,no,tappakuNdaa,Adverbial element
+tappakuNdaa,weak,deontic,?,,positive,no,tappakuNdaa,Adverbial element
+tappakuNdaa,strong,teleological,0,,positive,no,tappakuNdaa,Adverbial element
+tappakuNdaa,weak necessity,teleological,?,,positive,no,tappakuNdaa,Adverbial element
+tappakuNdaa,weak,teleological,?,,positive,no,tappakuNdaa,Adverbial element
+tappakuNdaa,strong,circumstantial,?,,positive,no,tappakuNdaa,Adverbial element
+tappakuNdaa,weak,circumstantial,?,,positive,no,tappakuNdaa,Adverbial element
+tappakuNdaa,strong,bouletic,?,,positive,no,tappakuNdaa,Adverbial element
+V-ccu,strong,epistemic,?,,positive,no,V-ccu,verbal suffix
+V-ccu,weak necessity,epistemic,?,,positive,no,V-ccu,verbal suffix
+V-ccu,weak,epistemic,1,"tel-modal-evid8, tel-modal-evid9, tel-modal-evid10, tel-modal-evid11",positive,no,V-ccu,verbal suffix
+V-ccu,strong,deontic,?,,positive,no,V-ccu,verbal suffix
+V-ccu,weak necessity,deontic,?,,positive,no,V-ccu,verbal suffix
+V-ccu,weak,deontic,1,"tel-modal-evid20, tel-modal-evid21, tel-modal-evid22, tel-modal-evid23, tel-modal-evid24",positive,no,V-ccu,verbal suffix
+V-ccu,strong,teleological,?,,positive,no,V-ccu,verbal suffix
+V-ccu,weak necessity,teleological,?,,positive,no,V-ccu,verbal suffix
+V-ccu,weak,teleological,1,"tel-modal-evid35, tel-modal-evid36, tel-modal-evid37",positive,no,V-ccu,verbal suffix
+V-ccu,strong,circumstantial,?,,positive,no,V-ccu,verbal suffix
+V-ccu,weak,circumstantial,1,"tel-modal-evid44, tel-modal-evid45c, tel-modal-evid46b",positive,no,V-ccu,verbal suffix
+V-ccu,strong,bouletic,?,,positive,no,V-ccu,verbal suffix
+v-anakuntaa,strong,epistemic,?,,positive,no,v-anakuntaa,verbal suffix
+v-anakuntaa,weak necessity,epistemic,?,,positive,no,v-anakuntaa,verbal suffix
+v-anakuntaa,weak,epistemic,1,,positive,no,v-anakuntaa,verbal suffix
+v-anakuntaa,strong,deontic,?,,positive,no,v-anakuntaa,verbal suffix
+v-anakuntaa,weak necessity,deontic,?,,positive,no,v-anakuntaa,verbal suffix
+v-anakuntaa,weak,deontic,?,,positive,no,v-anakuntaa,verbal suffix
+v-anakuntaa,strong,teleological,?,,positive,no,v-anakuntaa,verbal suffix
+v-anakuntaa,weak necessity,teleological,?,,positive,no,v-anakuntaa,verbal suffix
+v-anakuntaa,weak,teleological,?,,positive,no,v-anakuntaa,verbal suffix
+v-anakuntaa,strong,circumstantial,?,,positive,no,v-anakuntaa,verbal suffix
+v-anakuntaa,weak,circumstantial,?,,positive,no,v-anakuntaa,verbal suffix
+v-anakuntaa,strong,bouletic,?,,positive,no,v-anakuntaa,verbal suffix
+v-aali,strong,epistemic,1,"tel-modal-evid1b, tel-modal-evid2b, tel-modal-evid3b",positive,no,v-aali,verbal suffix
+v-aali,weak necessity,epistemic,1,"tel-modal-evid5, tel-modal-evid6, tel-modal-evid7",positive,no,v-aali,verbal suffix
+v-aali,weak,epistemic,0,,positive,no,v-aali,verbal suffix
+v-aali,strong,deontic,1,"tel-modal-evid15, tel-modal-evid15b, tel-modal-evid16",positive,no,v-aali,verbal suffix
+v-aali,weak necessity,deontic,1,"tel-modal-evid17, tel-modal-evid17b, tel-modal-evid18, tel-modal-evid19, tel-modal-evid19b",positive,no,v-aali,verbal suffix
+v-aali,weak,deontic,0,tel-modal-evid20b,positive,no,v-aali,verbal suffix
+v-aali,strong,teleological,1,"tel-modal-evid29, tel-modal-evid30, tel-modal-evid31",positive,no,v-aali,verbal suffix
+v-aali,weak necessity,teleological,1,"tel-modal-evid32, tel-modal-evid33, tel-modal-evid34",positive,no,v-aali,verbal suffix
+v-aali,weak,teleological,0,,positive,no,v-aali,verbal suffix
+v-aali,strong,circumstantial,1,"tel-modal-evid41, tel-modal-evid42, tel-modal-evid43",positive,no,v-aali,verbal suffix
+v-aali,weak,circumstantial,0,,positive,no,v-aali,verbal suffix
+v-aali,strong,bouletic,1,tel-modal-evid52,positive,no,v-aali,verbal suffix
+v-gala,strong,epistemic,?,,positive,no,v-gala,verbal suffix
+v-gala,weak necessity,epistemic,?,,positive,no,v-gala,verbal suffix
+v-gala,weak,epistemic,?,,positive,no,v-gala,verbal suffix
+v-gala,strong,deontic,?,,positive,no,v-gala,verbal suffix
+v-gala,weak necessity,deontic,?,,positive,no,v-gala,verbal suffix
+v-gala,weak,deontic,?,,positive,no,v-gala,verbal suffix
+v-gala,strong,teleological,?,,positive,no,v-gala,verbal suffix
+v-gala,weak necessity,teleological,?,,positive,no,v-gala,verbal suffix
+v-gala,weak,teleological,?,,positive,no,v-gala,verbal suffix
+v-gala,strong,circumstantial,?,,positive,no,v-gala,verbal suffix
+v-gala,weak,circumstantial,1,"tel-modal-evid44b, tel-modal-evid45, tel-modal-evid45b, tel-modal-evid46, tel-modal-evid47, tel-modal-evid48",positive,no,v-gala,verbal suffix
+v-gala,strong,bouletic,?,,positive,no,v-gala,verbal suffix
+V-ccu,strong,epistemic,?,,negative,yes,V-NEG-ccu,
+V-ccu,weak necessity,epistemic,?,,negative,yes,V-NEG-ccu,
+V-ccu,weak,epistemic,1,tel-modal-evid12,negative,yes,V-NEG-ccu,
+V-ccu,strong,deontic,?,,negative,yes,V-NEG-ccu,
+V-ccu,weak necessity,deontic,?,,negative,yes,V-NEG-ccu,
+V-ccu,weak,deontic,?,,negative,yes,V-NEG-ccu,
+V-ccu,strong,teleological,?,,negative,yes,V-NEG-ccu,
+V-ccu,weak necessity,teleological,?,,negative,yes,V-NEG-ccu,
+V-ccu,weak,teleological,?,,negative,yes,V-NEG-ccu,
+V-ccu,strong,circumstantial,?,,negative,yes,V-NEG-ccu,
+V-ccu,weak,circumstantial,?,,negative,yes,V-NEG-ccu,
+V-ccu,strong,bouletic,?,,negative,yes,V-NEG-ccu,
+v-anakuntaa,strong,epistemic,?,,negative,yes,V-NEG-anakuntaa,
+v-anakuntaa,weak necessity,epistemic,?,,negative,yes,V-NEG-anakuntaa,
+v-anakuntaa,weak,epistemic,1,,negative,yes,V-NEG-anakuntaa,
+v-anakuntaa,strong,deontic,?,,negative,yes,V-NEG-anakuntaa,
+v-anakuntaa,weak necessity,deontic,?,,negative,yes,V-NEG-anakuntaa,
+v-anakuntaa,weak,deontic,?,,negative,yes,V-NEG-anakuntaa,
+v-anakuntaa,strong,teleological,?,,negative,yes,V-NEG-anakuntaa,
+v-anakuntaa,weak necessity,teleological,?,,negative,yes,V-NEG-anakuntaa,
+v-anakuntaa,weak,teleological,?,,negative,yes,V-NEG-anakuntaa,
+v-anakuntaa,strong,circumstantial,?,,negative,yes,V-NEG-anakuntaa,
+v-anakuntaa,weak,circumstantial,?,,negative,yes,V-NEG-anakuntaa,
+v-anakuntaa,strong,bouletic,?,,negative,yes,V-NEG-anakuntaa,
+avasaram,strong,epistemic,?,,negative,yes,[clause] + avasaram le+AGR,avasaram (need) + le (impossibility) + AGR - see Pelletier (1994) for notes on the nature of Le
+avasaram,weak necessity,epistemic,?,,negative,yes,[clause] + avasaram le+AGR,avasaram (need) + le (impossibility) + AGR - see Pelletier (1994) for notes on the nature of Le
+avasaram,weak,epistemic,?,,negative,yes,[clause] + avasaram le+AGR,avasaram (need) + le (impossibility) + AGR - see Pelletier (1994) for notes on the nature of Le
+avasaram,strong,deontic,1,"tel-modal-evid25, tel-modal-evid26",negative,yes,[clause] + avasaram le+AGR,avasaram (need) + le (impossibility) + AGR - see Pelletier (1994) for notes on the nature of Le
+avasaram,weak necessity,deontic,?,,negative,yes,[clause] + avasaram le+AGR,avasaram (need) + le (impossibility) + AGR - see Pelletier (1994) for notes on the nature of Le
+avasaram,weak,deontic,?,,negative,yes,[clause] + avasaram le+AGR,avasaram (need) + le (impossibility) + AGR - see Pelletier (1994) for notes on the nature of Le
+avasaram,strong,teleological,1,tel-modal-evid38,negative,yes,[clause] + avasaram le+AGR,avasaram (need) + le (impossibility) + AGR - see Pelletier (1994) for notes on the nature of Le
+avasaram,weak necessity,teleological,?,,negative,yes,[clause] + avasaram le+AGR,avasaram (need) + le (impossibility) + AGR - see Pelletier (1994) for notes on the nature of Le
+avasaram,weak,teleological,?,,negative,yes,[clause] + avasaram le+AGR,avasaram (need) + le (impossibility) + AGR - see Pelletier (1994) for notes on the nature of Le
+avasaram,strong,circumstantial,?,,negative,yes,[clause] + avasaram le+AGR,avasaram (need) + le (impossibility) + AGR - see Pelletier (1994) for notes on the nature of Le
+avasaram,weak,circumstantial,?,,negative,yes,[clause] + avasaram le+AGR,avasaram (need) + le (impossibility) + AGR - see Pelletier (1994) for notes on the nature of Le
+avasaram,strong,bouletic,?,,negative,yes,[clause] + avasaram le+AGR,avasaram (need) + le (impossibility) + AGR - see Pelletier (1994) for notes on the nature of Le
+kuuda,strong,epistemic,?,,negative,yes,[clause] + kuuda + AGR,Negate a non-modal clause with negator kuuda
+kuuda,weak necessity,epistemic,?,,negative,yes,[clause] + kuuda + AGR,Negate a non-modal clause with negator kuuda
+kuuda,weak,epistemic,?,,negative,yes,[clause] + kuuda + AGR,Negate a non-modal clause with negator kuuda
+kuuda,strong,deontic,?,,negative,yes,[clause] + kuuda + AGR,Negate a non-modal clause with negator kuuda
+kuuda,weak necessity,deontic,?,,negative,yes,[clause] + kuuda + AGR,Negate a non-modal clause with negator kuuda
+kuuda,weak,deontic,1,tel-modal-evid28,negative,yes,[clause] + kuuda + AGR,Negate a non-modal clause with negator kuuda
+kuuda,strong,teleological,?,,negative,yes,[clause] + kuuda + AGR,Negate a non-modal clause with negator kuuda
+kuuda,weak necessity,teleological,?,,negative,yes,[clause] + kuuda + AGR,Negate a non-modal clause with negator kuuda
+kuuda,weak,teleological,1,tel-modal-evid40,negative,yes,[clause] + kuuda + AGR,Negate a non-modal clause with negator kuuda
+kuuda,strong,circumstantial,?,,negative,yes,[clause] + kuuda + AGR,Negate a non-modal clause with negator kuuda
+kuuda,weak,circumstantial,?,,negative,yes,[clause] + kuuda + AGR,Negate a non-modal clause with negator kuuda
+kuuda,strong,bouletic,?,,negative,yes,[clause] + kuuda + AGR,Negate a non-modal clause with negator kuuda
+le,strong,epistemic,?,,negative,yes,[clause] + le+AGR,le (impossibility) + AGR
+le,weak necessity,epistemic,?,,negative,yes,[clause] + le+AGR,le (impossibility) + AGR
+le,weak,epistemic,?,,negative,yes,[clause] + le+AGR,le (impossibility) + AGR
+le,strong,deontic,?,,negative,yes,[clause] + le+AGR,le (impossibility) + AGR
+le,weak necessity,deontic,?,,negative,yes,[clause] + le+AGR,le (impossibility) + AGR
+le,weak,deontic,1,"tel-modal-evid27, tel-modal-evid27b, tel-modal-evid28b, tel-modal-evid28c",negative,yes,[clause] + le+AGR,le (impossibility) + AGR
+le,strong,teleological,?,,negative,yes,[clause] + le+AGR,le (impossibility) + AGR
+le,weak necessity,teleological,?,,negative,yes,[clause] + le+AGR,le (impossibility) + AGR
+le,weak,teleological,1,tel-modal-evid40b,negative,yes,[clause] + le+AGR,le (impossibility) + AGR
+le,strong,circumstantial,?,,negative,yes,[clause] + le+AGR,le (impossibility) + AGR
+le,weak,circumstantial,1,"tel-modal-evid50, tel-modal-evid51",negative,yes,[clause] + le+AGR,le (impossibility) + AGR
+le,strong,bouletic,?,,negative,yes,[clause] + le+AGR,le (impossibility) + AGR
