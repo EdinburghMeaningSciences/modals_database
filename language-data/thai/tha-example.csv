@@ -1,0 +1,136 @@
+ref,context,words,gloss,translation,comment
+tha-modal-1,epi-nec-1,Ben dong  wainam (dorn ni),Ben MOD swim     (right now),Ben MUST be swimming (right now). ,
+tha-modal-1b,epi-nec-1,Ben dong ca wainam,Ben MOD    swim     (right now),Ben MUST be swimming (right now). ,"not preferable, but still a possible grammatical variant"
+tha-modal-1c,epi-nec-1,*Ben jam bpen wainam 			,Ben ?  swim,,
+tha-modal-1d,epi-nec-1,Ben jam bpen dong wainam,Ben MOD	        wainam,Ben MUST be swimming (right now).,
+tha-modal-2,epi-nec-2,John dong   yuu     tii 	   rongrein,John MOD  exist    LOC   school,John MUST be at school.,
+tha-modal-2b,epi-nec-2,John dong ca  yuu   tii 	    rongrein 		,John MOD ca exist  LOC  school,John MUST be at school.,a possible grammatical variant
+tha-modal-3,epi-nec-3,Mun dong   yuu  tii       C,It      MOD  exist LOC  C,it MUST be in C.,
+tha-modal-55,epi-nec-4,Maa dong   mai	   yuu     nai       baan,dog  MOD  neg    exist   inside   house,the dog MUST not be in the house.,
+tha-modal-55b,epi-nec-4,Maa   dong (ca) mai   yuu    nai       baan,Dog   MOD (ca) neg   exist   inside  house,the dog MUST not be in the house.,
+tha-modal-55c,epi-nec-4,(Jam bpen)+dong ,,,"Jam bpen is optional before dong and felicitous in all contexts above. 
+Jam bpen always co-occurs with dong: [jam bpen *(dong)]"
+tha-modal-4,epi-wn-1,Ann naa ca yuu tii talae saab dorn ni,,Ann SHOULD be at the lake right now.,
+tha-modal-4b,epi-wn-1,*Ann naa yuu tii talae saab dorn ni,,Ann SHOULD be at the lake right now. ,
+tha-modal-4c,epi-wn-1,Ann kuan ca yuu tii talae saab dorn ni   ,,Ann SHOULD be at the lake right now. ,
+tha-modal-4d,epi-wn-1,*Ann kuan yuu tii talae saab dorn ni   ,,Ann SHOULD be at the lake right now. ,
+tha-modal-5,epi-wn-2,Naa      ca    phon dok,MOD	   ca      rain   fall,it SHOULD be raining,
+tha-modal-5b,epi-wn-2,* Naa   phon dok,MOD    rain   fall,it SHOULD be raining,
+tha-modal-5c,epi-wn-2,Kuan       ca       phon         dok                 ,MOD	   ca      rain   fall,it SHOULD be raining,[more formal register]
+tha-modal-5d,epi-wn-2,*Kuan     phon         dok                 ,MOD    rain   fall,it SHOULD be raining,
+tha-modal-6,epi-wn-3,Mary naa ca     yuu    tii    baan,Mary MOD ca 	 exist  loc   home,Mary SHOULD be at home,
+tha-modal-6b,epi-wn-3,* Mary naa  yuu    tii    baan,Mary MOD  exist  loc   home,Mary SHOULD be at home,
+tha-modal-6c,epi-wn-3,Mary kuan   ca  yuu         tii    baan     ,Mary MOD    ca   exist  loc   home,Mary SHOULD be at home,
+tha-modal-6d,epi-wn-3,* Mary kuan  yuu         tii    baan     ,Mary MOD    exist  loc   home,Mary SHOULD be at home,
+tha-modal-7,epi-pos-1,Kao        aat   ca maa     tii              rongrein   wannii,3.SG        MOD          ca    come   LOC   school      today ,He MIGHT be coming to school today.,"Aat ca is more comfortable when used speaking (i.e., a less formal variant)"
+tha-modal-7b,epi-pos-1,* Kao        aat   maa     tii              rongrein   wannii,3.SG        MOD   come   LOC   school      today ,He MIGHT be coming to school today.,
+tha-modal-7c,epi-pos-1,Kao         kong      ca  maa      tii         rongrein         wannii,3.SG 	MOD     ca     come    LOC    school 	today ,He MIGHT be coming to school today.,"Kong being the more formal variant, and something more likely to be written rather than spoken. "
+tha-modal-7d,epi-pos-1,* Kao         kong     maa      tii         rongrein         wannii,3.SG         MOD   come    LOC    school         today ,He MIGHT be coming to school today.,
+tha-modal-8,epi-pos-2,(Saikor              kong   Grace)  aat        ca  tam    hay,(Necklace  POSS Grace)  MOD	   ca     do      lost,Grace’s necklace MIGHT be lost.,
+tha-modal-8b,epi-pos-2,*(Saikor              kong   Grace)  aat       tam    hay,(Necklace  POSS Grace)  MOD     do      lost,Grace’s necklace MIGHT be lost.,
+tha-modal-9,epi-pos-3,"Mew aat     ca    yuu    klang nai.    Mew aat     *(ca)     yuu          klang nork,",Cat    mod      ca     exist   inside.         Cat    MOD    ca       exist   outside.,The cat MAY be inside. The cat MAY also be outside.,
+tha-modal-9b,epi-pos-3,"* Mew aat    yuu    klang nai.    Mew aat     *(ca)     yuu          klang nork,",Cat    mod   exist   inside.         Cat    MOD    ca       exist   outside.,The cat MAY be inside. The cat MAY also be outside.,
+tha-modal-10,epi-pos-4,Khun   kid    wa     daniel    aat   ca    pai    new york,2.sg     think that    daniel    MOD   ca      go     new york ,Daniel MAY go to New York.,
+tha-modal-10b,epi-pos-4,* Khun   kid    wa     daniel    aat  pai    new york,2.sg     think that    daniel    MOD  go     new york ,Daniel MAY go to New York.,
+tha-modal-10c,epi-pos-4,Khun   kid    wa     daniel    kong   ca    pai    new york,2.sg     think that    daniel    MOD   ca      go     new york ,Daniel MAY go to New York.,"Kong interchangeable, but there remains the register difference."
+tha-modal-11,epi-nnec-1,"Mary naa     ca   yuu     tii      baan,   dae   khao aat      ca   mai    yuu","Mary MOD     ca     exist   LOC  house, but   3sg   MOD  ca   not     exist",she MAY NOT be at home.,
+tha-modal-11b,epi-nnec-1,"* Mary naa    yuu     tii      baan,   dae   khao aat      ca   mai    yuu","Mary MOD    exist   LOC  house, but   3sg   MOD  ca   not     exist",she MAY NOT be at home.,
+tha-modal-11c,epi-nnec-1,# mai dong,MOD,,With mai dong - consultant says that the reading is more along the lines of Mary is not required to be in the house’ (neg > deontic nec)
+tha-modal-12,epi-imp-1,Ben yuu    tii      baan    mai	dai ,Ben exist  LOC  house  NEG  	MOD 			,Ben CAN’T be at home. ,
+tha-modal-12b,epi-imp-1,# Ben harm yuu tii baan,Ben MOD exist loc house,,
+tha-modal-13,epi-imp-2,… mai dai …,MOD,,
+tha-modal-13b,epi-imp-2,*harm ,MOD,,
+tha-modal-14,deo-nec-1,Jambpen [dong] (ca) 	suam 	muakgonok 	,MOD                 CA        wear          helmet ,You MUST wear a helmet.,"A lot more authoritative than ""dong (ca)"""
+tha-modal-14b,deo-nec-1,Dong 	(ca)	suam	 muakgonok ,MOD  	 ca	wear	 helmet,You MUST wear a helmet.,
+tha-modal-15,deo-nec-2,Jampben dong	 oork 	jark   hong 	khonkhai gorn 	   6 moong 	,MOD   		 leave     -       room 	 ___	   before   6 o’clock, Visitors MUST leave by 6pm.,"This is more formal again, as in a rule that could be written or firmly spoken"
+tha-modal-16,deo-wn-1,Chan	 sonkuan    daeng     dour      supaab 	gorn 	pai 	party ,I      	 MOD         dress       body    formal 	ahead 	of 	party,I OUGHT TO wear formal clothes to the party.,
+tha-modal-16b,deo-wn-1,Chan	 kuan	 daeng	 dour…,I        	 MOD 	 dress 	body…,I OUGHT TO wear formal clothes to the party.,
+tha-modal-16c,deo-wn-1,Chan naa ca daeng dour	,I       mod  CA dress body…,I OUGHT TO wear formal clothes to the party.,"Naa not infelicitous, but not the first example to come to mind"
+tha-modal-17,deo-wn-2,Khon 	tii       mai    chay panak-knarn sonkuan laang mer   duay,Person  LOC  NEG  be     employee      MOD     wash  hand also                        ,Non-employees OUGHT TO wash their hands too!,
+tha-modal-17b,deo-wn-2,Khon 	tii       mai      chay   panak-knarn  kuan (ca)   laang    mer     duay,Person  LOC  NEG     be      employee      MOD          wash     hand   also   ,Non-employees OUGHT TO wash their hands too!,
+tha-modal-17c,deo-wn-2,Khon         tii       mai    chay panak-knarn  naa (ca)  laang         mer         duay          ,Person  LOC  NEG  be     employee      MOD      wash  	hand 	also ,Non-employees OUGHT TO wash their hands too!,
+tha-modal-18,deo-wn-3,sonkuan (ca) sai             naa         gark ,MOD 	           ca   put-on  face 	mask ,I OUGHT TO wear a face covering.,
+tha-modal-18b,deo-wn-3,kuan (ca) sai             naa         gark ,MOD 	           ca   put-on  face 	mask ,I OUGHT TO wear a face covering.,
+tha-modal-18c,deo-wn-3,Naa 	(ca)    sai        naa     gark ,MOD 	 ca     put-on  face     mask ,I OUGHT TO wear a face covering.,
+tha-modal-19,deo-pos-1,Martin anuyard       len 	     chingchar 	sawan,Martin permission   play    ferris 	wheel 	   ,Martin MAY ride the ferris wheel.,
+tha-modal-19b,deo-pos-1,Martin	 mii 	anuyard       len      chingchar    	sawan,Marin 	have 	permission    play    ferris           wheel,Martin MAY ride the ferris wheel.,
+tha-modal-19c,deo-pos-1,Martin 	len    chinachar 	sawan 	dai 			,Martin 	play  ferris 	wheel 	MOD 	,Martin MAY ride the ferris wheel.,
+tha-modal-19d,deo-pos-1,#Aat ca ,MOD ca,,
+tha-modal-19e,deo-pos-1,# Kong ca ,MOD ca,,
+tha-modal-20,deo-pos-2,Anuyard      hai     kow     maa    dai,Permission  give   enter    come  MOD,You MAY enter.,formal
+tha-modal-20b,deo-pos-2,Kow  maa   dai,Enter come MOD ,You can come in,(conversational/neutral register)
+tha-modal-21,deo-pos-3,"Pak  tii              nii    dai,        ler    garb     baan      dai. ","Stay LOC  here  MOD,	or     return   home    MOD",You can stay overnight or you can go home.,
+tha-modal-21b,deo-pos-3,"(Anuyard) 	pak    tii       nii      dai,      ler    garb     baan    dai. 	","(Permission)     Stay  LOC   here   MOD, or     return   home  MOD",You can stay overnight or you can go home.,"with anuyard, it is used in a more formal register. For example, you would not say it to a friend"
+tha-modal-21c,deo-pos-3,Aat     ca    pak   tii 	nii 	dai  ,MOD CA  stay   LOC  	here  	MOD,You can stay overnight or you can go home.,
+tha-modal-22,deo-pos-4,Alice         yok         dek         dai ,Alice 	lift 	baby	MOD,Alice CAN lift her baby.,
+tha-modal-22b,deo-pos-4,Alice 	mii    anuyard 	     yok     dek,Alice         has    permission   lift            baby,Alice CAN lift her baby.,
+tha-modal-23,deo-pos-5,Beth mi anuyard pai wainam ,Beth has permission go swim,Beth CAN go swimming.,
+tha-modal-23b,deo-pos-5,Beth wainam dai,Beth swim MOD,Beth CAN go swimming.,
+tha-modal-23c,deo-pos-5,#Beth aat ca pai wainam,,,"[not a permission, but rather not too sure about what the outcome it. May or may not]"
+tha-modal-24,deo-nnec-1,… (chan)   mai  jambpen (dong)   daeng  dour   supbarb,(1.sg)    neg  mod       (mod)     dress   body  formal,‘… I don’t have to wear formal clothes’ ,
+tha-modal-25,deo-nnec-2,… dae 	mai 	jambpen , But         NEG         MOD ,but I DON’T HAVE TO / NEEDN’T.,
+tha-modal-26,deo-imp-1,Key 	motorcai 	mai 	dai 	taa 	mai 	suan 	muakganork,Ride 	motorcycle 	NEG 	can 	if 	neg 	wear 	helmet,You MUST NOT ride a motor bike without a helmet.,
+tha-modal-26b,deo-imp-1,Harm 	       key 	  motacai 	taa 	mai 	suan 	muakganor,Prohibited  ride 	  motorcycle 	if 	NEG 	wear 	helmet,You MUST NOT ride a motor bike without a helmet.,
+tha-modal-26c,deo-imp-1,Mary harm key motacai 	taa 	mai 	suan 	muakganor,,Mary can’t ride a motorbike without a helmet,
+tha-modal-27,deo-imp-2,Yardpubuay            harm          yuu     lang  hok    morng,patient.visitor          prohibited  exist   after  six     o’clock,Visitors are prohibited from staying after 6pm,"Using ‘harm’ is totally fine, and probably the most preferable/natural in the hospital context."
+tha-modal-27b,deo-imp-2,Yardpubuay           yuu   mai  dai      lang   hok  morng,patient.visitor        exist  neg  MOD after   six   o’clock,Visitors can not stay after 6pm,
+tha-modal-27c,deo-imp-2,?Yardpubuay           dong  mai yuu   lang  hok  morng,patient.viisitor      MOD neg exist  after six   o’clock,Visitors must not stay after six o’clock.,mirrors the English and makes sense but is definitely not preferable. 
+tha-modal-28,tel-nec-1,Khun 	jambpen 	dong 	chay 	tanon 	sai 	nii,2.SG         MOD              MOD         use         road         CL         DET,you HAVE TO take this road.,
+tha-modal-29,tel-nec-2,Team A jambpen dong        cha-na        | tow nan,Team A MOD 	      MOD	win	| ‘by any means necessary’,Team A HAS TO beat Team B.,
+tha-modal-29b,tel-nec-2,Team A  dong        cha-na        | tow nan,Team A   MOD        win        | ‘by any means necessary’,Team A HAS TO beat Team B.,
+tha-modal-29c,tel-nec-2,Team A  jambpen dong   cha-na    hai           dai,Team A MOD         MOD   win        give  MOD,Team A HAS TO beat Team B.,
+tha-modal-29d,tel-nec-2,Team A   dong   cha-na    hai           dai,Team A  MOD   win        give  MOD,Team A HAS TO beat Team B.,
+tha-modal-30,tel-nec-3,Lao jambpen dong         sang         pizza         tii         laan         gino,3.PL MOD 	MOD	order 	pizza 	LOC 	shop 	gino ,We HAVE TO order from Gino’s to eat the best pizza.,
+tha-modal-30b,tel-nec-3,Lao dong         sang         pizza         tii         laan         gino,3.PL MOD        order         pizza         LOC         shop         gino ,We HAVE TO order from Gino’s to eat the best pizza.,
+tha-modal-31,tel-wn-1,kuan 	 nang 	lod 	bus ,Should  sit  	car 	bus  ,you SHOULD take the bus.,
+tha-modal-31b,tel-wn-1,(sonkuan 	nang 	lod 	bus)    ,(Should  	sit  	car 	bus),you SHOULD take the bus.,
+tha-modal-32,tel-wn-2,Kuan 	pai 	taang 	lek ,Mod         go         route         small ,you SHOULD go via the smaller roads.,
+tha-modal-32b,tel-wn-2,(Sonkuan   pai 	taang 	lek),(MOD        go 	route 	small),you SHOULD go via the smaller roads.,
+tha-modal-33,tel-wn-3,Khun 	kuan 	maa 	lan 	chan,2.SG 	MOD	come 	shop 	1.SG,You SHOULD come to my shop.,
+tha-modal-33b,tel-wn-3,Khun 	kuan (ca)   maa    lan 	chan,2.SG 	MOD CA   come  shop 	1.SG,You SHOULD come to my shop.,
+tha-modal-34,tel-pos-1,Pai 	taang 	1	dai,Go 	route 	1 	mod ,You CAN take way 1.,
+tha-modal-34b,tel-pos-1,Saamaat 	pai 	taang 	1 	(dai),Ability.mod 	go 	route 	1 	MOD,You CAN take way 1.,
+tha-modal-34c,tel-pos-1,#anuyard,MOD,,
+tha-modal-35,tel-pos-2,Dai,MOD,,
+tha-modal-35b,tel-pos-2,Saamat,MOD,,
+tha-modal-36,tel-pos-3,Dai,MOD,,
+tha-modal-36b,tel-pos-3,Saamat,MOD,,
+tha-modal-37,tel-nnec-1,… dae gor 	mai 	dong 	jambpen, But also? 	NEG 	MOD	MOD,you DON’T NEED TO / NEEDN’T do so.,
+tha-modal-37b,tel-nnec-1,… dae 	gor 	mai 	jambpen,But 	also?	Neg 	MOD,you DON’T NEED TO / NEEDN’T do so.,
+tha-modal-37c,tel-nnec-1,… dae 	gor 	mai 	dong ,But 	also? 	NEG	MOD,you DON’T NEED TO / NEEDN’T do so.,
+tha-modal-38,tel-imp-1,Mai saamart chay tanon anern,NEG mod use road another,you CAN’T take another road.,
+tha-modal-38b,tel-imp-1,Chay 	tanon 	anern 	mai 	dai,Use 	road 	another 	NEG	MOD,you CAN’T take another road.,
+tha-modal-38c,tel-imp-1,Saamaat    chay 	tanon  	anern 	  mai 	dai,MOD 	      use		road	another	  NEG	MOD	 ,you CAN’T take another road.,"If ambiguity is raised, then this one is used"
+tha-modal-38d,tel-imp-1,# Harm chay tanon anern,MOD use road another,,
+tha-modal-39,tel-imp-2,Team A    harm        pae    dae  kart,Team A    must-not  lose   by   any-means-necessary ,Team A CAN’T lose to Team B.,Harm here seems to be exaggerated. You are supporting a team and you are putting obligation to the team. 
+tha-modal-39b,tel-imp-2,Team A    pae 	mai 	dai ,Team A    lose 	NEG	MOD,Team A CAN’T lose to Team B.,
+tha-modal-40,cir-nec-1,Chan dong   pai shee,1SG  MOD  go  pee,I HAVE to pee so badly!,
+tha-modal-40b,cir-nec-1,Chan dong CA pai shee ,1sg   MOD CA go  pee,I HAVE to pee so badly!,
+tha-modal-41,cir-nec-2,"Kor      tood,    chan dong   jaam","Excuse me,      1SG  MOD   sneeze",Excuse me! I HAVE to sneeze.,
+tha-modal-41b,cir-nec-2,"Kor      tood,    chan jampben dong   jaam","Excuse me,      1SG  MOD MOD   sneeze",Excuse me! I HAVE to sneeze.,Jampben dong also possible - justifiable after the excuse me
+tha-modal-42,cir-nec-3,Nam   dong lai     maa   tang        kwa,Water  MOD flow come direction right,the water must come out from the right output. ,
+tha-modal-42b,cir-nec-3,Nam   dong CA lai     maa   tang        kwa,Water  MOD CA flow come direction right,the water must come out from the right output. ,Ca can be used as some sort of prediction. If the waters already flowing - perhaps as some sort of discourse marker like ‘obviously’
+tha-modal-42c,cir-nec-3,Nam   jampben dong lai     maa   tang        kwa,Water  MOD MOD flow come direction right,the water must come out from the right output. ,
+tha-modal-43,cir-pos-1,bork    don         duku         dai,grow    tree         duku      MOD,duku trees CAN grow here.,DAI on its own - ambiguity: deontic versus circumstantial
+tha-modal-43b,cir-pos-1,Saamaat  bork    don         duku         dai,Ability               grow    tree         duku       MOD,duku trees CAN grow here.,saamaat could come and disambiguate 
+tha-modal-44,cir-pos-2,Saamaat   tam 	ahaan 	pajamchard 	italy 	dai,Ability 	     do 	food 	traditional      	italy 	can(mod),,
+tha-modal-45,cir-pos-3,saamaat,MOD,,
+tha-modal-45b,cir-pos-3,dai,MOD,,
+tha-modal-45c,cir-pos-3,saamaat + dai,MOD MOD,,
+tha-modal-46,cir-pos-4,saamaat,MOD,,
+tha-modal-46b,cir-pos-4,dai,MOD,,
+tha-modal-46c,cir-pos-4,saamaat + dai,MOD MOD,,
+tha-modal-47,cir-pos-5,saamaat … dai,MOD MOD,,
+tha-modal-48,cir-nnec-1,Aat    ca      labert   dae    mai          nae         jai…,Might CA    erupt    but    not 	(to be) 	certain,it is LIKELY BUT NOT CERTAIN that it will erupt.,Ca will just solidify the future reading hosted by adverbial ‘in the next 5 years’
+tha-modal-48b,cir-nnec-1,Aat ca dae mai jampben dong,Might CA but not MOD MOD,"‘It might explode, but it doesn’t have to…’ ",could be interpreted as some sort of epistemic 
+tha-modal-48c,cir-nnec-1,Aat ca dae mai dong,Might CA but not MOD,"‘It might explode, but it doesn’t have to…’ ",
+tha-modal-49,cir-nnec-3,Mai dong   khao  hongnam,Neg + mod enter  toilet ,I don’t HAVE TO go to the loo,
+tha-modal-50,cir-imp-1,Mai 	samaat    yud 	jarm 	dai,Neg 	ability      stop 	sneeze 	mod,I CAN’T help sneezing! ,
+tha-modal-50b,cir-imp-1,yud jarm mai dai - ,stop sneeze MOD MOD,I CAN’T help sneezing! ,
+tha-modal-50c,cir-imp-1,#harm,,,
+tha-modal-51,cir-imp-2,Nam mai samart lai tang sai              dai,Water neg ability flow direction left MOD, the water CAN’T come out from the left output. ,
+tha-modal-51b,cir-imp-2,Man lai tang sai mai dai,, the water CAN’T come out from the left output. ,
+tha-modal-52,bou-nec-1,Yark ser grapao -,Want buy bag,I WANT TO buy it.,> want
+tha-modal-52b,bou-nec-1,Dong ser grapao -,MOD buy bag,I WANT/NEED TO buy it.,> ‘more need like’ 
+tha-modal-53,bou-nec-2,Yark pai loongnang,Want go cinema,I WANT to go to the cinema.,
+tha-modal-54,bou-nec-3,Puen yark maa har chan,Friend want come visit me,My friend WANTS to come visit me.,
