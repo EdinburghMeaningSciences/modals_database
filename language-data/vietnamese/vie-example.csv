@@ -1,0 +1,105 @@
+ref,context,words,gloss,translation,comment
+vie-modal-1,epi-nec-1,Ben 	CHẮC.HẲN 	(là) 	đang	bơi,Ben 	MOD 		be/COM 	PROG 	swim,Ben must be swimming (right now). ,
+vie-modal-2,epi-nec-2,John chắc.hẳn         (là)         đang         ở        trường,John MOD 	be 	PROG 	LOC 	school,John must be at school.,
+vie-modal-2b,epi-nec-2,John chắc.chắn (là) đang ở trường,John MOD 	be 	PROG 	LOC 	school,John must be at school.,
+vie-modal-2c,epi-nec-2,John chắc.chắn (là)         đang         ở         trường,John MOD 	be 	PROG 	LOC 	school,"John must be at school.
+","Comment from consultant: this one (chắc.chắn) is stronger. 
+Comment from RA: exhaustive/logical conclusion? "
+vie-modal-3,epi-nec-3,Chắc chắn phải (là),MOD MOD MOD COP/COM,,
+vie-modal-3b,epi-nec-3,Ẳt phải (là),MOD MOD COP/COM,,
+vie-modal-3c,epi-nec-3,Quả bóng chắc chắn phải (là)  ở C,CLF        ball        MOD        MOD        COP/COM        in        C,The ball must be in C,
+vie-modal-3d,epi-nec-3,Quả bóng ắt  phải (là)  ở C,CLF        ball        MOD        MOD        COP/COM        in        C,The ball must be in C,
+vie-modal-4,epi-nec-4,Con         chó         chắc.hẳn         (là)                không         ở         trong         nhà,CLF         dog         MOD                 COP/COM        NEG         LOC         in        house,the dog must not be in the house.,
+vie-modal-5,epi-wn-1,Ann có                 lẽ         (là)                 đang         ở         hồ,Ann there.is         MOD         COP/COM        PROG         LOC         lake,Ann should be at the lake right now. ,
+vie-modal-5b,epi-wn-1,Ann  chắc         là                đang         ở         hồ,Ann  MOD         COP/COM        PROG         LOC         lake,Ann should be at the lake right now. ,
+vie-modal-5c,epi-wn-1,# CHẮC.HẲN,MOD,,
+vie-modal-6,epi-wn-2,Trời         có         lẽ         (là)   đang         mưa         ở         Goa,sky         there.is MOD         COP/COM         PROG         rain         LOC         Goa,it should be raining now in Goa.,
+vie-modal-6b,epi-wn-2,Trời        chắc        là                đang         mưa         ở         Goa,sky         MOD        COP/COM        PROG         rain         LOC         Goa,it should be raining now in Goa.,
+vie-modal-6c,epi-wn-2,# CHẮC.HẲN,,,
+vie-modal-7,epi-wn-3,"Mary có 	lẽ 	(là)		đang 	ở	nhà, nhưng tôi không chắc","Mary there.is 	MOD 	COP/COM	PROG  LOC 	home, …",Mary should be at home,MOD lẽ translatable as probability
+vie-modal-7b,epi-wn-3,"Mary có 	thể 	(là)		đang 	ở 	nhà, ...",Mary there.is 	MOD 	COP/COM	PROG 	LOC 	home,Mary should be at home,MOD thể translatable as possibility
+vie-modal-8,epi-pos-1,Anh.ấy 	có 	thể 	(là)		sẽ 	đến 	trường 	hôm.nay,he 	there.is MOD 	COP/COM	FUT 	come 	school 	today,He might come to school today.,
+vie-modal-8b,epi-pos-1,# Anh.ấy 	có 	lẽ 	(là)		sẽ 	đến 	trường 	hôm.nay, he                 there.is MOD         COP/COM        FUT         come         school         today,,
+vie-modal-9,epi-pos-2,Vòng.cổ 	của 	Grace 	có.lẽ 	(là)		đã 		bị 	mất,Necklace 	of 	Grace 	MOD 	COP/COM	PST/PFV 	PASS 	lose,Grace’s necklace might be lost. ,
+vie-modal-10,epi-pos-3,Con        mèo        có.thể        (là)               ở        trong.        Nó        cũng        có.thể        (là)                ở         ngoài,CLF	cat	 MOD	COP/COM LOC inside	3SG	also	MOD	COP/COM     LOC	outside,The cat may be inside. The cat may also be outside.,
+vie-modal-10b,epi-pos-3,* Con        mèo        có lẽ        (là)               ở        trong.        Nó        cũng        có.thể        (là)                ở         ngoài,CLF        cat     there.is MOD  COP/COM LOC inside        3SG        also        MOD        COP/COM     LOC        outside,,
+vie-modal-11,epi-pos-4,Daniel	có thể  (là)		(sẽ)	đi	New York,Daniel	MOD	COP/COM	FUT	go	New York,Daniel might go to New York.,
+vie-modal-12,epi-nnec-1,Có.thể 	(là)		không 	ở 	nhà,MOD 	COP/COM	NEG 	LOC 	home,she may not be at home,
+vie-modal-13,epi-imp-1,Chắc.chắn  	(là)		không 	ở 	nhà = không thể ở nhà vào giờ này,MOD		COP/COM	NEG	LOC	home ,Ben must not be // can't be at home. ,"Chắc hẳn    = must not be	
+Chắc chắn  = can’t"
+vie-modal-14,epi-imp-2,Chắc.chắn 	(là)		không 	ở 	trong 	hộp 	C,MOD 		COP/COM	NEG 	LOC 	in 	box 	C,it can't be in C. ,
+vie-modal-14b,epi-imp-2,Không 	thể 	(nào)		ở 	trong 	hộp 	C,NEG 	MOD 	which/any	LOC 	in 	box 	C,it can't be in C. ,
+vie-modal-15,deo-nec-1,Bạn         phải    đội         mũ.bảo.hiểm,PRON         MOD    wear         helmet,You must wear a helmet.,
+vie-modal-15b,deo-nec-1,Bạn       buộc                phải                 đội         mũ.bảo.hiểm,PRON        obligatorily         MOD                wear         helmet,You must wear a helmet.,
+vie-modal-15c,deo-nec-1,# can phai,,,this is infelicitous because it is in between should and must
+vie-modal-16,deo-nec-2,Khách.thăm 	phải 	ra.về 	   trước 	 6h.tối,visitors 	MOD 	go.home  before 6pm,Visitors must leave by 6pm.,
+vie-modal-17,deo-wn-1,Tôi 	cần.phải 	mặc 	quần.áo 	nghiêm.trang 	khi 	đến 	dự.tiệc,I 	MOD 		wear 	clothes 		formal 		when 	come 	party,I ought to wear formal clothes to the party.,with phai it is a rule that you may or may not agree with. can.phai is something you agree with
+vie-modal-17b,deo-wn-1,Tôi 	$nên 	mặc 	quần.áo 	nghiêm.trang 	khi 	đến 	dự.tiệc,I 	MOD 	wear 	clothes 		formal 		when 	come 	party,I ought to wear formal clothes to the party.,preferred
+vie-modal-18,deo-wn-2,Những 	người 	không.phải 	nhân.viên 	cũng 	cần.phải 	rửa 	tay!,PL         CLF         NP.NEG         worker                 also         MOD                wash         hands,Non-employees ought to wash their hands too!,
+vie-modal-18b,deo-wn-2,Những         người         không.phải         nhân.viên         cũng       $nên                rửa         tay!,PL         CLF         NP.NEG         worker                 also       ]MOD                wash         hands,Non-employees ought to wash their hands too!,preferred
+vie-modal-19,deo-wn-3,Tôi         cần.phải         đeo         khẩu.trang,I       MOD                 wear        mask,I ought to wear a mask.,
+vie-modal-19b,deo-wn-3,Tôi         $nên         đeo         khẩu.trang,I       MOD                 wear        mask,I ought to wear a mask.,preferred
+vie-modal-20,deo-pos-1,Martin         có thể         được  chơi         đu.quay,Martin         MOD        MOD         play         wheel.ride,Martin may ride the ferris wheel.,
+vie-modal-20b,deo-pos-1,Martin        được         chơi         đu.quay,Martin        MOD         play         wheel.ride,Martin may ride the ferris wheel.,Consultant comments after a reflection on the distribution: duoc.phep is more about legal permissions etc. whereas duoc is more general. 
+vie-modal-20c,deo-pos-1,Martin 	được.phép 	chơi 	đu.quay,Martin 	MOD 		play 	wheel.ride,Martin may ride the ferris wheel.,Consultant comments after a reflection on the distribution: duoc.phep is more about legal permissions etc. whereas duoc is more general. 
+vie-modal-21,deo-pos-2,Bạn         có.thể        được         vào,PRON         MOD         MOD2         enter,You may enter.,
+vie-modal-21b,deo-pos-2,Bạn        được         vào,PRON         MOD2         enter,You may enter.,
+vie-modal-21c,deo-pos-2,Bạn	có thể		vào	được,PRO	MOD		enter	MOD,You may enter.,
+vie-modal-22,deo-pos-6,Bạn có.thể vào thăm lúc 6h,You MOD enter visit at 6h,You will be allowed to enter at 6pm.,deontic
+vie-modal-22b,deo-pos-6,# Bạn có thể sẽ vào thăm lúc 6h,,“I guess that you will enter …”,
+vie-modal-22c,deo-pos-6,Bạn được phép vào thăm lúc 6h,You MOD permission enter visit at 6h,You will be allowed to enter at 6pm.,strictly deontic
+vie-modal-23,deo-pos-3,Bạn 	 có.thể 	ngủ.lại 		hoặc 	bạn 	có.thể 	về 	nhà,PRON	 MOD 	sleep.over 	or 	PRON 	MOD 	return	 home,You can stay overnight or you can also go home.,
+vie-modal-23b,deo-pos-3,Bạn được  ngủ.lại  hoặc  bạn có thể về nhà,PRON         MOD         sleep.over  or 	PRON 	MOD 	return	 home,You can stay overnight or you can also go home.,
+vie-modal-24,deo-pos-4,Alice         được.phép     bế         em.bé,Alice        MOD             lift         baby,Alice can lift her baby.,Được.phép = is.permitted
+vie-modal-24b,deo-pos-4,Alice        có        thể                 bế         em.bé,Alice        MOD             lift         baby,Alice can lift her baby.,
+vie-modal-25,deo-pos-5,Beth         được.phép   bơi,Beth         MOD      swim,Beth is ALLOWED/PERMITTED to go swimming,Được.phép = is.permitted
+vie-modal-25b,deo-pos-5,Beth        có thể   được                 bơi,Beth     MOD        MOD                swim,Beth is ALLOWED/PERMITTED to go swimming,
+vie-modal-26,deo-nnec-1,Tôi         không         cần      phải         mặc         quần.áo trang.trọng,I         NEG         MOD        MOD         wear         clothes         formal,I don't have to wear formal clothes.,
+vie-modal-26b,deo-nnec-1,Tôi         không       phải         mặc         quần.áo trang.trọng,I         NEG        MOD         wear         clothes         formal,I don't have to wear formal clothes.,
+vie-modal-27,deo-nnec-2,Tôi         không         cần        phải         đeo         khẩu.trang,I 	NEG 	MOD	MOD 	wear 	mask,I don’t have to / needn’t wear a face covering.,
+vie-modal-27b,deo-nnec-2,Tôi         không      phải         đeo         khẩu.trang,I         NEG       MOD         wear         mask,I don’t have to / needn’t wear a face covering.,
+vie-modal-28,deo-imp-1,Bạn         không         được.phép         lái                 xe.máy                 mà        không         đội         mũ.bảo.hiểm,PRON 	NEG 	MOD 		ride/drive 	motorbike 	COMP 	NEG 	wear 	helmet ,You may not ride a motorbike without a helmet. ,
+vie-modal-29,deo-imp-2,Khách.thăm 	không 	được 	ở.lại 	sau 	6h.tối,Visitors         NEG         MOD         stay         after         6pm,Visitors mustn’t stay after 6pm.,
+vie-modal-30,tel-nec-1,Bạn         cần.phải         đi         đường         này,PRON 	MOD		go 	road 	this,you have to take this road.,
+vie-modal-30b,tel-nec-1,Bạn         phải         đi         đường         này,PRON 	MOD		go 	road 	this,you have to take this road.,
+vie-modal-31,tel-nec-2,cần.phải,MOD,,
+vie-modal-31b,tel-nec-2,phải,MOD,,
+vie-modal-32,tel-nec-3,Chúng.ta         cần.phải         đặt.hàng         từ         Gino’s,we.INCL 	MOD 		order 		from 	Gino's,We have to order from Gino’s,
+vie-modal-32b,tel-nec-3,Chúng.ta         phải         đặt.hàng         từ         Gino’s,we.INCL 	MOD 		order 		from 	Gino's,We have to order from Gino’s,
+vie-modal-33,tel-wn-1,Bạn 	nên 	đi 	xe.buýt,PRON 	MOD 	go 	bus,you should take the bus. ,
+vie-modal-33b,tel-wn-1,# cần.phải,MOD,,
+vie-modal-34,tel-wn-2,Bạn 	nên 	đi 	đường 	nhỏ,PRON 	MOD 	go 	road 	small,you should go via the smaller roads. ,
+vie-modal-35,tel-wn-3,Bạn 	nên 	đến 	cửa.hàng	của 	tôi,PRON	MOD 	come 	shop 		of 	1SG,You should go to my shop ,
+vie-modal-36,tel-pos-1,Bạn 	có.thể 	đi 	đường 	số 	1,PRON 	MOD 	go 	road	no. 	1,You can take way 1.,
+vie-modal-37,tel-pos-2,Có thể,MOD,,
+vie-modal-38,tel-pos-3,Có thể,MOD,,
+vie-modal-39,tel-nnec-1,Bạn 	không 	cần.phải 	đi 	xe.buýt,PRON 	NEG 	MOD 		go 	bus,you don't have to take the bus.,
+vie-modal-40,tel-imp-1,Bạn 	không 	thể 	đi 	đường 	khác,PRON 	NEG 	MOD 	go 	road 	different,you can’t take another road.,
+vie-modal-41,tel-imp-2,Đội 	A 	không 	thể 	thua 	đội 	B,Team         A         NEG         MOD         lose.to         team         B,Team A can’t lose to Team B.,
+vie-modal-42,cir-nec-1,Tôi         cần.phải         đi         vệ.sinh. ,I 	MOD 		go 	toilet,I have to pee!,slightly preferred
+vie-modal-42b,cir-nec-1,Tôi         phải         đi         vệ.sinh. ,I 	MOD 		go 	toilet,I have to pee!,
+vie-modal-43,cir-nec-2,Tôi 	cần.phải 	hát.xì 	hơi,I 	MOD 		sneeze 	breathe,I have to sneeze.,slightly preferred
+vie-modal-43b,cir-nec-2,Tôi        phải         hát.xì         hơi,I         MOD                 sneeze         breathe,I have to sneeze.,
+vie-modal-44,cir-nec-3,Nước         chắc.hẳn     chảy         ra         từ         ống         bên         phải,ater         MOD        flow         out         from         pipe         side         right,the water must come out from the right output. ,"phai here in this example is not modal word; homophone/polysemous root meaning ""right side"""
+vie-modal-44b,cir-nec-3,Nước       ắt.phải         chảy         ra         từ         ống         bên         phải,ater         MOD                flow         out         from         pipe         side         right,the water must come out from the right output. ,"phai here in this example is not modal word; homophone/polysemous root meaning ""right side"""
+vie-modal-45,cir-pos-1,Cây 	duku 	có.thể 	sinh.trưởng 	ở.đây,tree 	duku 	MOD 	grow 		here ,duku trees can grow here.,
+vie-modal-46,cir-pos-2,Amy 	có.thể 	nấu 	mỳ.Ý 		truyền.thống,Amy 	MOD 	cook 	Italian.pasta 	traditional,Amy can make traditional Italian pasta,
+vie-modal-47,cir-pos-3,Hiện.tại Ben         có.thể         đi         lại                được ,now         Ben         MOD         walk         again                MOD,"Ben can (is able to, but not allowed to) walk now.",
+vie-modal-47b,cir-pos-3,Hiện.tại Ben         có.thể         đi         lại   ,now         Ben         MOD         walk         again ,"Ben can (is able to, but not allowed to) walk now.",
+vie-modal-48,cir-pos-4,Paul 	có.thể 	nâng 	hòn 	đá 	đó	(được),Paul 	MOD 	lift 	CLF 	rock 	DEM	MOD,Paul can lift that rock.,
+vie-modal-49,cir-pos-5,Chiếc         xe         du.lịch         có.thể         chở         được        20         người,CLF         vehicle         tourist         MOD         conduct MOD        20         people,Travel vans can fit 20 people.,
+vie-modal-49b,cir-pos-5,Chiếc         xe         du.lịch         có.thể         chở     20         người,CLF         vehicle         tourist         MOD         conduct    20         people,Travel vans can fit 20 people.,
+vie-modal-49c,cir-pos-5,Chiếc 	xe 	du.lịch 	chứa 	được 	20 	người,CLF	vehicle	tourist	usher	MOD	20	people,Travel vans can fit 20 people.,
+vie-modal-50,cir-nnec-1,Có.thể 	nhưng 	không 	chắc.chắn 	rằng 	ngọn 	núi.lửa 	sẽ 	phun.trào  trong  5 năm  tới,MOD 	but 	NEG 	MOD 		COMP 	CLF 	volcano FUT	erupt 	within    5 years ahead,it is likely but not certain that it will erupt in the next 5 years. ,
+vie-modal-51,cir-imp-1,Tôi 	không 	thể 	không 	hắt.hơi!,I 	NEG 	MOD 	NEG 	sneeze,I can’t help sneezing! ,
+vie-modal-51b,cir-imp-1,Tôi 	sẽ 	hắt.hơi!,I 	FUT 	sneeze,I can’t help sneezing! ,
+vie-modal-52,cir-imp-2,Nước 	không 	thể 	chảy 	ra 	từ 	ống 	bên 	trái,water 	NEG 	MOD 	flow 	out 	from	pipe 	side 	left,the water can’t come out from the left output. ,
+vie-modal-53,cir-imp-5,Hiện.tại 	Paul 	không 	thể 	đi.bộ,currently 	Paul 	NEG 	MOD 	go.on.foot,Paul can’t walk now,
+vie-modal-54,bou-nec-1,Tôi 	muốn 	mua 	chiếc 	túi 	đó,I 	want 	buy 	CLF	bag 	that,I want  to buy ,
+vie-modal-54b,bou-nec-1,Tôi         cần.phải        mua         chiếc         túi         đó,I         MOD                 buy         CLF         bag         that,I want / need to buy ,
+vie-modal-54c,bou-nec-1,Tôi         phải        mua         chiếc         túi         đó,I         MOD                 buy         CLF         bag         that,I want / need to buy ,
+vie-modal-54d,bou-nec-1,Tôi	cần	mua	chiếc	túi	đó,I        MOD        buy        CLF        bag        that,I want / need to buy ,
+vie-modal-55,bou-nec-2,Tôi 	muốn 	đi.xem.phim,I 	want 	go.to.the.movies,I want to go to the cinema.,
+vie-modal-55b,bou-nec-2,# cần phải,MOD,,
+vie-modal-56,bou-nec-3,muốn,want,,
+vie-modal-56b,bou-nec-3,# cần phải,MOD,,
