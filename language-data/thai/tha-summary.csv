@@ -239,9 +239,9 @@ saamaat... dai,weak,teleological,?,,negative,high,mai saamaat... dai,negation on
 saamaat... dai,strong,circumstantial,?,,negative,high,mai saamaat... dai,negation on modal verb
 saamaat... dai,weak,circumstantial,1,"tha-modal-evid50, tha-modal-evid51",negative,high,mai saamaat... dai,negation on modal verb
 saamaat... dai,strong,bouletic,?,,negative,high,mai saamaat... dai,negation on modal verb
-Harm,strong,epistemic,0,"tha-modal-evid12b, tha-modal-evid13b",negative,no,harm,
+Harm,strong,epistemic,?,,negative,no,harm,
 Harm,weak necessity,epistemic,?,,negative,no,harm,
-Harm,weak,epistemic,?,,negative,no,harm,
+Harm,weak,epistemic,0,"tha-modal-evid12b, tha-modal-evid13b",negative,no,harm,
 Harm,strong,deontic,?,,negative,no,harm,
 Harm,weak necessity,deontic,?,,negative,no,harm,
 Harm,weak,deontic,1,"tha-modal-evid26b, tha-modal-evid27",negative,no,harm,
@@ -251,9 +251,9 @@ Harm,weak,teleological,1,tha-modal-evid39,negative,no,harm,
 Harm,strong,circumstantial,?,,negative,no,harm,
 Harm,weak,circumstantial,0,tha-modal-evid50c,negative,no,harm,
 Harm,strong,bouletic,?,,negative,no,harm,
-Aat ca,strong,epistemic,?,,negative,low,Aat ca + NEG (mai) ,negation on main verb
+Aat ca,strong,epistemic,1,tha-modal-evid11,negative,low,Aat ca + NEG (mai) ,negation on main verb
 Aat ca,weak necessity,epistemic,?,,negative,low,Aat ca + NEG (mai) ,negation on main verb
-Aat ca,weak,epistemic,1,tha-modal-evid11,negative,low,Aat ca + NEG (mai) ,negation on main verb
+Aat ca,weak,epistemic,?,,negative,low,Aat ca + NEG (mai) ,negation on main verb
 Aat ca,strong,deontic,?,,negative,low,Aat ca + NEG (mai) ,negation on main verb
 Aat ca,weak necessity,deontic,?,,negative,low,Aat ca + NEG (mai) ,negation on main verb
 Aat ca,weak,deontic,?,,negative,low,Aat ca + NEG (mai) ,negation on main verb
@@ -290,9 +290,9 @@ Jambpen dong,strong,bouletic,?,,negative,high,Mai jambpen dong,
 Dong,strong,epistemic,0,tha-modal-evid11c,negative,high,Mai dong,
 Dong,weak necessity,epistemic,?,,negative,high,Mai dong,
 Dong,weak,epistemic,?,,negative,high,Mai dong,
-Dong,strong,deontic,1,tha-modal-evid27c,negative,low,dong mai,
+Dong,strong,deontic,?,,negative,high,Mai dong,
 Dong,weak necessity,deontic,?,,negative,high,Mai dong,
-Dong,weak,deontic,?,,negative,high,Mai dong,
+Dong,weak,deontic,1,tha-modal-evid27c,negative,low,dong mai,
 Dong,strong,teleological,1,tha-modal-evid37c,negative,high,Mai dong,
 Dong,weak necessity,teleological,?,,negative,high,Mai dong,
 Dong,weak,teleological,?,,negative,high,Mai dong,
