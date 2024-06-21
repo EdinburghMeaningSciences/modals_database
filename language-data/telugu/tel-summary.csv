@@ -59,9 +59,9 @@ v-gala,weak,teleological,?,,positive,no,v-gala,verbal suffix
 v-gala,strong,circumstantial,?,,positive,no,v-gala,verbal suffix
 v-gala,weak,circumstantial,1,"tel-modal-evid44b, tel-modal-evid45, tel-modal-evid45b, tel-modal-evid46, tel-modal-evid47, tel-modal-evid48",positive,no,v-gala,verbal suffix
 v-gala,strong,bouletic,?,,positive,no,v-gala,verbal suffix
-V-ccu,strong,epistemic,?,,negative,yes,V-NEG-ccu,
+V-ccu,strong,epistemic,1,tel-modal-evid12,negative,yes,V-NEG-ccu,
 V-ccu,weak necessity,epistemic,?,,negative,yes,V-NEG-ccu,
-V-ccu,weak,epistemic,1,tel-modal-evid12,negative,yes,V-NEG-ccu,
+V-ccu,weak,epistemic,?,,negative,yes,V-NEG-ccu,
 V-ccu,strong,deontic,?,,negative,yes,V-NEG-ccu,
 V-ccu,weak necessity,deontic,?,,negative,yes,V-NEG-ccu,
 V-ccu,weak,deontic,?,,negative,yes,V-NEG-ccu,
